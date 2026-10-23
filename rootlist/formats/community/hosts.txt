@@ -1,4 +1,4 @@
-# Destroylist - Community | hosts | 1,141,779 domains | 2026-10-23 14:40 UTC
+# Destroylist - Community | hosts | 1,141,933 domains | 2026-10-23 19:48 UTC
 # https://github.com/phishdestroy/destroylist
 
 0.0.0.0 0-0.coinbase-com.info
@@ -2938,6 +2938,7 @@
 0.0.0.0 10-governance-kinetiq.pages.dev
 0.0.0.0 10-governance-netnetcap.pages.dev
 0.0.0.0 10-governance-papertradexyz.pages.dev
+0.0.0.0 10-governance-zama.pages.dev
 0.0.0.0 10-hyperlinkapp-86x.pages.dev
 0.0.0.0 10-hyperlinkxyz-e79.pages.dev
 0.0.0.0 10-kinetiqgov.pages.dev
@@ -3617,6 +3618,7 @@
 0.0.0.0 11-proposal-prjx.pages.dev
 0.0.0.0 11-proposal-saturncredit.pages.dev
 0.0.0.0 11-proposal-synthra.pages.dev
+0.0.0.0 11-proposal-torchpadfun.pages.dev
 0.0.0.0 11-proposal-zama.pages.dev
 0.0.0.0 11-proposals-papertrade.pages.dev
 0.0.0.0 11-ramses-events.pages.dev
@@ -4049,6 +4051,7 @@
 0.0.0.0 12-proposal-loanmeme.pages.dev
 0.0.0.0 12-proposal-paperstrategy.pages.dev
 0.0.0.0 12-proposal-papertrade.pages.dev
+0.0.0.0 12-proposal-ponsfamily.pages.dev
 0.0.0.0 12-proposal-prjx.pages.dev
 0.0.0.0 12-proposal-saturncredit.pages.dev
 0.0.0.0 12-proposal-synthra.pages.dev
@@ -4894,6 +4897,7 @@
 0.0.0.0 14-fluidio.pages.dev
 0.0.0.0 14-gov-argus.pages.dev
 0.0.0.0 14-gov-concrete.pages.dev
+0.0.0.0 14-gov-netnetcap.pages.dev
 0.0.0.0 14-gov-papertrade.pages.dev
 0.0.0.0 14-gov-ponsfamily.pages.dev
 0.0.0.0 14-gov-ramses.pages.dev
@@ -4920,6 +4924,7 @@
 0.0.0.0 14-proposal-globaldollar.pages.dev
 0.0.0.0 14-proposal-jumper.pages.dev
 0.0.0.0 14-proposal-loanmeme.pages.dev
+0.0.0.0 14-proposal-paperstrategy.pages.dev
 0.0.0.0 14-proposal-papertrade.pages.dev
 0.0.0.0 14-proposal-prjx.pages.dev
 0.0.0.0 14-proposal-saturncredit.pages.dev
@@ -5316,6 +5321,7 @@
 0.0.0.0 15-fluidio.pages.dev
 0.0.0.0 15-gov-argus.pages.dev
 0.0.0.0 15-gov-concrete.pages.dev
+0.0.0.0 15-gov-netnetcap.pages.dev
 0.0.0.0 15-gov-papertrade.pages.dev
 0.0.0.0 15-gov-ponsfamily.pages.dev
 0.0.0.0 15-gov-ramses.pages.dev
@@ -5586,6 +5592,7 @@
 0.0.0.0 158-158-8-83.cprapid.com
 0.0.0.0 158-allowlist-ascendlaunch.pages.dev
 0.0.0.0 158-reallocate-flare.pages.dev
+0.0.0.0 158-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 1581932-coinbase.com
 0.0.0.0 15820.xyz
 0.0.0.0 15822.xyz
@@ -5633,6 +5640,7 @@
 0.0.0.0 159-69-180-81.plesk.page
 0.0.0.0 159-allowlist-ascendlaunch.pages.dev
 0.0.0.0 159-reallocate-flare.pages.dev
+0.0.0.0 159-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 159-us-com.phantom-virtual-tap.com
 0.0.0.0 15904.xyz
 0.0.0.0 15908.xyz
@@ -5715,6 +5723,7 @@
 0.0.0.0 16-predeposit-papertrade.pages.dev
 0.0.0.0 16-predictfun.pages.dev
 0.0.0.0 16-proposal-3jane.pages.dev
+0.0.0.0 16-proposal-apyxfi.pages.dev
 0.0.0.0 16-proposal-argus.pages.dev
 0.0.0.0 16-proposal-computersrh.pages.dev
 0.0.0.0 16-proposal-derive.pages.dev
@@ -5746,6 +5755,7 @@
 0.0.0.0 16.metamask-app.com
 0.0.0.0 160-allowlist-ascendlaunch.pages.dev
 0.0.0.0 160-reallocate-flare.pages.dev
+0.0.0.0 160-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 160056.com
 0.0.0.0 16010.xyz
 0.0.0.0 16014.xyz
@@ -6351,6 +6361,7 @@
 0.0.0.0 17-scotiabank.com
 0.0.0.0 17-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 17-tge-extended.pages.dev
+0.0.0.0 17-usefelix.pages.dev
 0.0.0.0 17-venice.pages.dev
 0.0.0.0 17-vote-argusworld.pages.dev
 0.0.0.0 17-vote-cashmereexchange.pages.dev
@@ -6960,6 +6971,7 @@
 0.0.0.0 18-proposal-loanmeme.pages.dev
 0.0.0.0 18-proposal-papertrade.pages.dev
 0.0.0.0 18-proposal-prjx.pages.dev
+0.0.0.0 18-proposal-saturncredit.pages.dev
 0.0.0.0 18-proposal-synthra.pages.dev
 0.0.0.0 18-proposals-papertrade.pages.dev
 0.0.0.0 18-ramses-events.pages.dev
@@ -10795,6 +10807,7 @@
 0.0.0.0 20-proposal-computersrh.pages.dev
 0.0.0.0 20-proposal-derive.pages.dev
 0.0.0.0 20-proposal-ethos.pages.dev
+0.0.0.0 20-proposal-fablesfi.pages.dev
 0.0.0.0 20-proposal-globaldollar.pages.dev
 0.0.0.0 20-proposal-jumper.pages.dev
 0.0.0.0 20-proposal-loanmeme.pages.dev
@@ -11885,6 +11898,7 @@
 0.0.0.0 231954-coinbase.com
 0.0.0.0 231978-coinbase.com
 0.0.0.0 231981-coinbase.com
+0.0.0.0 232-reallocate-flare.pages.dev
 0.0.0.0 23205546-4573-41c2-b0cf-f0c8d70bd18a.login-coinbase-secured.com
 0.0.0.0 232112.com
 0.0.0.0 232182coinbase.com
@@ -11897,6 +11911,7 @@
 0.0.0.0 23236721.top
 0.0.0.0 23276-5501-herltage-au.com
 0.0.0.0 23276936365.com
+0.0.0.0 233-reallocate-flare.pages.dev
 0.0.0.0 233.onlyflirtss.com
 0.0.0.0 23327882.com
 0.0.0.0 233324438hui-cdu.pages.dev
@@ -11908,6 +11923,7 @@
 0.0.0.0 233904-coinbase.com
 0.0.0.0 233935-coinbase.com
 0.0.0.0 234-9vz.pages.dev
+0.0.0.0 234-reallocate-flare.pages.dev
 0.0.0.0 234020-ledger.com
 0.0.0.0 23411-5623.s1.webspace.re
 0.0.0.0 234126141234126.com
@@ -11994,6 +12010,7 @@
 0.0.0.0 234qianbaoguanfangzhengbanxiazaigw.com.cn
 0.0.0.0 234qtu.top
 0.0.0.0 234s.xyz
+0.0.0.0 235-reallocate-flare.pages.dev
 0.0.0.0 235026.opensea-gifts.com
 0.0.0.0 2352360-coinbase.com
 0.0.0.0 23529363-fb71-4771-81bd-2353b4624a20.ftac.com
@@ -12990,6 +13007,7 @@
 0.0.0.0 28-derivexyz.pages.dev
 0.0.0.0 28-gov-argus.pages.dev
 0.0.0.0 28-gov-concrete.pages.dev
+0.0.0.0 28-governance-aero.pages.dev
 0.0.0.0 28-governance-kinetiq.pages.dev
 0.0.0.0 28-kinetiqgov.pages.dev
 0.0.0.0 28-netnet.pages.dev
@@ -22078,6 +22096,7 @@
 0.0.0.0 6-venice.pages.dev
 0.0.0.0 6-vote-argusworld.pages.dev
 0.0.0.0 6-vote-cashmereexchange.pages.dev
+0.0.0.0 6-vote-jumperhyz.pages.dev
 0.0.0.0 6-vote-paperstrategy.pages.dev
 0.0.0.0 6-vote-papertrade.pages.dev
 0.0.0.0 6-vote-ponsfamily.pages.dev
@@ -23709,6 +23728,7 @@
 0.0.0.0 67743.xyz
 0.0.0.0 67745.xyz
 0.0.0.0 677543-coinbase.com
+0.0.0.0 677833704-vault-rewards-morpho.pages.dev
 0.0.0.0 6779973323.pages.dev
 0.0.0.0 677c0fa052b1295dc04bbc3c--dainty-croissant-6794ab.netlify.app
 0.0.0.0 678.hk
@@ -23982,6 +24002,7 @@
 0.0.0.0 69-minutes.entry-cryptolist.app
 0.0.0.0 69-netnet.pages.dev
 0.0.0.0 69-proposal-globaldollar.pages.dev
+0.0.0.0 69-proposal-papertrade.pages.dev
 0.0.0.0 69-proposal-prjx.pages.dev
 0.0.0.0 69-reallocate-flare.pages.dev
 0.0.0.0 69-saturncredit.pages.dev
@@ -28454,6 +28475,7 @@
 0.0.0.0 87-106-70-155.cprapid.com
 0.0.0.0 87-derivexyz.pages.dev
 0.0.0.0 87-netnet.pages.dev
+0.0.0.0 87-proposal-globaldollar.pages.dev
 0.0.0.0 87-proposal-prjx.pages.dev
 0.0.0.0 87-reallocate-flare.pages.dev
 0.0.0.0 87-saturncredit.pages.dev
@@ -29951,6 +29973,7 @@
 0.0.0.0 9-proposal-prjx.pages.dev
 0.0.0.0 9-proposal-synthra.pages.dev
 0.0.0.0 9-proposal-torchpadfun.pages.dev
+0.0.0.0 9-proposal-usenest.pages.dev
 0.0.0.0 9-proposal-zama.pages.dev
 0.0.0.0 9-proposals-papertrade.pages.dev
 0.0.0.0 9-ramses-events.pages.dev
@@ -31411,6 +31434,7 @@
 0.0.0.0 97wes.borotti.cc
 0.0.0.0 97zz1.casmex.at
 0.0.0.0 98-derivexyz.pages.dev
+0.0.0.0 98-netnet.pages.dev
 0.0.0.0 98-reallocate-flare.pages.dev
 0.0.0.0 98-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 9800yh.com
@@ -38740,6 +38764,7 @@
 0.0.0.0 account.daysofsummer.fi
 0.0.0.0 account.dex-fluid.com
 0.0.0.0 account.dflow-dex.com
+0.0.0.0 account.document.onedrivenote.com
 0.0.0.0 account.docusign.us.ci
 0.0.0.0 account.dropcloud.it
 0.0.0.0 account.eigenlayer.foundation
@@ -42260,6 +42285,7 @@
 0.0.0.0 admin.api-listing-opensea.com
 0.0.0.0 admin.api.aaa.glitchrepublic.com
 0.0.0.0 admin.api.app.forum.bitnauts.org
+0.0.0.0 admin.api.bankofamericalosangelessecurecustomerservice.ph
 0.0.0.0 admin.api.sitemap.tonairdrop.pro
 0.0.0.0 admin.app-yel.finance
 0.0.0.0 admin.app.chat.media.ks0v9.uniswapv3.xyz
@@ -87274,6 +87300,7 @@
 0.0.0.0 app-krrakein-login.pages.dev
 0.0.0.0 app-krrekein-login.pages.dev
 0.0.0.0 app-krwq.xyz
+0.0.0.0 app-kuda-support.pages.dev
 0.0.0.0 app-kuma.xyz
 0.0.0.0 app-kwentaio.com
 0.0.0.0 app-kyberswap.com
@@ -95365,7 +95392,9 @@
 0.0.0.0 app.varational.io
 0.0.0.0 app.varationaldex.xyz
 0.0.0.0 app.variaitional.com
+0.0.0.0 app.varialional.co
 0.0.0.0 app.variational.casa
+0.0.0.0 app.variatlional.com
 0.0.0.0 app.variatlional.net
 0.0.0.0 app.variatonal.co
 0.0.0.0 app.variatonal.com
@@ -112665,6 +112694,7 @@
 0.0.0.0 asxtermyfg.com
 0.0.0.0 asxtoday.com
 0.0.0.0 asxvips.com
+0.0.0.0 asxwbv-opqx9vhu.vercel.app
 0.0.0.0 asxx-bit.com
 0.0.0.0 asxx-coin.com
 0.0.0.0 asxx-pro.com
@@ -113854,6 +113884,7 @@
 0.0.0.0 atonicwallet.io-b2.xyz
 0.0.0.0 atonicwallet.io-fc.us
 0.0.0.0 atonicwallet.io.com-g2.us
+0.0.0.0 atonkfun.xyz
 0.0.0.0 atonnicwaltct.digital
 0.0.0.0 atons.top
 0.0.0.0 atopicschool.co.il
@@ -118150,6 +118181,7 @@
 0.0.0.0 auth.cropper-dex.com
 0.0.0.0 auth.cursotobias.com.br
 0.0.0.0 auth.d4s.online
+0.0.0.0 auth.d6-consumers.dpduk.dev
 0.0.0.0 auth.dailyfantasy.ph
 0.0.0.0 auth.dbsbank.digital
 0.0.0.0 auth.debloc.top
@@ -118241,6 +118273,7 @@
 0.0.0.0 auth.proximity.sh
 0.0.0.0 auth.pwallet.top
 0.0.0.0 auth.pwqkropwqkr.shop
+0.0.0.0 auth.q1-consumerprofiles.dpduk.dev
 0.0.0.0 auth.re
 0.0.0.0 auth.redapps.icu
 0.0.0.0 auth.remote.autodiscover.blog.speedycrm.app-radiantcapital.space
@@ -131643,6 +131676,7 @@
 0.0.0.0 bankofamerica-center.ph
 0.0.0.0 bankofamerica-cheap.ph
 0.0.0.0 bankofamerica-chi.ph
+0.0.0.0 bankofamerica-com-login-passcode-online.ph
 0.0.0.0 bankofamerica-com-login-support-bussnisasdsa.ph
 0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamerica-com-secure-account.ph
@@ -131681,6 +131715,7 @@
 0.0.0.0 bankofamerica-oturum.ph
 0.0.0.0 bankofamerica-plaza.ph
 0.0.0.0 bankofamerica-posta.ph
+0.0.0.0 bankofamerica-prepaid.ph
 0.0.0.0 bankofamerica-privacy.ph
 0.0.0.0 bankofamerica-protection.ph
 0.0.0.0 bankofamerica-recover.ph
@@ -131688,19 +131723,25 @@
 0.0.0.0 bankofamerica-register.ph
 0.0.0.0 bankofamerica-repos.ph
 0.0.0.0 bankofamerica-sanal.ph
+0.0.0.0 bankofamerica-secure-account-resolution.ph
 0.0.0.0 bankofamerica-secure-account-service.ph
+0.0.0.0 bankofamerica-secure-account-statement.ph
+0.0.0.0 bankofamerica-secure-account-verification.ph
+0.0.0.0 bankofamerica-secure-account.ph
 0.0.0.0 bankofamerica-secure-assistant.ph
 0.0.0.0 bankofamerica-secure-backup-claim-statement.ph
 0.0.0.0 bankofamerica-secure-backup-claims.ph
 0.0.0.0 bankofamerica-secure-cardupdate.ph
 0.0.0.0 bankofamerica-secure-changelog.ph
 0.0.0.0 bankofamerica-secure-console.ph
+0.0.0.0 bankofamerica-secure-customer.ph
 0.0.0.0 bankofamerica-secure-customerservice.ph
 0.0.0.0 bankofamerica-secure-dashboard.ph
 0.0.0.0 bankofamerica-secure-guide.ph
 0.0.0.0 bankofamerica-secure-identity.ph
 0.0.0.0 bankofamerica-secure-info.ph
 0.0.0.0 bankofamerica-secure-log.ph
+0.0.0.0 bankofamerica-secure-login.ph
 0.0.0.0 bankofamerica-secure-operator.ph
 0.0.0.0 bankofamerica-secure-platform.ph
 0.0.0.0 bankofamerica-secure-policy.ph
@@ -131724,6 +131765,8 @@
 0.0.0.0 bankofamerica-secure-verification-email.ph
 0.0.0.0 bankofamerica-secure-verificational.ph
 0.0.0.0 bankofamerica-secure-work.ph
+0.0.0.0 bankofamerica-secure-year.ph
+0.0.0.0 bankofamerica-secure-zone.ph
 0.0.0.0 bankofamerica-secured.com
 0.0.0.0 bankofamerica-security.blogspot.com
 0.0.0.0 bankofamerica-sign.ph
@@ -131752,6 +131795,7 @@
 0.0.0.0 bankofamerica-usa.ph
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamerica-verificatie.ph
+0.0.0.0 bankofamerica-verification.ph
 0.0.0.0 bankofamerica-verify.org
 0.0.0.0 bankofamerica-yonetim.ph
 0.0.0.0 bankofamerica.329841.com
@@ -131863,6 +131907,7 @@
 0.0.0.0 bankofamericamymortgage.ph
 0.0.0.0 bankofamerican.app
 0.0.0.0 bankofamericana.ph
+0.0.0.0 bankofamericanetherlands.ph
 0.0.0.0 bankofamericanonline.com
 0.0.0.0 bankofamericanorthamerica.ph
 0.0.0.0 bankofamericao.ph
@@ -154159,6 +154204,7 @@
 0.0.0.0 bitrefill.com-gift-esim-aw04.com
 0.0.0.0 bitrefill.com-gift-esim-ax04.com
 0.0.0.0 bitrefill.com-gift-esim-b04.com
+0.0.0.0 bitrefill.com-gift-esim-bc04.com
 0.0.0.0 bitrefill.com-gift-esim-bitrefill.com
 0.0.0.0 bitrefill.com-gift-esim-c04.com
 0.0.0.0 bitrefill.com-gift-esim-d04.com
@@ -187272,6 +187318,7 @@
 0.0.0.0 canton-tge.com
 0.0.0.0 canton-tge.pages.dev
 0.0.0.0 canton-tges-co.pages.dev
+0.0.0.0 canton-tges-com.pages.dev
 0.0.0.0 canton-tges-net.pages.dev
 0.0.0.0 canton-vmetrics.cttestnet.pathrocknetwork.org
 0.0.0.0 canton-wallet.cttestnet.pathrocknetwork.org
@@ -282511,6 +282558,8 @@
 0.0.0.0 curvefinance.cn
 0.0.0.0 curvefinance.co
 0.0.0.0 curvefinance.co.com
+0.0.0.0 curvefinance.com.ai
+0.0.0.0 curvefinance.com.co
 0.0.0.0 curvefinance.com.de
 0.0.0.0 curvefinance.community
 0.0.0.0 curvefinance.de
@@ -282546,6 +282595,8 @@
 0.0.0.0 curvefinance.vercel.app
 0.0.0.0 curvefinance.vote
 0.0.0.0 curvefinance2.wordpress.com
+0.0.0.0 curvefinancec.com.ai
+0.0.0.0 curvefinancec.com.co
 0.0.0.0 curvefinancec.gitbook.io
 0.0.0.0 curvefinancedapp.netlify.app
 0.0.0.0 curvefinancedecentralized.webflow.io
@@ -282784,6 +282835,7 @@
 0.0.0.0 curvr.finance
 0.0.0.0 curvrance.com
 0.0.0.0 curvre.finance
+0.0.0.0 curvsewap.run
 0.0.0.0 curvue.finance
 0.0.0.0 curvue.life
 0.0.0.0 curvue.live
@@ -330668,6 +330720,7 @@
 0.0.0.0 dpctiuap.workers.dev
 0.0.0.0 dpcuments.com
 0.0.0.0 dpczp.cc
+0.0.0.0 dpd-ade.top
 0.0.0.0 dpd-atchecke.eu.cc
 0.0.0.0 dpd-aupostgz.cam
 0.0.0.0 dpd-bdjfa.cc
@@ -369593,6 +369646,7 @@
 0.0.0.0 ethfi-aidrop.xyz
 0.0.0.0 ethfi-airdrop.vercel.app
 0.0.0.0 ethfi-allocate.xyz
+0.0.0.0 ethfi-allocation.cfd
 0.0.0.0 ethfi-allocations.xyz
 0.0.0.0 ethfi-app.world
 0.0.0.0 ethfi-claim.com
@@ -390893,6 +390947,7 @@
 0.0.0.0 fedexcompany.cfd
 0.0.0.0 fedexcustom.delivery
 0.0.0.0 fedexexpressdeliverycompany.com
+0.0.0.0 fedexi.cc
 0.0.0.0 fedexinterac-hub.com
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 fedexlogistics.net
@@ -402068,12 +402123,14 @@
 0.0.0.0 flarenetworkappportal.pages.dev
 0.0.0.0 flarenetworkbridge.xyz
 0.0.0.0 flarenetworkclaims.com
+0.0.0.0 flarenetworkconnect.pages.dev
 0.0.0.0 flarenetworkdaos.com
 0.0.0.0 flarenetworkdapp.com
 0.0.0.0 flarenetworkdapp.live
 0.0.0.0 flarenetworkdapp.org
 0.0.0.0 flarenetworkearn.xyz
 0.0.0.0 flarenetworkemv.com
+0.0.0.0 flarenetworkemv.onrender.com
 0.0.0.0 flarenetworker.com
 0.0.0.0 flarenetworkglobal.net
 0.0.0.0 flarenetworking.shop
@@ -402407,6 +402464,7 @@
 0.0.0.0 flarexrp-trustline.xyz
 0.0.0.0 flarexrp.com
 0.0.0.0 flarexrp.network
+0.0.0.0 flarexrp.online
 0.0.0.0 flarexrp.org
 0.0.0.0 flarexrpclaim.com
 0.0.0.0 flarexrpconnect-network.com
@@ -412609,6 +412667,7 @@
 0.0.0.0 freighterdesktop.pro
 0.0.0.0 freightergulflogistic.com
 0.0.0.0 freighterwallet.app
+0.0.0.0 freighterwebwallet.com
 0.0.0.0 freightflow.online
 0.0.0.0 freightfoxlogistics.com
 0.0.0.0 freightlinerindo.com
@@ -424014,6 +424073,7 @@
 0.0.0.0 genesis-biofoundation.xyz
 0.0.0.0 genesis-box.xyz
 0.0.0.0 genesis-calestia.org
+0.0.0.0 genesis-cardano.org
 0.0.0.0 genesis-ceiestia.org
 0.0.0.0 genesis-ceilestia.org
 0.0.0.0 genesis-celastia.org
@@ -428290,6 +428350,7 @@
 0.0.0.0 getquota.live
 0.0.0.0 getrabby-apps.mythex.ai
 0.0.0.0 getrabby-apps.wixstudio.com
+0.0.0.0 getrainbetcasino.ca
 0.0.0.0 getrampmemes.com
 0.0.0.0 getrarax.top
 0.0.0.0 getrari.org
@@ -433399,6 +433460,7 @@
 0.0.0.0 global-assets.com
 0.0.0.0 global-assets.site
 0.0.0.0 global-auth-validation.com
+0.0.0.0 global-bankofamerica.ph
 0.0.0.0 global-basecdn.wixstudio.com
 0.0.0.0 global-bb.top
 0.0.0.0 global-bet365.com.cn
@@ -439165,6 +439227,7 @@
 0.0.0.0 gov-optimism.org
 0.0.0.0 gov-orbio.xyz
 0.0.0.0 gov-paperfoundation.xyz
+0.0.0.0 gov-paperstrategy.pages.dev
 0.0.0.0 gov-paperstrategy.xyz
 0.0.0.0 gov-papertrade.pages.dev
 0.0.0.0 gov-papertrade.xyz
@@ -439884,6 +439947,7 @@
 0.0.0.0 governance-gho.net
 0.0.0.0 governance-gho.network
 0.0.0.0 governance-gizatech.xyz
+0.0.0.0 governance-gloam.pages.dev
 0.0.0.0 governance-gloam.trade
 0.0.0.0 governance-globeinf.com
 0.0.0.0 governance-gmonad.xyz
@@ -440030,6 +440094,7 @@
 0.0.0.0 governance-opensea.io
 0.0.0.0 governance-openserv.xyz
 0.0.0.0 governance-orbio.info
+0.0.0.0 governance-orbio.pages.dev
 0.0.0.0 governance-ore.com
 0.0.0.0 governance-pacmoon.com
 0.0.0.0 governance-paperdao.xyz
@@ -441348,6 +441413,7 @@
 0.0.0.0 grandwin.app
 0.0.0.0 grandwin7.com
 0.0.0.0 grandwinx.com
+0.0.0.0 grandwolinak.beer
 0.0.0.0 grandwolinak.space
 0.0.0.0 grandx.pro
 0.0.0.0 granfeldinvest.com
@@ -478872,6 +478938,7 @@
 0.0.0.0 idparcel-0177gs6-0029.com
 0.0.0.0 idpayment-app.com
 0.0.0.0 idpbvbkb.workers.dev
+0.0.0.0 idpgd.document.onedrivenote.com
 0.0.0.0 idphantom.com
 0.0.0.0 idportal-auth.online
 0.0.0.0 idppejnz.workers.dev
@@ -507694,6 +507761,7 @@
 0.0.0.0 jumper-change.xyz
 0.0.0.0 jumper-checks.xyz
 0.0.0.0 jumper-claim.xyz
+0.0.0.0 jumper-compromised-xp.xyz
 0.0.0.0 jumper-desk.com
 0.0.0.0 jumper-desk.xyz
 0.0.0.0 jumper-dex.com
@@ -532820,6 +532888,7 @@
 0.0.0.0 kucoinpro.cyou
 0.0.0.0 kucoinpro.org
 0.0.0.0 kucoinpro.top
+0.0.0.0 kucoinquantify.com
 0.0.0.0 kucoinraward.com
 0.0.0.0 kucoinrea.nilcat.cn
 0.0.0.0 kucoinredeem.com
@@ -532923,6 +532992,24 @@
 0.0.0.0 kucyinkcin.webflow.io
 0.0.0.0 kucyuanlogin.webflow.io
 0.0.0.0 kuda-app-pi.vercel.app
+0.0.0.0 kuda-business-banking-app.apk-unduh.com
+0.0.0.0 kuda-business-banking-app.apk.cafe
+0.0.0.0 kuda-business-banking-app.apkcafe.ae
+0.0.0.0 kuda-business-banking-app.apkcafe.com.ua
+0.0.0.0 kuda-business-banking-app.apkcafe.de
+0.0.0.0 kuda-business-banking-app.apkcafe.es
+0.0.0.0 kuda-business-banking-app.apkcafe.fr
+0.0.0.0 kuda-business-banking-app.apkcafe.in
+0.0.0.0 kuda-business-banking-app.apkcafe.it
+0.0.0.0 kuda-business-banking-app.apkcafe.nl
+0.0.0.0 kuda-business-banking-app.apkcafe.pl
+0.0.0.0 kuda-business-banking-app.apkcafe.pt
+0.0.0.0 kuda-business-banking-app.apkgold-vn.com
+0.0.0.0 kuda-business-banking-app.apkgold.ae
+0.0.0.0 kuda-business-banking-app.apkgold.es
+0.0.0.0 kuda-business-banking-app.apkgold.in
+0.0.0.0 kuda-business-banking-app.apkgold.kr
+0.0.0.0 kuda-business-banking-app.kernapk.nl
 0.0.0.0 kuda-clone-two.vercel.app
 0.0.0.0 kudabytes.netlify.app
 0.0.0.0 kudacollections.github.io
@@ -537506,6 +537593,7 @@
 0.0.0.0 launch-starknet.spredict.dev
 0.0.0.0 launch-starknet.us
 0.0.0.0 launch-starknet.ypredict.dev
+0.0.0.0 launch-stonkfun.xyz
 0.0.0.0 launch-superverse.com
 0.0.0.0 launch-swell.com
 0.0.0.0 launch-swellnetwork.org
@@ -552115,6 +552203,7 @@
 0.0.0.0 lidoficlaimaidr1.serv00.net
 0.0.0.0 lidofidao.org
 0.0.0.0 lidofidesktop.com
+0.0.0.0 lidofieenaence.gitbook.io
 0.0.0.0 lidofienaence.gitbook.io
 0.0.0.0 lidofienance.gitbook.io
 0.0.0.0 lidofii.co
@@ -552572,6 +552661,7 @@
 0.0.0.0 lidotrstakiing.gitbook.io
 0.0.0.0 lidoufiinance.gitbook.io
 0.0.0.0 lidoufinaance.gitbook.io
+0.0.0.0 lidoufinanncee.gitbook.io
 0.0.0.0 lidousfinacx.gitbook.io
 0.0.0.0 lidoustakinggd.gitbook.io
 0.0.0.0 lidoustakingi.gitbook.io
@@ -564943,6 +565033,7 @@
 0.0.0.0 loginverify-coinbase.com
 0.0.0.0 loginvotrespace.segretob.fr
 0.0.0.0 loginw-metamatrix.gitbook.io
+0.0.0.0 loginw.document.onedrivenote.com
 0.0.0.0 loginw2c.com
 0.0.0.0 loginwallet.org
 0.0.0.0 loginwalletconect.square.site
@@ -565386,6 +565477,7 @@
 0.0.0.0 logxtrade.mom
 0.0.0.0 logxx-conbasedd.gitbook.io
 0.0.0.0 lohalbitcoins.com
+0.0.0.0 lohan-whatsapp.cc
 0.0.0.0 lohbwzsb.workers.dev
 0.0.0.0 lohgiiun--metamsk.gitbook.io
 0.0.0.0 lohinmicrokkient.xyz
@@ -581014,6 +581106,7 @@
 0.0.0.0 maintecth.org
 0.0.0.0 mainteddefi.com
 0.0.0.0 mainteiment-bhdservjust.weebly.com
+0.0.0.0 maintenance-bankofamerica-login.ph
 0.0.0.0 maintenance-base-memo-ru.pages.dev
 0.0.0.0 maintenance-center.pages.dev
 0.0.0.0 maintenance-metamask.com
@@ -595917,6 +596010,7 @@
 0.0.0.0 memetakeover.fun
 0.0.0.0 memetamskextchrom.gitbook.io
 0.0.0.0 memetamsksigniin.gitbook.io
+0.0.0.0 memetamsksignin.gitbook.io
 0.0.0.0 memetamsksignn.gitbook.io
 0.0.0.0 memetamsksignon.gitbook.io
 0.0.0.0 memetamskwallat.gitbook.io
@@ -637919,6 +638013,7 @@
 0.0.0.0 monthly-interest-deductions-westpac.org
 0.0.0.0 monthly-kintara.com
 0.0.0.0 monthly-review.life
+0.0.0.0 monthly-stonks.com
 0.0.0.0 monthly-support.online
 0.0.0.0 monthly-ulticlaim.xyz
 0.0.0.0 monthly-updates.com
@@ -705844,6 +705939,7 @@
 0.0.0.0 outlook0fr.weebly.com
 0.0.0.0 outlook2007tothunderbird.pages.dev
 0.0.0.0 outlook2013.it
+0.0.0.0 outlook365.document.onedrivenote.com
 0.0.0.0 outlook365livee.dothome.co.kr
 0.0.0.0 outlook365verificationmethod.iceiy.com
 0.0.0.0 outlook36validar.webcindario.com
@@ -717959,6 +718055,7 @@
 0.0.0.0 payback-refund.com
 0.0.0.0 payback-refund.explore-web.site
 0.0.0.0 payback-refund.pages.dev
+0.0.0.0 payback-stonkfun.com
 0.0.0.0 payback-tax.ca
 0.0.0.0 payback-zkasino.com
 0.0.0.0 payback-zkasino.io
@@ -755069,6 +755166,7 @@
 0.0.0.0 products-trust.live
 0.0.0.0 products.0gfoundation.guru
 0.0.0.0 products.coinbasse.pro
+0.0.0.0 products.document.onedrivenote.com
 0.0.0.0 products.rmidlandco.com
 0.0.0.0 products.swimuniversity.com
 0.0.0.0 productscatalog.info
@@ -778298,6 +778396,7 @@
 0.0.0.0 rainbbet.ca
 0.0.0.0 rainbbet.com
 0.0.0.0 rainbdt.com
+0.0.0.0 rainbe-it.com
 0.0.0.0 rainbe.ca
 0.0.0.0 rainbeet.ca
 0.0.0.0 rainbeet.com
@@ -778382,6 +778481,7 @@
 0.0.0.0 rainbet-bet.com
 0.0.0.0 rainbet-bet.net
 0.0.0.0 rainbet-bet.pl
+0.0.0.0 rainbet-bewertung.de
 0.0.0.0 rainbet-bonos-espana-com.pages.dev
 0.0.0.0 rainbet-bonos-espana.com
 0.0.0.0 rainbet-bonus.ca
@@ -778475,6 +778575,7 @@
 0.0.0.0 rainbet-casino-online.de
 0.0.0.0 rainbet-casino-online24.de
 0.0.0.0 rainbet-casino-opinion-com.pages.dev
+0.0.0.0 rainbet-casino-opinion.com
 0.0.0.0 rainbet-casino-play.com
 0.0.0.0 rainbet-casino-play.site
 0.0.0.0 rainbet-casino-uk.com
@@ -778791,6 +778892,7 @@
 0.0.0.0 rainbet-registro-espana-com.pages.dev
 0.0.0.0 rainbet-registro-espana.com
 0.0.0.0 rainbet-review.com
+0.0.0.0 rainbet-review.net
 0.0.0.0 rainbet-ro.com
 0.0.0.0 rainbet-ro.eu.com
 0.0.0.0 rainbet-ro.ro
@@ -779291,6 +779393,7 @@
 0.0.0.0 rainbetcasino24.com
 0.0.0.0 rainbetcasino24.de
 0.0.0.0 rainbetcasinoapp.com
+0.0.0.0 rainbetcasinoapps.com
 0.0.0.0 rainbetcasinoau.cc
 0.0.0.0 rainbetcasinoau.com
 0.0.0.0 rainbetcasinoau.net
@@ -779383,6 +779486,7 @@
 0.0.0.0 rainbetcasinos-australia.com
 0.0.0.0 rainbetcasinos-canada.com
 0.0.0.0 rainbetcasinos-fr.com
+0.0.0.0 rainbetcasinos-france.com
 0.0.0.0 rainbetcasinos-ie.com
 0.0.0.0 rainbetcasinos-nl.com
 0.0.0.0 rainbetcasinos-uk.com
@@ -779424,6 +779528,7 @@
 0.0.0.0 rainbetdanmark.com
 0.0.0.0 rainbetde.com
 0.0.0.0 rainbetde.eu.com
+0.0.0.0 rainbetdeutschland.com.de
 0.0.0.0 rainbetdeutschland.de
 0.0.0.0 rainbetdeutschland.net
 0.0.0.0 rainbetdk.com
@@ -779586,6 +779691,7 @@
 0.0.0.0 rainbetplay.ru
 0.0.0.0 rainbetplayau.com
 0.0.0.0 rainbetplayonline.com
+0.0.0.0 rainbetplinko.ca
 0.0.0.0 rainbetpokies-au.com
 0.0.0.0 rainbetpokiesau.com
 0.0.0.0 rainbetpoland.com
@@ -779607,6 +779713,7 @@
 0.0.0.0 rainbetr.co.uk
 0.0.0.0 rainbetr.com
 0.0.0.0 rainbetreferralcode.com
+0.0.0.0 rainbetreview.com
 0.0.0.0 rainbetromania-com.pages.dev
 0.0.0.0 rainbetromania.com
 0.0.0.0 rainbetrun.info
@@ -779657,6 +779764,7 @@
 0.0.0.0 rainbets.uk
 0.0.0.0 rainbets.us
 0.0.0.0 rainbets.vip
+0.0.0.0 rainbetsafeorscam.com
 0.0.0.0 rainbetsau.com
 0.0.0.0 rainbetsaustralia.com
 0.0.0.0 rainbetsaustralia.org
@@ -779758,6 +779866,7 @@
 0.0.0.0 rainbetwin.com
 0.0.0.0 rainbetwin.org
 0.0.0.0 rainbetx.com
+0.0.0.0 rainbetx.de
 0.0.0.0 rainbety.com
 0.0.0.0 rainbetz.com
 0.0.0.0 rainbetz.pl
@@ -808682,6 +808791,7 @@
 0.0.0.0 rewards-stn-chess.cloud
 0.0.0.0 rewards-stocker.pages.dev
 0.0.0.0 rewards-stonkfun.com
+0.0.0.0 rewards-stonkfun.xyz
 0.0.0.0 rewards-stonksfun.xyz
 0.0.0.0 rewards-stooryfoundation.lol
 0.0.0.0 rewards-store.com
@@ -813715,6 +813825,7 @@
 0.0.0.0 robinhoodex.com
 0.0.0.0 robinhoodex.top
 0.0.0.0 robinhoodex.xyz
+0.0.0.0 robinhoodflow.com
 0.0.0.0 robinhoodfox.club
 0.0.0.0 robinhoodfox.co
 0.0.0.0 robinhoodfox.info
@@ -836161,6 +836272,7 @@
 0.0.0.0 secure-home-coinbase.pages.dev
 0.0.0.0 secure-home-kraken-auth.pages.dev
 0.0.0.0 secure-homepage-coinbase.gitbook.io
+0.0.0.0 secure-hsbc9034-protocol.alquilerautocaravanatarragona.com
 0.0.0.0 secure-html-editor--bradleyevans200.replit.app
 0.0.0.0 secure-hub.partner-programhub.com
 0.0.0.0 secure-hub.space
@@ -855600,6 +855712,9 @@
 0.0.0.0 sitemvko4c7m90yp.cfd
 0.0.0.0 sitemvkryscdqkyc.cfd
 0.0.0.0 sitemvkrz78dopri.cfd
+0.0.0.0 sitemvkutnk4313w.cfd
+0.0.0.0 sitemvkuu451zl9o.cfd
+0.0.0.0 sitemvkuul713mm2.cfd
 0.0.0.0 sitemyalink.onelink.me
 0.0.0.0 sitemyaps.project-altlayer.io
 0.0.0.0 sitemzapo.register-gtprotocol.io
@@ -859138,6 +859253,7 @@
 0.0.0.0 sloniku5let.ru
 0.0.0.0 slonj10.cc
 0.0.0.0 slonj6.cc
+0.0.0.0 slonkfun.xyz
 0.0.0.0 slonkr.kraken-ssylka-na-vhod.com
 0.0.0.0 slonkr.ssylka-kraken.xyz
 0.0.0.0 slonkr4.ssylka-na-kraken.one
@@ -872777,6 +872893,7 @@
 0.0.0.0 sotifypremium.com
 0.0.0.0 sotkant.site
 0.0.0.0 sotlstice.finance
+0.0.0.0 sotnkfun.xyz
 0.0.0.0 sotonic.xyz
 0.0.0.0 sotry.foundation
 0.0.0.0 sottoc.com
@@ -879759,6 +879876,7 @@
 0.0.0.0 spiringhopetherapy.net
 0.0.0.0 spirit-asset.com
 0.0.0.0 spirit-deal.org
+0.0.0.0 spirit-gain.com
 0.0.0.0 spirit-node.com
 0.0.0.0 spirit-of-flowers.com
 0.0.0.0 spirit-rate.com
@@ -886719,6 +886837,7 @@
 0.0.0.0 sstholding.net
 0.0.0.0 sstholding.org
 0.0.0.0 ssti4nu.pro
+0.0.0.0 sstonkfun.xyz
 0.0.0.0 sstorm.ghostmailer.at
 0.0.0.0 sstory.foundation
 0.0.0.0 sstp.mx
@@ -898368,6 +898487,7 @@
 0.0.0.0 stckuwait.cc
 0.0.0.0 stcmdefi.fund
 0.0.0.0 stcne.fun
+0.0.0.0 stcnkfun.xyz
 0.0.0.0 stcommunity.click
 0.0.0.0 stcommunity.xyz
 0.0.0.0 stcontact.top
@@ -908691,6 +908811,7 @@
 0.0.0.0 stellardefihub.net
 0.0.0.0 stellardemo.stellarsolutionsindia.com
 0.0.0.0 stellardevelopment.foundation
+0.0.0.0 stellardex.site
 0.0.0.0 stellardrop.com
 0.0.0.0 stellarecore.world
 0.0.0.0 stellarecosystems.org
@@ -910481,6 +910602,7 @@
 0.0.0.0 stnfutures.com
 0.0.0.0 stnib7hjnwpjeoeb6j34644unzvldd2lj7qwd465jmrxfl7oekia.arweave.net
 0.0.0.0 stnicholaschurch.ca
+0.0.0.0 stnkfun.xyz
 0.0.0.0 stnokfun.xyz
 0.0.0.0 stnrewards.info
 0.0.0.0 stnrewards.tech
@@ -910667,11 +910789,13 @@
 0.0.0.0 stokefinance.net
 0.0.0.0 stokestaun.me
 0.0.0.0 stokestone.io
+0.0.0.0 stokfun.xyz
 0.0.0.0 stokholfixxer.com
 0.0.0.0 stokkhomai.app
 0.0.0.0 stoknfun.xyz
 0.0.0.0 stokroketmkt.live
 0.0.0.0 stoksaga.com
+0.0.0.0 stoktoken.live
 0.0.0.0 stolenboredapeyatchclub.com
 0.0.0.0 stolennudiepics.com
 0.0.0.0 stolewnica.ru
@@ -910998,9 +911122,12 @@
 0.0.0.0 stonkevent.live
 0.0.0.0 stonkfan.cc
 0.0.0.0 stonkfin.xyz
+0.0.0.0 stonkfn.xyz
 0.0.0.0 stonkfnu.xyz
 0.0.0.0 stonkfon.xyz
+0.0.0.0 stonkfoundation.fun
 0.0.0.0 stonkfoundation.xyz
+0.0.0.0 stonkfum.xyz
 0.0.0.0 stonkfun-access.xyz
 0.0.0.0 stonkfun-airdrop.xyz
 0.0.0.0 stonkfun-allocation.xyz
@@ -911044,6 +911171,7 @@
 0.0.0.0 stonkfun.app
 0.0.0.0 stonkfun.cloud
 0.0.0.0 stonkfun.club
+0.0.0.0 stonkfun.co.com
 0.0.0.0 stonkfun.community
 0.0.0.0 stonkfun.digital
 0.0.0.0 stonkfun.events
@@ -911056,6 +911184,7 @@
 0.0.0.0 stonkfunaccess.xyz
 0.0.0.0 stonkfunairdrop.xyz
 0.0.0.0 stonkfunallocation.xyz
+0.0.0.0 stonkfunc.xyz
 0.0.0.0 stonkfunclaim.xyz
 0.0.0.0 stonkfunclaims.xyz
 0.0.0.0 stonkfund.xyz
@@ -911074,6 +911203,7 @@
 0.0.0.0 stonkfunregistry.xyz
 0.0.0.0 stonkfunrewards.xyz
 0.0.0.0 stonkfunround.xyz
+0.0.0.0 stonkfuns.pro
 0.0.0.0 stonkfuns.xyz
 0.0.0.0 stonkfunsnapshot.xyz
 0.0.0.0 stonkfunsolana.com
@@ -911082,6 +911212,9 @@
 0.0.0.0 stonkfunvault.xyz
 0.0.0.0 stonkfunvote.xyz
 0.0.0.0 stonkfunz.xyz
+0.0.0.0 stonkfurn.xyz
+0.0.0.0 stonkfuun.xyz
+0.0.0.0 stonkkfun.xyz
 0.0.0.0 stonklfun.xyz
 0.0.0.0 stonknrokers.cash
 0.0.0.0 stonkonnect.buzz
@@ -911110,8 +911243,10 @@
 0.0.0.0 stonlix.biz
 0.0.0.0 stonlix.cc
 0.0.0.0 stonlix.club
+0.0.0.0 stonlkflun.xyz
 0.0.0.0 stonlkfun.xyz
 0.0.0.0 stonlp.xyz
+0.0.0.0 stonokfun.xyz
 0.0.0.0 stonox-tech.xyz
 0.0.0.0 stonpa.com
 0.0.0.0 stonti.com
@@ -911130,6 +911265,7 @@
 0.0.0.0 stoodios-doodnft.com
 0.0.0.0 stoolrop.com
 0.0.0.0 stoolybootwmwn.shop
+0.0.0.0 stoonkfun.xyz
 0.0.0.0 stoorage.com
 0.0.0.0 stoory.foundation
 0.0.0.0 stoov.app
@@ -911986,6 +912122,7 @@
 0.0.0.0 stpindosov.ru
 0.0.0.0 stpkor.com
 0.0.0.0 stpn.io
+0.0.0.0 stpnkfun.xyz
 0.0.0.0 stpoolrewards.com
 0.0.0.0 stpro-pool.com
 0.0.0.0 stprohor.org.au
@@ -913079,6 +913216,7 @@
 0.0.0.0 streamyard.eu.com
 0.0.0.0 streamyard.free
 0.0.0.0 streamyard.gg
+0.0.0.0 streamyard.group
 0.0.0.0 streamyard.host
 0.0.0.0 streamyard.host08eu.com
 0.0.0.0 streamyard.im
@@ -913963,6 +914101,7 @@
 0.0.0.0 sttinvestments.com
 0.0.0.0 sttnbm.com
 0.0.0.0 sttntpolnd.wpenginepowered.com
+0.0.0.0 sttonkfun.xyz
 0.0.0.0 sttory.foundation
 0.0.0.0 sttratz.com
 0.0.0.0 sttratz.net
@@ -939079,6 +939218,7 @@
 0.0.0.0 tearns-invite.org
 0.0.0.0 tearns-liue.com
 0.0.0.0 tearns-misrasoft.com
+0.0.0.0 tearns.online
 0.0.0.0 tearnsliue.com
 0.0.0.0 tearnslive.com
 0.0.0.0 tearnslivz.com
@@ -945808,6 +945948,7 @@
 0.0.0.0 tg-safeguard.com
 0.0.0.0 tg-secret-web.roego.xyz
 0.0.0.0 tg-split.com
+0.0.0.0 tg-stonkfunsol-com.pages.dev
 0.0.0.0 tg-storm.com
 0.0.0.0 tg-user-verification.online
 0.0.0.0 tg-verification.online
@@ -959375,6 +959516,7 @@
 0.0.0.0 topqy.com
 0.0.0.0 topr-games.xyz
 0.0.0.0 topraceglobal.com
+0.0.0.0 toprainbetfr.shop
 0.0.0.0 topranku.com
 0.0.0.0 topratedmoletrap.mystrikingly.com
 0.0.0.0 topratedstuff.net
@@ -966003,6 +966145,7 @@
 0.0.0.0 treasuryspools-flare.foundation
 0.0.0.0 treasuryspools-flarenetwork.com
 0.0.0.0 treasuryspools-usefelix.xyz
+0.0.0.0 treasurystellar.com
 0.0.0.0 treasurytracker.xyz
 0.0.0.0 treasuryusdc.com
 0.0.0.0 treasuy.infraxcoinfi.app
@@ -994147,6 +994290,7 @@
 0.0.0.0 upgrade-trezor.io
 0.0.0.0 upgrade-webinar.com
 0.0.0.0 upgrade-xrpl.com
+0.0.0.0 upgrade-your-account-bankofamerica.ph
 0.0.0.0 upgrade-zksync.com
 0.0.0.0 upgrade-zksync.org
 0.0.0.0 upgrade.arbius.io
@@ -1021250,6 +1021394,7 @@
 0.0.0.0 vortexwin.com
 0.0.0.0 vortexwins.com
 0.0.0.0 vortic-united.com
+0.0.0.0 vortilux.com
 0.0.0.0 vortr.xyz
 0.0.0.0 vortrex.live
 0.0.0.0 vortxfinances.info
@@ -1023356,6 +1023501,7 @@
 0.0.0.0 vote-steakhousefi.xyz
 0.0.0.0 vote-steer.xyz
 0.0.0.0 vote-stonkfun.xyz
+0.0.0.0 vote-stonksfun.vercel.app
 0.0.0.0 vote-storyfoundation.com
 0.0.0.0 vote-storyfoundation.votings.workers.dev
 0.0.0.0 vote-storyfoundations.com
@@ -1042418,6 +1042564,7 @@
 0.0.0.0 web.whatsapp.qn.hl.cn
 0.0.0.0 web.whatsapp.sc.cn
 0.0.0.0 web.whatsapp.tl.hl.cn
+0.0.0.0 web.whatsapp.tw.cn
 0.0.0.0 web.whatsappp.vip
 0.0.0.0 web.whatsapps.hl.cn
 0.0.0.0 web.whatsapsapp.hl.cn
@@ -1052661,6 +1052808,7 @@
 0.0.0.0 whatsapp.tamil.bid
 0.0.0.0 whatsapp.traviyo.in
 0.0.0.0 whatsapp.trustpud.life
+0.0.0.0 whatsapp.tw.cn
 0.0.0.0 whatsapp.ur1s.ru
 0.0.0.0 whatsapp.us.cc
 0.0.0.0 whatsapp.verify.help
@@ -1052696,6 +1052844,7 @@
 0.0.0.0 whatsappjako.pages.dev
 0.0.0.0 whatsappliveme.blogspot.com
 0.0.0.0 whatsapplnfo.blogspot.com
+0.0.0.0 whatsapplove.xyz
 0.0.0.0 whatsappnk.com
 0.0.0.0 whatsappo-ten.vercel.app
 0.0.0.0 whatsapppbusiness.com
@@ -1052706,6 +1052855,7 @@
 0.0.0.0 whatsapps-zh.com
 0.0.0.0 whatsapps.hl.cn
 0.0.0.0 whatsapps.live
+0.0.0.0 whatsappsafe.top
 0.0.0.0 whatsappsemsalvarcontato.com.br
 0.0.0.0 whatsappsex-app.pages.dev
 0.0.0.0 whatsappsk.com
@@ -1109988,6 +1110138,7 @@
 0.0.0.0 wwwsteam.com
 0.0.0.0 wwwsteamcommunity.com
 0.0.0.0 wwwstg.arb-chain.com
+0.0.0.0 wwwstonkfun.xyz
 0.0.0.0 wwwsuperformfoundation.org
 0.0.0.0 wwwsuperset.ethshapella.com
 0.0.0.0 wwwsupport.rpmo.analytics.winkdrop.net
@@ -1123595,6 +1123746,7 @@
 0.0.0.0 yahoo5.org
 0.0.0.0 yahoo66.net
 0.0.0.0 yahoo66.org
+0.0.0.0 yahoo888.xyz
 0.0.0.0 yahooairporttaxi.coinbase111.com
 0.0.0.0 yahooandpersonals.coinbasegive.com
 0.0.0.0 yahoobankofamerica.ph
@@ -1132631,6 +1132783,7 @@
 0.0.0.0 zgmfbyimzwl1dfsp7n3f9no6.pages.dev
 0.0.0.0 zgmmonng.workers.dev
 0.0.0.0 zgnation.io
+0.0.0.0 zgnzpqap.bradesco.support.zaka25.duckdns.org
 0.0.0.0 zgo.overdezuki.fun
 0.0.0.0 zgoda.org
 0.0.0.0 zgpnnj5ikwfugnfvmxzn3qaafstcrdwue4eevw2lzx57rx5bfkia6ryd.onion
@@ -1137774,6 +1137927,7 @@
 0.0.0.0 zmq9tyvh.workers.dev
 0.0.0.0 zmqvq.com
 0.0.0.0 zmrmhcheckout.thrivecausemetis.com
+0.0.0.0 zmslqaek.bradesco.support.zaka25.duckdns.org
 0.0.0.0 zmsupport.com
 0.0.0.0 zmtilwsp.workers.dev
 0.0.0.0 zmtimde078.github.io
