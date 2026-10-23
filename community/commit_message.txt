@@ -1,8 +1,9 @@
-Sync: +41 MetaMask, +17 Phishunt, +23 SEAL
+Sync: +34 MetaMask, +2 SPMedia_DetectedURLs, +14 Phishunt, +35 SEAL
 
-Total domains: 1,141,933
+Total domains: 1,141,996
 
 Changes:
-- MetaMask: +41
-- Phishunt: +17
-- SEAL: +23
+- MetaMask: +34
+- SPMedia_DetectedURLs: +2
+- Phishunt: +14
+- SEAL: +35
