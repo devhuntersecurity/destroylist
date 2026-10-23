@@ -64701,6 +64701,7 @@ app-gomble.pro
 app-gomble.xyz
 app-goodvibesclub.com
 app-google-chromme.com.cn
+app-google-com.cn
 app-google.cc
 app-google.live
 app-gotchi.com
@@ -93885,6 +93886,8 @@ bankofamerica-secure-cardupdate.ph
 bankofamerica-secure-changelog.ph
 bankofamerica-secure-console.ph
 bankofamerica-secure-customerservice.ph
+bankofamerica-secure-dashboard.ph
+bankofamerica-secure-guide.ph
 bankofamerica-secure-identity.ph
 bankofamerica-secure-info.ph
 bankofamerica-secure-issue.ph
@@ -93911,6 +93914,7 @@ bankofamerica-secure-user.ph
 bankofamerica-secure-verification-alert.ph
 bankofamerica-secure-verification-email.ph
 bankofamerica-secure-verificational.ph
+bankofamerica-secure-work.ph
 bankofamerica-secured.com
 bankofamerica-sign.ph
 bankofamerica-sl.ph
@@ -94003,6 +94007,7 @@ bankofamericaeth.ph
 bankofamericaexposed.ph
 bankofamericaf.ph
 bankofamericafacebook.ph
+bankofamericafairfund.ph
 bankofamericafamilyoffice.ph
 bankofamericafinancial.ph
 bankofamericafinancialcenter.ph
@@ -94058,6 +94063,7 @@ bankofamericaonlines.ph
 bankofamericaoperation.ph
 bankofamericaoversight.ph
 bankofamericaowner.ph
+bankofamericapartners.ph
 bankofamericapavillion.ph
 bankofamericapay.ph
 bankofamericapayment.ph
@@ -94100,6 +94106,7 @@ bankofamericasports.ph
 bankofamericastockquotes.ph
 bankofamericasunucu.ph
 bankofamericasux.ph
+bankofamericaticari.ph
 bankofamericaticket.ph
 bankofamericatransfer.ph
 bankofamericaunlock.ph
@@ -146495,6 +146502,7 @@ ceama.in
 ceamcommunity.ru
 cearatur.com
 cearnflim.com
+cearsi.io
 ceatise.com
 ceatus.zone
 ceba.app
@@ -184009,7 +184017,16 @@ com-gift-esim-ai04.com
 com-gift-esim-aj04.com
 com-gift-esim-ak04.com
 com-gift-esim-al04.com
+com-gift-esim-ap04.com
+com-gift-esim-aq04.com
+com-gift-esim-ar04.com
+com-gift-esim-as04.com
+com-gift-esim-at04.com
 com-gift-esim-au04.com
+com-gift-esim-av04.com
+com-gift-esim-aw04.com
+com-gift-esim-ax04.com
+com-gift-esim-ay04.com
 com-gift-esim-b04.com
 com-gift-esim-bitrefill.com
 com-gift-esim-c04.com
@@ -184599,6 +184616,7 @@ com-polybet-q03.com
 com-polybet-q04.com
 com-polybet-q05.com
 com-polybet-q06.com
+com-polybet-q11.com
 com-polywalletconnect.cfd
 com-polywalletconnect.sbs
 com-pool.cfd
@@ -186534,6 +186552,7 @@ community-liquideth.com
 community-liquideth.net
 community-listing-v1.xyz
 community-listing.cc
+community-listings.app
 community-live.app
 community-live.net
 community-mantle.xyz
@@ -187764,6 +187783,7 @@ computerrh.digital
 computerrh.sbs
 computerrhs.cfd
 computersarehard.com
+computersrh.forum
 computersrh.tech
 computersrh.top
 computertecs.com
@@ -240425,6 +240445,7 @@ dpd-bdjfa.cc
 dpd-bexnaro.com
 dpd-calviro.click
 dpd-cod.top
+dpd-deo.top
 dpd-dynora.cc
 dpd-ie-bxn.link
 dpd-ie-edit.club
@@ -293590,6 +293611,7 @@ flaresparkline.live
 flaresparklive.com
 flaresparkreward.com
 flaress.network
+flarestaking.com
 flarestakingdao.com
 flaresvoting.app
 flareswap.fun
@@ -315840,6 +315862,7 @@ ghostswallets.xyz
 ghostswap.org
 ghostswareos.com
 ghosttracebuildhaze.monster
+ghostwallet.top
 ghostwallets.app
 ghostware-os.com
 ghostware.live
@@ -322970,6 +322993,7 @@ gov-netnet.sbs
 gov-netnet.top
 gov-netnet.xyz
 gov-netnetcap.cfd
+gov-netnetcap.com
 gov-netnetcap.icu
 gov-netnetcap.sbs
 gov-netnetcap.top
@@ -327854,6 +327878,7 @@ gstockbsc.meme
 gstockbsc.xyz
 gstockkbsc.lol
 gstocks.meme
+gstocks.world
 gstocksp.com
 gstouristcentre.gr
 gstpay.ca
@@ -327992,6 +328017,7 @@ gtc-conference.live
 gtc2026.org
 gtc26.live
 gtcargas.com
+gtcberlin.io
 gtccfds.com
 gtccfx.com
 gtccoin.io
@@ -337347,6 +337373,7 @@ hjty118.com
 hjty8.com
 hjuts.com
 hjvqtrp.cfd
+hjvvhgcfxgfxhghbjknkn.com
 hjvws.com
 hjword.com
 hjxmvtr.club
@@ -354983,6 +355010,7 @@ ingreso.site
 ingresoahoraneswes.fun
 ingresoahoranuevoahra.online
 ingresor.online
+ingresovalidacion-ar.sbs
 ingresrltaupy.com
 ingress-trustwallet.com
 ingresse-brasil.icu
@@ -367806,6 +367834,7 @@ jkhf.cc
 jkhf6rte.top
 jkhiol.top
 jkhjk5.ml
+jkhmkn.ph
 jkhxcvklsdflujkjhgdfuyter.ru
 jkin.be
 jking98.com
@@ -420553,6 +420582,7 @@ mantles.network
 mantles.sbs
 mantles.xyz
 mantlesnetworks.com
+mantlestaking.com
 mantlestation.com
 mantlestation.xyz
 mantlestations.xyz
@@ -457304,6 +457334,7 @@ my-sonicslabs.lol
 my-sonlclabs-upg.xyz
 my-sonlclabs-upgrade.icu
 my-sourcing.com
+my-spotify.app
 my-stable.com
 my-stake.eu
 my-starknet.io
@@ -464876,6 +464907,8 @@ neosify.com
 neosoul.digital
 neosoul.global
 neosoul.icu
+neosoul.info
+neosoul.ink
 neosoul.network
 neosoul.tech
 neosoul.wiki
@@ -468587,6 +468620,7 @@ nexo.com.cm
 nexoacervolia-es.live
 nexoacervolia.live
 nexobialixai.com
+nexoborrow.net
 nexobuild.com
 nexocashbacks.live
 nexochain.io
@@ -479507,8 +479541,12 @@ oc-google.com.cn
 oc-ox.com
 oc3lqth2xmqa6g9.college
 ocaccess.blog
+ocaccess.club
+ocaccess.dev
 ocaccess.live
 ocaccess.lol
+ocaccess.vip
+ocaccess.xyz
 ocaenprotocol.com
 ocaenprotocols.com
 ocagent-app.com
@@ -480410,6 +480448,7 @@ oferta-7654127.cfd
 oferta-7894213.shop
 oferta-84720192.icu
 oferta-873124.cfd
+oferta-9518421.cfd
 oferta-do-ze.shop
 oferta-lokalana37198264.sbs
 oferta-lokalana684538913895.shop
@@ -482351,6 +482390,7 @@ okxdaap.xyz
 okxdef66.com
 okxdefi.xyz
 okxdegex.com
+okxdek.com
 okxdowm.com
 okxdrop.com
 okxdrop.pro
@@ -497329,8 +497369,10 @@ packs-monshoot.com
 packscan.cash
 packscan.cc
 packscan.co
+packscan.dev
 packscan.help
 packscan.org
+packscan.tech
 packscanx2.cfd
 packserver-tracker.top
 packsignalr.cfd
@@ -515307,6 +515349,7 @@ pl11eight18vs.top
 pl18363.lol
 pl209381232jx2317vzx-218713.shop
 pl2x.cc
+pl47351.top
 pl60412.icu
 pl67720.lol
 pl823jx09z2304jy381.shop
@@ -536895,6 +536938,7 @@ puffer.wtf
 puffer.zone
 pufferairdrop.com
 pufferairdrop.xyz
+pufferbsc.com
 pufferbuilders.com
 pufferbuilders.net
 pufferbuilders.org
@@ -583389,6 +583433,7 @@ safucoinbnb.xyz
 safudex.online
 safudex.org
 safudex.pro
+safuonbsc.xyz
 safuu-launchpad.com
 safuu-protocol.com
 safuu-protocol.online
@@ -584899,6 +584944,7 @@ sandflawerslands.space
 sandflowersgame.fun
 sandgockel.de
 sandhyafarms.com
+sandia.online
 sandiegoseopro.com
 sandiegosleepandtmjcenter.com
 sandigo.xyz
@@ -605566,6 +605612,7 @@ sitemv6dc06xrat5.cfd
 sitemv6ddifwqh7n.cfd
 sitemv6delcw3htw.cfd
 sitemv8xg17pfwi9.cfd
+sitemv9ejlozo1hg.cfd
 sitemvdfxm9vz0tu.cfd
 sitemvdm66xf9twc.cfd
 sitemvdm6v7knwdc.cfd
@@ -605593,6 +605640,8 @@ sitemvjccfro5cw7.cfd
 sitemvjccv9vfbmw.cfd
 sitemvjpjqiq9y89.cfd
 sitemvjpk9lnnyes.cfd
+sitemvk2pjdpm5gu.cfd
+sitemvk2q14h6pra.cfd
 sitenitro-full.xyz
 siteoficialvenda.com.br
 sitepilot.pro
@@ -674017,6 +674066,7 @@ token-pepes.com
 token-pepeto.io
 token-pepeunchained.com
 token-phantom.com
+token-phantorn.top
 token-pixelverse.net
 token-pixelverse.org
 token-pocket-app.com
@@ -679329,6 +679379,7 @@ tracara.co.uk
 tracautomatitspow.com
 tracawec.cc
 tracbtc.com
+traccc119.pro
 tracdao.top
 tracdao.xyz
 trace-coinbase.com
@@ -679919,6 +679970,7 @@ trade-perpl.com
 trade-phantom.com
 trade-phantom.pro
 trade-phantom.top
+trade-phentoken.top
 trade-photonsol.com
 trade-polymarket.com
 trade-pool.live
@@ -680623,6 +680675,7 @@ tradesorder.net
 tradespark72-ai-software.com
 tradespark72-ai-system.com
 tradespectra.net
+tradesphantom.com
 tradesphere.pro
 tradesphereco.com
 tradespherefx.top
@@ -694844,6 +694897,7 @@ txxls.com
 txxrefuud-newzlnd.store
 txxx.biz
 txxxscript.xyz
+txxxxwcvccice.lol
 txzmlz.pro
 ty-cp168.ws
 ty-deelance.com
@@ -704034,6 +704088,7 @@ us01webzoomus.icu
 us01zoom.com
 us01zoom.us
 us02-invite.top
+us02-web-zoom.com
 us02-web-zoom.us
 us02-zoom.com
 us02-zoom.us
@@ -725497,6 +725552,7 @@ votings-3jane.xyz
 votings-aster.com
 votings-blast.com
 votings-dexscreener.com
+votings-embervalegame.com
 votings-ethena.xyz
 votings-ethenafi.xyz
 votings-etherfi.xyz
@@ -741262,6 +741318,7 @@ whatsappget.com
 whatsappgu.com
 whatsapph.com
 whatsappidn.com
+whatsappin.biz.id
 whatsappnk.com
 whatsappp.vip
 whatsapppbusiness.com
@@ -759009,6 +759066,7 @@ xn--trzor-jza.eu
 xn--trzor-k0a.com
 xn--trzor-k0a.eu
 xn--trzor-k0a.io
+xn--trzor-k0a.net
 xn--trzor-k0a.org
 xn--trzorwallet-3qb.com
 xn--trzorwallet-3qb.net
@@ -773936,6 +773994,7 @@ zoom-authmeet.com.es
 zoom-av.com
 zoom-b.com.cn
 zoom-c.com.cn
+zoom-call.com
 zoom-callinvite.com
 zoom-chat.online
 zoom-client.com
@@ -773979,6 +774038,7 @@ zoom-gpt.com
 zoom-h.com.cn
 zoom-help.click
 zoom-help.com
+zoom-host.su
 zoom-howto.net
 zoom-id.com
 zoom-id.fun
@@ -774291,6 +774351,7 @@ zoomconnectpro.com
 zoomconnectsession.live
 zoomconnectsupport.live
 zoomconnet.online
+zoomconneting-workspace.com
 zoomcoolus.com
 zoomcorp.org
 zoomcorrp.ca
@@ -774446,6 +774507,7 @@ zoominviite.org
 zoominviite.top
 zoominviites.us
 zoominvitation.us
+zoominvitationmeetingconnect.pw
 zoominvite-meeting.live
 zoominvite.cfd
 zoominvite.click
@@ -774692,6 +774754,7 @@ zoomsaccess.com
 zoomsaleslink.co
 zoomsaleslink.com
 zoomschedule.top
+zoomsconnect.com
 zoomsconnectivity.com
 zoomscontrolmods.com
 zoomsdk.us
@@ -774919,6 +774982,7 @@ zoorn-live.com
 zoorn-lives.com
 zoorn-meet.com
 zoorn-meeting.com
+zoorn-private-conference.com
 zoorn-web.com
 zoornapp.digital
 zoornint.com

@@ -1,4 +1,4 @@
-# Destroylist - Community | hosts | 1,141,235 domains | 2026-10-23 03:08 UTC
+# Destroylist - Community | hosts | 1,141,397 domains | 2026-10-23 09:06 UTC
 # https://github.com/phishdestroy/destroylist
 
 0.0.0.0 0-0.coinbase-com.info
@@ -4037,6 +4037,7 @@
 0.0.0.0 12-proposal-globaldollar.pages.dev
 0.0.0.0 12-proposal-jumper.pages.dev
 0.0.0.0 12-proposal-loanmeme.pages.dev
+0.0.0.0 12-proposal-paperstrategy.pages.dev
 0.0.0.0 12-proposal-papertrade.pages.dev
 0.0.0.0 12-proposal-prjx.pages.dev
 0.0.0.0 12-proposal-saturncredit.pages.dev
@@ -4485,6 +4486,7 @@
 0.0.0.0 13-predeposit-papertrade.pages.dev
 0.0.0.0 13-predictfun.pages.dev
 0.0.0.0 13-proposal-3jane.pages.dev
+0.0.0.0 13-proposal-apyxfi.pages.dev
 0.0.0.0 13-proposal-argus-epf.pages.dev
 0.0.0.0 13-proposal-argus.pages.dev
 0.0.0.0 13-proposal-computersrh.pages.dev
@@ -4917,6 +4919,7 @@
 0.0.0.0 14-saturncredit.pages.dev
 0.0.0.0 14-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 14-tge-extended.pages.dev
+0.0.0.0 14-usefelix.pages.dev
 0.0.0.0 14-venice.pages.dev
 0.0.0.0 14-vote-argusworld.pages.dev
 0.0.0.0 14-vote-cashmereexchange.pages.dev
@@ -5327,6 +5330,7 @@
 0.0.0.0 15-proposal-loanmeme.pages.dev
 0.0.0.0 15-proposal-papertrade.pages.dev
 0.0.0.0 15-proposal-prjx.pages.dev
+0.0.0.0 15-proposal-saturncredit.pages.dev
 0.0.0.0 15-proposal-synthra.pages.dev
 0.0.0.0 15-proposal-zama.pages.dev
 0.0.0.0 15-proposals-papertrade.pages.dev
@@ -5469,6 +5473,7 @@
 0.0.0.0 154920-crypto.com
 0.0.0.0 154934-coinbase.com
 0.0.0.0 154p-adk-yg8k-xl14x3-gllncd.pages.dev
+0.0.0.0 155-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 1550453-coinbase.com
 0.0.0.0 155152-coinbase.com
 0.0.0.0 15520.net
@@ -6311,6 +6316,7 @@
 0.0.0.0 17-proposal-computersrh.pages.dev
 0.0.0.0 17-proposal-derive.pages.dev
 0.0.0.0 17-proposal-ethos.pages.dev
+0.0.0.0 17-proposal-fablesfi.pages.dev
 0.0.0.0 17-proposal-globaldollar.pages.dev
 0.0.0.0 17-proposal-jumper.pages.dev
 0.0.0.0 17-proposal-loanmeme.pages.dev
@@ -7550,6 +7556,7 @@
 0.0.0.0 19-gov-papertrade.pages.dev
 0.0.0.0 19-gov-ponsfamily.pages.dev
 0.0.0.0 19-gov-ramses.pages.dev
+0.0.0.0 19-governance-aero.pages.dev
 0.0.0.0 19-governance-kinetiq.pages.dev
 0.0.0.0 19-kinetiqgov.pages.dev
 0.0.0.0 19-netnet.pages.dev
@@ -10749,6 +10756,7 @@
 0.0.0.0 20-gov-papertrade.pages.dev
 0.0.0.0 20-gov-ponsfamily.pages.dev
 0.0.0.0 20-gov-ramses.pages.dev
+0.0.0.0 20-governance-aero.pages.dev
 0.0.0.0 20-governance-kinetiq.pages.dev
 0.0.0.0 20-kinetiqgov.pages.dev
 0.0.0.0 20-netnet.pages.dev
@@ -11300,6 +11308,7 @@
 0.0.0.0 21-gov-concrete.pages.dev
 0.0.0.0 21-gov-papertrade.pages.dev
 0.0.0.0 21-gov-ramses.pages.dev
+0.0.0.0 21-governance-aero.pages.dev
 0.0.0.0 21-governance-kinetiq.pages.dev
 0.0.0.0 21-kinetiqgov.pages.dev
 0.0.0.0 21-netnet.pages.dev
@@ -11546,6 +11555,7 @@
 0.0.0.0 22-gov-concrete.pages.dev
 0.0.0.0 22-gov-papertrade.pages.dev
 0.0.0.0 22-gov-ramses.pages.dev
+0.0.0.0 22-governance-aero.pages.dev
 0.0.0.0 22-governance-kinetiq.pages.dev
 0.0.0.0 22-icloud.com
 0.0.0.0 22-kinetiqgov.pages.dev
@@ -11768,6 +11778,7 @@
 0.0.0.0 23-gov-argus.pages.dev
 0.0.0.0 23-gov-concrete.pages.dev
 0.0.0.0 23-gov-papertrade.pages.dev
+0.0.0.0 23-governance-aero.pages.dev
 0.0.0.0 23-governance-kinetiq.pages.dev
 0.0.0.0 23-kinetiqgov.pages.dev
 0.0.0.0 23-musk.com
@@ -12099,6 +12110,7 @@
 0.0.0.0 24-gov-argus.pages.dev
 0.0.0.0 24-gov-concrete.pages.dev
 0.0.0.0 24-gov-papertrade.pages.dev
+0.0.0.0 24-governance-aero.pages.dev
 0.0.0.0 24-governance-kinetiq.pages.dev
 0.0.0.0 24-kinetiqgov.pages.dev
 0.0.0.0 24-netnet.pages.dev
@@ -14261,6 +14273,7 @@
 0.0.0.0 3-venice.pages.dev
 0.0.0.0 3-vote-argusworld.pages.dev
 0.0.0.0 3-vote-cashmereexchange.pages.dev
+0.0.0.0 3-vote-jumperhyz.pages.dev
 0.0.0.0 3-vote-paperstrategy.pages.dev
 0.0.0.0 3-vote-papertrade.pages.dev
 0.0.0.0 3-vote-ponsfamily.pages.dev
@@ -18167,6 +18180,7 @@
 0.0.0.0 45-tge-extended.pages.dev
 0.0.0.0 45-venice.pages.dev
 0.0.0.0 45-vote-argusworld.pages.dev
+0.0.0.0 45-vote-cashmereexchange.pages.dev
 0.0.0.0 45-vote-ponsfamily.pages.dev
 0.0.0.0 45.busd-pool.xyz
 0.0.0.0 450-etr.ca
@@ -19870,6 +19884,7 @@
 0.0.0.0 50652coinbase.com
 0.0.0.0 50691.pet
 0.0.0.0 506945-kraken.com
+0.0.0.0 507048718-launchpad-gokiteai.pages.dev
 0.0.0.0 50734coinbase.com
 0.0.0.0 50754coinbase.com
 0.0.0.0 507752.icefactory.cl
@@ -23736,6 +23751,7 @@
 0.0.0.0 68-kinetiqgov.pages.dev
 0.0.0.0 68-netnet.pages.dev
 0.0.0.0 68-proposal-globaldollar.pages.dev
+0.0.0.0 68-proposal-papertrade.pages.dev
 0.0.0.0 68-proposal-prjx.pages.dev
 0.0.0.0 68-reallocate-flare.pages.dev
 0.0.0.0 68-saturncredit.pages.dev
@@ -24150,6 +24166,7 @@
 0.0.0.0 6bad5168.curve-fi-pools.pages.dev
 0.0.0.0 6bed10b4-7f14-47f0-9a8a-ae46c6e2c953-00-29op5zoaeva8f.picard.replit.dev
 0.0.0.0 6bf172.icefactory.cl
+0.0.0.0 6bf3c840-b012-4d95-a579-a707046147d0.my-spotify.app
 0.0.0.0 6bf50c04bdd64f3c.raydiumpro-web.shop
 0.0.0.0 6bgw0m.pro
 0.0.0.0 6biw0uc1.workers.dev
@@ -24587,6 +24604,7 @@
 0.0.0.0 7-governance-netnetcap.pages.dev
 0.0.0.0 7-governance-papertrade.pages.dev
 0.0.0.0 7-governance-papertradexyz.pages.dev
+0.0.0.0 7-governance-zama.pages.dev
 0.0.0.0 7-hyperlinkapp-86x.pages.dev
 0.0.0.0 7-hyperlinkxyz-e79.pages.dev
 0.0.0.0 7-ico-papertrade.pages.dev
@@ -24615,6 +24633,7 @@
 0.0.0.0 7-proposal-saturncredit.pages.dev
 0.0.0.0 7-proposal-synthra.pages.dev
 0.0.0.0 7-proposal-torchpadfun.pages.dev
+0.0.0.0 7-proposal-usenest.pages.dev
 0.0.0.0 7-proposal-zama.pages.dev
 0.0.0.0 7-proposals-papertrade.pages.dev
 0.0.0.0 7-ramses-events.pages.dev
@@ -24654,6 +24673,7 @@
 0.0.0.0 70-0xfluid.pages.dev
 0.0.0.0 70-arguseco.pages.dev
 0.0.0.0 70-derivexyz.pages.dev
+0.0.0.0 70-kinetiqgov.pages.dev
 0.0.0.0 70-netnet.pages.dev
 0.0.0.0 70-proposal-globaldollar.pages.dev
 0.0.0.0 70-proposal-prjx.pages.dev
@@ -24760,6 +24780,7 @@
 0.0.0.0 71-0xfluid.pages.dev
 0.0.0.0 71-arguseco.pages.dev
 0.0.0.0 71-derivexyz.pages.dev
+0.0.0.0 71-kinetiqgov.pages.dev
 0.0.0.0 71-netnet.pages.dev
 0.0.0.0 71-proposal-globaldollar.pages.dev
 0.0.0.0 71-proposal-prjx.pages.dev
@@ -24937,6 +24958,7 @@
 0.0.0.0 72-51.sbs
 0.0.0.0 72-arguseco.pages.dev
 0.0.0.0 72-derivexyz.pages.dev
+0.0.0.0 72-kinetiqgov.pages.dev
 0.0.0.0 72-netnet.pages.dev
 0.0.0.0 72-proposal-globaldollar.pages.dev
 0.0.0.0 72-proposal-prjx.pages.dev
@@ -25120,6 +25142,7 @@
 0.0.0.0 73-allowlist-ascendlaunch.pages.dev
 0.0.0.0 73-arguseco.pages.dev
 0.0.0.0 73-derivexyz.pages.dev
+0.0.0.0 73-kinetiqgov.pages.dev
 0.0.0.0 73-netnet.pages.dev
 0.0.0.0 73-proposal-globaldollar.pages.dev
 0.0.0.0 73-proposal-prjx.pages.dev
@@ -25413,6 +25436,7 @@
 0.0.0.0 74-248-32-242.cprapid.com
 0.0.0.0 74-arguseco.pages.dev
 0.0.0.0 74-derivexyz.pages.dev
+0.0.0.0 74-kinetiqgov.pages.dev
 0.0.0.0 74-netnet.pages.dev
 0.0.0.0 74-proposal-globaldollar.pages.dev
 0.0.0.0 74-proposal-prjx.pages.dev
@@ -25558,6 +25582,7 @@
 0.0.0.0 75-0xfluid.pages.dev
 0.0.0.0 75-arguseco.pages.dev
 0.0.0.0 75-derivexyz.pages.dev
+0.0.0.0 75-kinetiqgov.pages.dev
 0.0.0.0 75-netnet.pages.dev
 0.0.0.0 75-proposal-globaldollar.pages.dev
 0.0.0.0 75-proposal-prjx.pages.dev
@@ -25678,6 +25703,7 @@
 0.0.0.0 76-0xfluid.pages.dev
 0.0.0.0 76-arguseco.pages.dev
 0.0.0.0 76-derivexyz.pages.dev
+0.0.0.0 76-kinetiqgov.pages.dev
 0.0.0.0 76-netnet.pages.dev
 0.0.0.0 76-proposal-globaldollar.pages.dev
 0.0.0.0 76-proposal-prjx.pages.dev
@@ -25847,6 +25873,7 @@
 0.0.0.0 77-bit.mintyoursnft.art
 0.0.0.0 77-blt.com
 0.0.0.0 77-derivexyz.pages.dev
+0.0.0.0 77-kinetiqgov.pages.dev
 0.0.0.0 77-netnet.pages.dev
 0.0.0.0 77-proposal-globaldollar.pages.dev
 0.0.0.0 77-proposal-prjx.pages.dev
@@ -26954,12 +26981,14 @@
 0.0.0.0 8-google.com.cn
 0.0.0.0 8-gov-argus.pages.dev
 0.0.0.0 8-gov-concrete.pages.dev
+0.0.0.0 8-gov-netnetcap.pages.dev
 0.0.0.0 8-gov-papertrade.pages.dev
 0.0.0.0 8-gov-ponsfamily.pages.dev
 0.0.0.0 8-gov-ramses.pages.dev
 0.0.0.0 8-governance-aero.pages.dev
 0.0.0.0 8-governance-fablesfi.pages.dev
 0.0.0.0 8-governance-kinetiq.pages.dev
+0.0.0.0 8-governance-netnetcap.pages.dev
 0.0.0.0 8-governance-papertradexyz.pages.dev
 0.0.0.0 8-hyperlinkapp-86x.pages.dev
 0.0.0.0 8-hyperlinkxyz-e79.pages.dev
@@ -26989,6 +27018,7 @@
 0.0.0.0 8-proposal-prjx.pages.dev
 0.0.0.0 8-proposal-saturncredit.pages.dev
 0.0.0.0 8-proposal-synthra.pages.dev
+0.0.0.0 8-proposal-torchpadfun.pages.dev
 0.0.0.0 8-proposal-zama.pages.dev
 0.0.0.0 8-proposals-papertrade.pages.dev
 0.0.0.0 8-ramses-events.pages.dev
@@ -27835,6 +27865,7 @@
 0.0.0.0 84-derivexyz.pages.dev
 0.0.0.0 84-it-101.phantom-virtual-tap.com
 0.0.0.0 84-netnet.pages.dev
+0.0.0.0 84-proposal-globaldollar.pages.dev
 0.0.0.0 84-proposal-prjx.pages.dev
 0.0.0.0 84-reallocate-flare.pages.dev
 0.0.0.0 84-saturncredit.pages.dev
@@ -29823,10 +29854,12 @@
 0.0.0.0 9-google.com.cn
 0.0.0.0 9-gov-argus.pages.dev
 0.0.0.0 9-gov-concrete.pages.dev
+0.0.0.0 9-gov-netnetcap.pages.dev
 0.0.0.0 9-gov-papertrade.pages.dev
 0.0.0.0 9-gov-ponsfamily.pages.dev
 0.0.0.0 9-gov-ramses.pages.dev
 0.0.0.0 9-governance-aero.pages.dev
+0.0.0.0 9-governance-fablesfi.pages.dev
 0.0.0.0 9-governance-kinetiq.pages.dev
 0.0.0.0 9-governance-papertradexyz.pages.dev
 0.0.0.0 9-hyperlinkapp-86x.pages.dev
@@ -29852,6 +29885,7 @@
 0.0.0.0 9-proposal-loanmeme.pages.dev
 0.0.0.0 9-proposal-paperstrategy.pages.dev
 0.0.0.0 9-proposal-papertrade.pages.dev
+0.0.0.0 9-proposal-ponsfamily.pages.dev
 0.0.0.0 9-proposal-prjx.pages.dev
 0.0.0.0 9-proposal-synthra.pages.dev
 0.0.0.0 9-proposal-zama.pages.dev
@@ -30895,6 +30929,7 @@
 0.0.0.0 95-allowlist-ascendlaunch.pages.dev
 0.0.0.0 95-derivexyz.pages.dev
 0.0.0.0 95-micropos.coinbase-com.info
+0.0.0.0 95-netnet.pages.dev
 0.0.0.0 95-reallocate-flare.pages.dev
 0.0.0.0 95-stonkbroker-clutchmarkets.pages.dev
 0.0.0.0 950025.com
@@ -55965,6 +56000,7 @@
 0.0.0.0 airdrop.naoristoken.com
 0.0.0.0 airdrop.naoristoken.world
 0.0.0.0 airdrop.nationzk.network
+0.0.0.0 airdrop.neosoul.info
 0.0.0.0 airdrop.network-manta.com
 0.0.0.0 airdrop.networkmanta-airdrops.cloud
 0.0.0.0 airdrop.neverbackdown.lat
@@ -64133,6 +64169,7 @@
 0.0.0.0 allegrolokalnie.oferta-7498325.cfd
 0.0.0.0 allegrolokalnie.oferta-7654127.cfd
 0.0.0.0 allegrolokalnie.oferta-873124.cfd
+0.0.0.0 allegrolokalnie.oferta-9518421.cfd
 0.0.0.0 allegrolokalnie.oferta-lokalana37198264.sbs
 0.0.0.0 allegrolokalnie.oferta-lokalana6899824312.top
 0.0.0.0 allegrolokalnie.oferta-lokalana694502304235.lol
@@ -64331,6 +64368,7 @@
 0.0.0.0 allegrolokalnie.pl059180.sbs
 0.0.0.0 allegrolokalnie.pl18363.lol
 0.0.0.0 allegrolokalnie.pl209381232jx2317vzx-218713.shop
+0.0.0.0 allegrolokalnie.pl47351.top
 0.0.0.0 allegrolokalnie.pl60412.icu
 0.0.0.0 allegrolokalnie.pl67720.lol
 0.0.0.0 allegrolokalnie.pl823jx09z2304jy381.shop
@@ -86477,6 +86515,7 @@
 0.0.0.0 app-gomble.xyz
 0.0.0.0 app-goodvibesclub.com
 0.0.0.0 app-google-chromme.com.cn
+0.0.0.0 app-google-com.cn
 0.0.0.0 app-google.cc
 0.0.0.0 app-google.live
 0.0.0.0 app-gotchi.com
@@ -101288,6 +101327,7 @@
 0.0.0.0 apwliquid.org
 0.0.0.0 apx-defimerch.com
 0.0.0.0 apx-layer.com
+0.0.0.0 apx-security.www.amazon.co.jp.jkhmkn.ph
 0.0.0.0 apx-sushi.cc
 0.0.0.0 apx-sushi.pro
 0.0.0.0 apx.club
@@ -131570,6 +131610,8 @@
 0.0.0.0 bankofamerica-secure-changelog.ph
 0.0.0.0 bankofamerica-secure-console.ph
 0.0.0.0 bankofamerica-secure-customerservice.ph
+0.0.0.0 bankofamerica-secure-dashboard.ph
+0.0.0.0 bankofamerica-secure-guide.ph
 0.0.0.0 bankofamerica-secure-identity.ph
 0.0.0.0 bankofamerica-secure-info.ph
 0.0.0.0 bankofamerica-secure-log.ph
@@ -131595,6 +131637,7 @@
 0.0.0.0 bankofamerica-secure-verification-alert.ph
 0.0.0.0 bankofamerica-secure-verification-email.ph
 0.0.0.0 bankofamerica-secure-verificational.ph
+0.0.0.0 bankofamerica-secure-work.ph
 0.0.0.0 bankofamerica-secured.com
 0.0.0.0 bankofamerica-security.blogspot.com
 0.0.0.0 bankofamerica-sign.ph
@@ -131692,6 +131735,7 @@
 0.0.0.0 bankofamericaexposed.ph
 0.0.0.0 bankofamericaf.ph
 0.0.0.0 bankofamericafacebook.ph
+0.0.0.0 bankofamericafairfund.ph
 0.0.0.0 bankofamericafamilyoffice.ph
 0.0.0.0 bankofamericafinancial.ph
 0.0.0.0 bankofamericafinancialcenter.ph
@@ -131748,6 +131792,7 @@
 0.0.0.0 bankofamericaoperation.ph
 0.0.0.0 bankofamericaoversight.ph
 0.0.0.0 bankofamericaowner.ph
+0.0.0.0 bankofamericapartners.ph
 0.0.0.0 bankofamericapavillion.ph
 0.0.0.0 bankofamericapay.ph
 0.0.0.0 bankofamericapayment.ph
@@ -131789,6 +131834,7 @@
 0.0.0.0 bankofamericastockquotes.ph
 0.0.0.0 bankofamericasunucu.ph
 0.0.0.0 bankofamericasux.ph
+0.0.0.0 bankofamericaticari.ph
 0.0.0.0 bankofamericaticket.ph
 0.0.0.0 bankofamericatransfer.ph
 0.0.0.0 bankofamericaunlock.ph
@@ -154014,6 +154060,15 @@
 0.0.0.0 bitrefill.com-gift-esim-ai04.com
 0.0.0.0 bitrefill.com-gift-esim-aj04.com
 0.0.0.0 bitrefill.com-gift-esim-ak04.com
+0.0.0.0 bitrefill.com-gift-esim-ap04.com
+0.0.0.0 bitrefill.com-gift-esim-aq04.com
+0.0.0.0 bitrefill.com-gift-esim-ar04.com
+0.0.0.0 bitrefill.com-gift-esim-as04.com
+0.0.0.0 bitrefill.com-gift-esim-at04.com
+0.0.0.0 bitrefill.com-gift-esim-au04.com
+0.0.0.0 bitrefill.com-gift-esim-av04.com
+0.0.0.0 bitrefill.com-gift-esim-aw04.com
+0.0.0.0 bitrefill.com-gift-esim-ax04.com
 0.0.0.0 bitrefill.com-gift-esim-b04.com
 0.0.0.0 bitrefill.com-gift-esim-bitrefill.com
 0.0.0.0 bitrefill.com-gift-esim-c04.com
@@ -194869,6 +194924,7 @@
 0.0.0.0 ceamcommunity.ru
 0.0.0.0 cearnflim.com
 0.0.0.0 cearnflim.com.chrisflim.com
+0.0.0.0 cearsi.io
 0.0.0.0 ceaserespomain.wasmer.app
 0.0.0.0 ceatise.com
 0.0.0.0 ceatus.zone
@@ -230550,6 +230606,7 @@
 0.0.0.0 cloud-base-429.cf-yvcos704.workers.dev
 0.0.0.0 cloud-base-b25.cf-xtv9wuw4.workers.dev
 0.0.0.0 cloud-base-dapp.vercel.app
+0.0.0.0 cloud-base-ext.framer.media
 0.0.0.0 cloud-base-extensiion-wallet.pages.dev
 0.0.0.0 cloud-base-extensio.pages.dev
 0.0.0.0 cloud-base-extension-browser.pages.dev
@@ -256838,6 +256895,7 @@
 0.0.0.0 community-liquideth.com
 0.0.0.0 community-liquideth.net
 0.0.0.0 community-listing.cc
+0.0.0.0 community-listings.app
 0.0.0.0 community-live.app
 0.0.0.0 community-live.net
 0.0.0.0 community-mantle.xyz
@@ -258269,6 +258327,7 @@
 0.0.0.0 computerrh.digital
 0.0.0.0 computerrh.sbs
 0.0.0.0 computerrhs.cfd
+0.0.0.0 computersrh.forum
 0.0.0.0 computersrh.tech
 0.0.0.0 computersrh.top
 0.0.0.0 computertecs.com
@@ -288934,6 +288993,8 @@
 0.0.0.0 dapp.nodesynapes.app
 0.0.0.0 dapp.nomotas.nl
 0.0.0.0 dapp.ocaccess.blog
+0.0.0.0 dapp.ocaccess.club
+0.0.0.0 dapp.ocaccess.dev
 0.0.0.0 dapp.ocaccess.live
 0.0.0.0 dapp.ocaccess.lol
 0.0.0.0 dapp.ocagent-cdn.com
@@ -330486,6 +330547,7 @@
 0.0.0.0 dpd-calviro.click
 0.0.0.0 dpd-checking.eu.cc
 0.0.0.0 dpd-cod.top
+0.0.0.0 dpd-deo.top
 0.0.0.0 dpd-group-paiement-en-ligne-23.weebly.com
 0.0.0.0 dpd-group-taseneh779753577.codeanyapp.com
 0.0.0.0 dpd-ie-bxn.link
@@ -359765,6 +359827,7 @@
 0.0.0.0 enusex0dus.wixstudio.com
 0.0.0.0 enusexe-dos.pages.dev
 0.0.0.0 enusexedozx.pages.dev
+0.0.0.0 enusexodus.framer.media
 0.0.0.0 enusexodus.ghost.io
 0.0.0.0 enusexodus.wixstudio.com
 0.0.0.0 enusexodusss.framer.media
@@ -402110,6 +402173,7 @@
 0.0.0.0 flaresparklive.com
 0.0.0.0 flaresparkreward.com
 0.0.0.0 flaress.network
+0.0.0.0 flarestaking.com
 0.0.0.0 flarestaking.weebly.com
 0.0.0.0 flarestakingdao.com
 0.0.0.0 flarestrate.pages.dev
@@ -405939,7 +406003,9 @@
 0.0.0.0 fomo-distri.com
 0.0.0.0 fomo-drop.xyz
 0.0.0.0 fomo-enter.com
+0.0.0.0 fomo-family-0m6.netlify.app
 0.0.0.0 fomo-family-t6j.netlify.app
+0.0.0.0 fomo-family-u9p.netlify.app
 0.0.0.0 fomo-family.com
 0.0.0.0 fomo-family.top
 0.0.0.0 fomo-family.world
@@ -429653,6 +429719,7 @@
 0.0.0.0 ghostswap.org
 0.0.0.0 ghostswareos.com
 0.0.0.0 ghosttracebuildhaze.monster
+0.0.0.0 ghostwallet.top
 0.0.0.0 ghostwallets.app
 0.0.0.0 ghostware-os.com
 0.0.0.0 ghostware.live
@@ -438920,6 +438987,7 @@
 0.0.0.0 gov-netnet.top
 0.0.0.0 gov-netnet.xyz
 0.0.0.0 gov-netnetcap.cfd
+0.0.0.0 gov-netnetcap.com
 0.0.0.0 gov-netnetcap.icu
 0.0.0.0 gov-netnetcap.pages.dev
 0.0.0.0 gov-netnetcap.sbs
@@ -444303,6 +444371,7 @@
 0.0.0.0 gstockbsc.xyz
 0.0.0.0 gstockkbsc.lol
 0.0.0.0 gstocks.meme
+0.0.0.0 gstocks.world
 0.0.0.0 gstocksp.com
 0.0.0.0 gstouristcentre.gr
 0.0.0.0 gstpay.ca
@@ -444476,6 +444545,7 @@
 0.0.0.0 gtc2026.org
 0.0.0.0 gtc26.live
 0.0.0.0 gtcargas.com
+0.0.0.0 gtcberlin.io
 0.0.0.0 gtccfds.com
 0.0.0.0 gtccfx.com
 0.0.0.0 gtccoin.io
@@ -457922,6 +457992,7 @@
 0.0.0.0 help.colnbase.co
 0.0.0.0 help.colnbase.site
 0.0.0.0 help.com-polybet-q02.com
+0.0.0.0 help.com-polybet-q11.com
 0.0.0.0 help.com.ci
 0.0.0.0 help.confirmip.com
 0.0.0.0 help.consultarprocessos.com
@@ -461674,6 +461745,7 @@
 0.0.0.0 hjuts.com
 0.0.0.0 hjvillakmms.weebly.com
 0.0.0.0 hjvmjjoh.workers.dev
+0.0.0.0 hjvvhgcfxgfxhghbjknkn.com
 0.0.0.0 hjvws.com
 0.0.0.0 hjwofith.workers.dev
 0.0.0.0 hjword.com
@@ -485944,6 +486016,7 @@
 0.0.0.0 ingresomicrot.infy.click
 0.0.0.0 ingresor.online
 0.0.0.0 ingresos-itau.vercel.app
+0.0.0.0 ingresovalidacion-ar.sbs
 0.0.0.0 ingresrltaupy.com
 0.0.0.0 ingress-handler.github.io
 0.0.0.0 ingress-trustwallet.com
@@ -577641,6 +577714,7 @@
 0.0.0.0 mail.hex.arhamsoft.info
 0.0.0.0 mail.hidgizgroup.com
 0.0.0.0 mail.hindiper.com
+0.0.0.0 mail.hmwscusw.bradesco.support.zaka25.duckdns.org
 0.0.0.0 mail.holo-airdrops.org
 0.0.0.0 mail.holoframe.space
 0.0.0.0 mail.holoframes.tech
@@ -583779,6 +583853,7 @@
 0.0.0.0 mantles.xyz
 0.0.0.0 mantlesnetworks.com
 0.0.0.0 mantlesrfsdf.pages.dev
+0.0.0.0 mantlestaking.com
 0.0.0.0 mantlestation.com
 0.0.0.0 mantlesxyz.org
 0.0.0.0 mantletoday.xyz
@@ -590619,6 +590694,7 @@
 0.0.0.0 medi-summary-reports.net
 0.0.0.0 media-delifama.framer.ai
 0.0.0.0 media-dmca.cfd
+0.0.0.0 media-extension-app.framer.website
 0.0.0.0 media-hub.icu
 0.0.0.0 media-info.cn
 0.0.0.0 media-kljuc.ba
@@ -620746,6 +620822,7 @@
 0.0.0.0 mfa-options.com
 0.0.0.0 mfa-phantom.com
 0.0.0.0 mfa-tj.download
+0.0.0.0 mfa.acquency.com
 0.0.0.0 mfa.gypsyallied.com
 0.0.0.0 mfa.itpatches.com
 0.0.0.0 mface-book.com.vn
@@ -663348,8 +663425,10 @@
 0.0.0.0 neosify.com
 0.0.0.0 neosmarteconomy.netlify.com
 0.0.0.0 neosoul.digital
+0.0.0.0 neosoul.eligibility.it.com
 0.0.0.0 neosoul.global
 0.0.0.0 neosoul.icu
+0.0.0.0 neosoul.ink
 0.0.0.0 neosoul.network
 0.0.0.0 neosoul.tech
 0.0.0.0 neosoul.wiki
@@ -668653,6 +668732,7 @@
 0.0.0.0 nexoacervolia.live
 0.0.0.0 nexoairdrop.vercel.app
 0.0.0.0 nexobialixai.com
+0.0.0.0 nexoborrow.net
 0.0.0.0 nexocashbacks.live
 0.0.0.0 nexoclaim.lol
 0.0.0.0 nexoclaims.com
@@ -670839,6 +670919,7 @@
 0.0.0.0 nft.monz-group.club
 0.0.0.0 nft.monz-groups.club
 0.0.0.0 nft.monzgroups.lol
+0.0.0.0 nft.moonup.fun
 0.0.0.0 nft.mtwinparty.com
 0.0.0.0 nft.nbatop.net
 0.0.0.0 nft.nbjkasdzs.cyou
@@ -683368,6 +683449,10 @@
 0.0.0.0 ocabluebeneficios.netlify.app
 0.0.0.0 ocablueconbeneficios.netlify.app
 0.0.0.0 ocablueuru.netlify.app
+0.0.0.0 ocaccess.club
+0.0.0.0 ocaccess.dev
+0.0.0.0 ocaccess.vip
+0.0.0.0 ocaccess.xyz
 0.0.0.0 ocadecanoj.cloud-ip.cc
 0.0.0.0 ocaenprotocol.com
 0.0.0.0 ocaenprotocols.com
@@ -687196,6 +687281,7 @@
 0.0.0.0 okxdappconnect.pages.dev
 0.0.0.0 okxdefi.xyz
 0.0.0.0 okxdegex.com
+0.0.0.0 okxdek.com
 0.0.0.0 okxdex.firebaseapp.com
 0.0.0.0 okxdownload.pages.dev
 0.0.0.0 okxdrainer.pages.dev
@@ -708198,8 +708284,10 @@
 0.0.0.0 packscan.cash
 0.0.0.0 packscan.cc
 0.0.0.0 packscan.co
+0.0.0.0 packscan.dev
 0.0.0.0 packscan.help
 0.0.0.0 packscan.org
+0.0.0.0 packscan.tech
 0.0.0.0 packserver-tracker.top
 0.0.0.0 packtrack-serve.info
 0.0.0.0 packwoodsxruntzuk.com
@@ -717242,7 +717330,16 @@
 0.0.0.0 pay-bitrefill.com-gift-esim-aj04.com
 0.0.0.0 pay-bitrefill.com-gift-esim-ak04.com
 0.0.0.0 pay-bitrefill.com-gift-esim-al04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-ap04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-aq04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-ar04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-as04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-at04.com
 0.0.0.0 pay-bitrefill.com-gift-esim-au04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-av04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-aw04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-ax04.com
+0.0.0.0 pay-bitrefill.com-gift-esim-ay04.com
 0.0.0.0 pay-bitrefill.com-gift-esim-bitrefill.com
 0.0.0.0 pay-bitrefill.com-gift-esim-c04.com
 0.0.0.0 pay-bitrefill.com-gift-esim-d04.com
@@ -735388,6 +735485,7 @@
 0.0.0.0 plume-claim.pages.dev
 0.0.0.0 plume-claim.uno
 0.0.0.0 plume-claim.xyz
+0.0.0.0 plume-community-vote-en9963.vercel.app
 0.0.0.0 plume-drivex.pages.dev
 0.0.0.0 plume-eligible.com
 0.0.0.0 plume-faucet.pages.dev
@@ -744519,6 +744617,7 @@
 0.0.0.0 portal-mono.live
 0.0.0.0 portal-moonbirds.com
 0.0.0.0 portal-moonpay-cdn.my.canva.site
+0.0.0.0 portal-moonshot-004.netlify.app
 0.0.0.0 portal-moonshot-02f.netlify.app
 0.0.0.0 portal-moonshot-02o.netlify.app
 0.0.0.0 portal-moonshot-02x.netlify.app
@@ -744538,6 +744637,7 @@
 0.0.0.0 portal-moonshot-0sr.netlify.app
 0.0.0.0 portal-moonshot-0ts.netlify.app
 0.0.0.0 portal-moonshot-0uw.netlify.app
+0.0.0.0 portal-moonshot-0va.netlify.app
 0.0.0.0 portal-moonshot-0w6.netlify.app
 0.0.0.0 portal-moonshot-0yf.netlify.app
 0.0.0.0 portal-moonshot-0zn.netlify.app
@@ -744600,6 +744700,7 @@
 0.0.0.0 portal-moonshot-3si.netlify.app
 0.0.0.0 portal-moonshot-3v4.netlify.app
 0.0.0.0 portal-moonshot-3vb.netlify.app
+0.0.0.0 portal-moonshot-3w5.netlify.app
 0.0.0.0 portal-moonshot-3xa.netlify.app
 0.0.0.0 portal-moonshot-3yh.netlify.app
 0.0.0.0 portal-moonshot-3z2.netlify.app
@@ -744658,6 +744759,7 @@
 0.0.0.0 portal-moonshot-66m.netlify.app
 0.0.0.0 portal-moonshot-68o.netlify.app
 0.0.0.0 portal-moonshot-6c3.netlify.app
+0.0.0.0 portal-moonshot-6cz.netlify.app
 0.0.0.0 portal-moonshot-6d4.netlify.app
 0.0.0.0 portal-moonshot-6eu.netlify.app
 0.0.0.0 portal-moonshot-6fa.netlify.app
@@ -744713,6 +744815,7 @@
 0.0.0.0 portal-moonshot-93f.netlify.app
 0.0.0.0 portal-moonshot-947.netlify.app
 0.0.0.0 portal-moonshot-96o.netlify.app
+0.0.0.0 portal-moonshot-980.netlify.app
 0.0.0.0 portal-moonshot-985.netlify.app
 0.0.0.0 portal-moonshot-9at.netlify.app
 0.0.0.0 portal-moonshot-9ca.netlify.app
@@ -744751,6 +744854,7 @@
 0.0.0.0 portal-moonshot-b0k.netlify.app
 0.0.0.0 portal-moonshot-b2f.netlify.app
 0.0.0.0 portal-moonshot-b5t.netlify.app
+0.0.0.0 portal-moonshot-b6h.netlify.app
 0.0.0.0 portal-moonshot-b6v.netlify.app
 0.0.0.0 portal-moonshot-baa.netlify.app
 0.0.0.0 portal-moonshot-bb8.netlify.app
@@ -744880,6 +744984,7 @@
 0.0.0.0 portal-moonshot-h6n.netlify.app
 0.0.0.0 portal-moonshot-h78.netlify.app
 0.0.0.0 portal-moonshot-h9f.netlify.app
+0.0.0.0 portal-moonshot-he7.netlify.app
 0.0.0.0 portal-moonshot-hfj.netlify.app
 0.0.0.0 portal-moonshot-hgw.netlify.app
 0.0.0.0 portal-moonshot-hht.netlify.app
@@ -744961,11 +745066,13 @@
 0.0.0.0 portal-moonshot-ky6.netlify.app
 0.0.0.0 portal-moonshot-kyt.netlify.app
 0.0.0.0 portal-moonshot-kzq.netlify.app
+0.0.0.0 portal-moonshot-l24.netlify.app
 0.0.0.0 portal-moonshot-l2n.netlify.app
 0.0.0.0 portal-moonshot-l39.netlify.app
 0.0.0.0 portal-moonshot-l6z.netlify.app
 0.0.0.0 portal-moonshot-l7t.netlify.app
 0.0.0.0 portal-moonshot-lbl.netlify.app
+0.0.0.0 portal-moonshot-leq.netlify.app
 0.0.0.0 portal-moonshot-lfw.netlify.app
 0.0.0.0 portal-moonshot-lgg.netlify.app
 0.0.0.0 portal-moonshot-lhi.netlify.app
@@ -744993,6 +745100,7 @@
 0.0.0.0 portal-moonshot-mqu.netlify.app
 0.0.0.0 portal-moonshot-mr4.netlify.app
 0.0.0.0 portal-moonshot-mtv.netlify.app
+0.0.0.0 portal-moonshot-mu3.netlify.app
 0.0.0.0 portal-moonshot-mvm.netlify.app
 0.0.0.0 portal-moonshot-mx3.netlify.app
 0.0.0.0 portal-moonshot-mxh.netlify.app
@@ -745006,6 +745114,7 @@
 0.0.0.0 portal-moonshot-na8.netlify.app
 0.0.0.0 portal-moonshot-nai.netlify.app
 0.0.0.0 portal-moonshot-nc0.netlify.app
+0.0.0.0 portal-moonshot-nci.netlify.app
 0.0.0.0 portal-moonshot-ne7.netlify.app
 0.0.0.0 portal-moonshot-nea.netlify.app
 0.0.0.0 portal-moonshot-ney.netlify.app
@@ -745047,6 +745156,7 @@
 0.0.0.0 portal-moonshot-p9b.netlify.app
 0.0.0.0 portal-moonshot-paa.netlify.app
 0.0.0.0 portal-moonshot-pas.netlify.app
+0.0.0.0 portal-moonshot-pg6.netlify.app
 0.0.0.0 portal-moonshot-pgk.netlify.app
 0.0.0.0 portal-moonshot-phx.netlify.app
 0.0.0.0 portal-moonshot-phz.netlify.app
@@ -745097,6 +745207,7 @@
 0.0.0.0 portal-moonshot-rhe.netlify.app
 0.0.0.0 portal-moonshot-rhh.netlify.app
 0.0.0.0 portal-moonshot-rlv.netlify.app
+0.0.0.0 portal-moonshot-rnl.netlify.app
 0.0.0.0 portal-moonshot-rnt.netlify.app
 0.0.0.0 portal-moonshot-rp2.netlify.app
 0.0.0.0 portal-moonshot-rvh.netlify.app
@@ -745104,6 +745215,7 @@
 0.0.0.0 portal-moonshot-s3m.netlify.app
 0.0.0.0 portal-moonshot-s4y.netlify.app
 0.0.0.0 portal-moonshot-s5r.netlify.app
+0.0.0.0 portal-moonshot-s8k.netlify.app
 0.0.0.0 portal-moonshot-sco.netlify.app
 0.0.0.0 portal-moonshot-sgj.netlify.app
 0.0.0.0 portal-moonshot-sic.netlify.app
@@ -745221,6 +745333,7 @@
 0.0.0.0 portal-moonshot-yhr.netlify.app
 0.0.0.0 portal-moonshot-yip.netlify.app
 0.0.0.0 portal-moonshot-ypy.netlify.app
+0.0.0.0 portal-moonshot-yr3.netlify.app
 0.0.0.0 portal-moonshot-yr6.netlify.app
 0.0.0.0 portal-moonshot-yri.netlify.app
 0.0.0.0 portal-moonshot-yvh.netlify.app
@@ -745240,10 +745353,12 @@
 0.0.0.0 portal-moonshot-zhx.netlify.app
 0.0.0.0 portal-moonshot-zi1.netlify.app
 0.0.0.0 portal-moonshot-ziv.netlify.app
+0.0.0.0 portal-moonshot-zkh.netlify.app
 0.0.0.0 portal-moonshot-zku.netlify.app
 0.0.0.0 portal-moonshot-zly.netlify.app
 0.0.0.0 portal-moonshot-znf.netlify.app
 0.0.0.0 portal-moonshot-znr.netlify.app
+0.0.0.0 portal-moonshot-znx.netlify.app
 0.0.0.0 portal-moonshot-zpk.netlify.app
 0.0.0.0 portal-moonshot-zpl.netlify.app
 0.0.0.0 portal-moonshot-zrq.netlify.app
@@ -758907,6 +759022,7 @@
 0.0.0.0 prosperousocean.com
 0.0.0.0 prosperrr.com
 0.0.0.0 prospers.business
+0.0.0.0 prosperwallet-reset.pages.dev
 0.0.0.0 prospheregen.click
 0.0.0.0 prospin-business-igl1i.rollout.site
 0.0.0.0 prossaud.top
@@ -761947,6 +762063,7 @@
 0.0.0.0 public-app-coinbasepro-cdn-t-auth.webflow.io
 0.0.0.0 public-astar-network.pages.dev
 0.0.0.0 public-auth.com
+0.0.0.0 public-base-chrome.framer.website
 0.0.0.0 public-base-extcdn.framer.website
 0.0.0.0 public-basextension.wixstudio.com
 0.0.0.0 public-bitgget-login.pages.dev
@@ -763530,6 +763647,7 @@
 0.0.0.0 pufferairdrop.com
 0.0.0.0 pufferairdrop.pages.dev
 0.0.0.0 pufferairdrop.xyz
+0.0.0.0 pufferbsc.com
 0.0.0.0 pufferbuilders.com
 0.0.0.0 pufferbuilders.net
 0.0.0.0 pufferbuilders.org
@@ -769918,6 +770036,7 @@
 0.0.0.0 qmoenkwb.workers.dev
 0.0.0.0 qmowiibt.workers.dev
 0.0.0.0 qmp-shop.com
+0.0.0.0 qmpnzu-20ifw8xx.vercel.app
 0.0.0.0 qmpstakne.click
 0.0.0.0 qmpwawwm.setupscript.pro
 0.0.0.0 qmqexnzl.workers.dev
@@ -825130,6 +825249,7 @@
 0.0.0.0 safudex.online
 0.0.0.0 safudex.org
 0.0.0.0 safudex.pro
+0.0.0.0 safuonbsc.xyz
 0.0.0.0 safuprotocol.vercel.app
 0.0.0.0 safuu-launchpad.com
 0.0.0.0 safuu-protocol.com
@@ -827103,6 +827223,7 @@
 0.0.0.0 sandhya-pandhare.github.io
 0.0.0.0 sandhyafarms.com
 0.0.0.0 sandhyaj2912.github.io
+0.0.0.0 sandia.online
 0.0.0.0 sandibox.pages.dev
 0.0.0.0 sandiegoseopro.com
 0.0.0.0 sandiegosleepandtmjcenter.com
@@ -855184,6 +855305,7 @@
 0.0.0.0 sitemv6ddifwqh7n.cfd
 0.0.0.0 sitemv6delcw3htw.cfd
 0.0.0.0 sitemv8xg17pfwi9.cfd
+0.0.0.0 sitemv9ejlozo1hg.cfd
 0.0.0.0 sitemvdfxm9vz0tu.cfd
 0.0.0.0 sitemvdm66xf9twc.cfd
 0.0.0.0 sitemvdm6v7knwdc.cfd
@@ -855211,6 +855333,8 @@
 0.0.0.0 sitemvjccv9vfbmw.cfd
 0.0.0.0 sitemvjpjqiq9y89.cfd
 0.0.0.0 sitemvjpk9lnnyes.cfd
+0.0.0.0 sitemvk2pjdpm5gu.cfd
+0.0.0.0 sitemvk2q14h6pra.cfd
 0.0.0.0 sitemyalink.onelink.me
 0.0.0.0 sitemyaps.project-altlayer.io
 0.0.0.0 sitemzapo.register-gtprotocol.io
@@ -954358,6 +954482,7 @@
 0.0.0.0 token-pepeunchained.com
 0.0.0.0 token-phantom.com
 0.0.0.0 token-phantom.pages.dev
+0.0.0.0 token-phantorn.top
 0.0.0.0 token-pixelverse.net
 0.0.0.0 token-pixelverse.org
 0.0.0.0 token-pocket-app.com
@@ -960900,6 +961025,7 @@
 0.0.0.0 trac2.paypal.antimoney-laundering.org
 0.0.0.0 tracautomatitspow.com
 0.0.0.0 tracawec.cc
+0.0.0.0 traccc119.pro
 0.0.0.0 tracdao.top
 0.0.0.0 tracdao.xyz
 0.0.0.0 trace-coinbase.com
@@ -961597,6 +961723,7 @@
 0.0.0.0 trade-phantom.pro
 0.0.0.0 trade-phantom.top
 0.0.0.0 trade-phantom.web.app
+0.0.0.0 trade-phentoken.top
 0.0.0.0 trade-photo.onrender.com
 0.0.0.0 trade-photonsol.com
 0.0.0.0 trade-polymarket.com
@@ -962506,6 +962633,7 @@
 0.0.0.0 tradespark72-ai-system.com
 0.0.0.0 tradespectra.net
 0.0.0.0 tradesperefx.versehub.live
+0.0.0.0 tradesphantom.com
 0.0.0.0 tradesphere.pro
 0.0.0.0 tradesphereco.com
 0.0.0.0 tradesphereflux.com.lennoxglobaledge.com
@@ -983319,6 +983447,7 @@
 0.0.0.0 txxrefuud-newzlnd.store
 0.0.0.0 txxx.biz
 0.0.0.0 txxxscript.xyz
+0.0.0.0 txxxxwcvccice.lol
 0.0.0.0 txzawnoa.workers.dev
 0.0.0.0 txzmlz.pro
 0.0.0.0 txzpa.payenter.live
@@ -997402,6 +997531,7 @@
 0.0.0.0 us01zoom.com
 0.0.0.0 us01zoom.us
 0.0.0.0 us02-invite.top
+0.0.0.0 us02-web-zoom.com
 0.0.0.0 us02-web-zoom.us
 0.0.0.0 us02-zoom.com
 0.0.0.0 us02-zoom.us
@@ -1022350,6 +1022480,7 @@
 0.0.0.0 vote-okxpolls-355.pages.dev
 0.0.0.0 vote-okxpolls-363.pages.dev
 0.0.0.0 vote-okxpolls-365.pages.dev
+0.0.0.0 vote-okxpolls-418.pages.dev
 0.0.0.0 vote-okxpolls-421.pages.dev
 0.0.0.0 vote-okxpolls-440.pages.dev
 0.0.0.0 vote-okxpolls-447.pages.dev
@@ -1022369,6 +1022500,7 @@
 0.0.0.0 vote-okxpolls-572.pages.dev
 0.0.0.0 vote-okxpolls-574.pages.dev
 0.0.0.0 vote-okxpolls-577.pages.dev
+0.0.0.0 vote-okxpolls-630.pages.dev
 0.0.0.0 vote-okxpolls-638.pages.dev
 0.0.0.0 vote-okxpolls-639.pages.dev
 0.0.0.0 vote-okxpolls-640.pages.dev
@@ -1022380,8 +1022512,10 @@
 0.0.0.0 vote-okxpolls-694.pages.dev
 0.0.0.0 vote-okxpolls-698.pages.dev
 0.0.0.0 vote-okxpolls-708.pages.dev
+0.0.0.0 vote-okxpolls-742.pages.dev
 0.0.0.0 vote-okxpolls-755.pages.dev
 0.0.0.0 vote-okxpolls-760.pages.dev
+0.0.0.0 vote-okxpolls-774.pages.dev
 0.0.0.0 vote-okxpolls-782.pages.dev
 0.0.0.0 vote-okxpolls-785.pages.dev
 0.0.0.0 vote-okxpolls-796.pages.dev
@@ -1022392,6 +1022526,7 @@
 0.0.0.0 vote-okxpolls-825.pages.dev
 0.0.0.0 vote-okxpolls-829.pages.dev
 0.0.0.0 vote-okxpolls-844.pages.dev
+0.0.0.0 vote-okxpolls-849.pages.dev
 0.0.0.0 vote-okxpolls-871.pages.dev
 0.0.0.0 vote-okxpolls-881.pages.dev
 0.0.0.0 vote-okxpolls-886.pages.dev
@@ -1022399,11 +1022534,15 @@
 0.0.0.0 vote-okxpolls-896.pages.dev
 0.0.0.0 vote-okxpolls-897.pages.dev
 0.0.0.0 vote-okxpolls-903.pages.dev
+0.0.0.0 vote-okxpolls-910.pages.dev
+0.0.0.0 vote-okxpolls-913.pages.dev
 0.0.0.0 vote-okxpolls-915.pages.dev
 0.0.0.0 vote-okxpolls-916.pages.dev
+0.0.0.0 vote-okxpolls-918.pages.dev
 0.0.0.0 vote-okxpolls-927.pages.dev
 0.0.0.0 vote-okxpolls-938.pages.dev
 0.0.0.0 vote-okxpolls-947.pages.dev
+0.0.0.0 vote-okxpolls-971.pages.dev
 0.0.0.0 vote-okxpolls-979.pages.dev
 0.0.0.0 vote-okxpolls-989.pages.dev
 0.0.0.0 vote-okxpolls-995.pages.dev
@@ -1025096,6 +1025235,16 @@
 0.0.0.0 votes-pollsokx-103.pages.dev
 0.0.0.0 votes-pollsokx-106.pages.dev
 0.0.0.0 votes-pollsokx-107.pages.dev
+0.0.0.0 votes-pollsokx-108.pages.dev
+0.0.0.0 votes-pollsokx-111.pages.dev
+0.0.0.0 votes-pollsokx-112.pages.dev
+0.0.0.0 votes-pollsokx-113.pages.dev
+0.0.0.0 votes-pollsokx-114.pages.dev
+0.0.0.0 votes-pollsokx-115.pages.dev
+0.0.0.0 votes-pollsokx-116.pages.dev
+0.0.0.0 votes-pollsokx-119.pages.dev
+0.0.0.0 votes-pollsokx-120.pages.dev
+0.0.0.0 votes-pollsokx-121.pages.dev
 0.0.0.0 votes-pools.lat
 0.0.0.0 votes-pools.trade
 0.0.0.0 votes-predi.votings.workers.dev
@@ -1026094,6 +1026243,7 @@
 0.0.0.0 votings-aster.com
 0.0.0.0 votings-blast.com
 0.0.0.0 votings-dexscreener.com
+0.0.0.0 votings-embervalegame.com
 0.0.0.0 votings-ethena.xyz
 0.0.0.0 votings-ethenafi.xyz
 0.0.0.0 votings-etherfi.xyz
@@ -1032460,6 +1032610,7 @@
 0.0.0.0 wallet.ledger-connect.site
 0.0.0.0 wallet.ledger.org.nz
 0.0.0.0 wallet.livelikeacatnft.com
+0.0.0.0 wallet.livesuite.it.com
 0.0.0.0 wallet.lmfx.com
 0.0.0.0 wallet.london
 0.0.0.0 wallet.looms.io
@@ -1052083,6 +1052234,7 @@
 0.0.0.0 whatsapp-line.h5-whatapps.gd.cn
 0.0.0.0 whatsapp-link-generator-weld.vercel.app
 0.0.0.0 whatsapp-link-hub.com.cn
+0.0.0.0 whatsapp-livecam-dt5.pages.dev
 0.0.0.0 whatsapp-me.cn-chat-whatapps.gd.cn
 0.0.0.0 whatsapp-me.pc-chat-whatsapps.hi.cn
 0.0.0.0 whatsapp-mobile-hub.com.cn
@@ -1052196,6 +1052348,7 @@
 0.0.0.0 whatsappgu.com
 0.0.0.0 whatsapph.com
 0.0.0.0 whatsappidfs.duckdns.org
+0.0.0.0 whatsappin.biz.id
 0.0.0.0 whatsappjako.pages.dev
 0.0.0.0 whatsappliveme.blogspot.com
 0.0.0.0 whatsapplnfo.blogspot.com
@@ -1052231,6 +1052384,7 @@
 0.0.0.0 whatsappwr.com.cn
 0.0.0.0 whatsappx.com
 0.0.0.0 whatsappxx2026.binzaminrandow.site
+0.0.0.0 whatsappxxx.pages.dev
 0.0.0.0 whatsappz.web.id
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 whatsaproteccionmx.fwh.is
@@ -1077889,6 +1078043,7 @@
 0.0.0.0 www.currently-com-fastweb-webser-srv-service-xfvdj94zboj-webserv.trustable.co.za
 0.0.0.0 www.currentlymail003.weebly.com
 0.0.0.0 www.cursos.ataloa.com
+0.0.0.0 www.curve-finances.com
 0.0.0.0 www.curvedga.com
 0.0.0.0 www.curvefi.comairdrop.shop
 0.0.0.0 www.curvefinance.us
@@ -1117906,6 +1118061,7 @@
 0.0.0.0 xn--trzor-k0a.com
 0.0.0.0 xn--trzor-k0a.eu
 0.0.0.0 xn--trzor-k0a.io
+0.0.0.0 xn--trzor-k0a.net
 0.0.0.0 xn--trzor-k0a.org
 0.0.0.0 xn--trzorwallet-3qb.com
 0.0.0.0 xn--trzorwallet-3qb.net
@@ -1137629,6 +1137785,7 @@
 0.0.0.0 zoom-bs9.pages.dev
 0.0.0.0 zoom-bushes-0u.workers.dev
 0.0.0.0 zoom-c.com.cn
+0.0.0.0 zoom-call.com
 0.0.0.0 zoom-callinvite.com
 0.0.0.0 zoom-cdn-production-environment.workers.dev
 0.0.0.0 zoom-chat.online
@@ -1137674,6 +1137831,7 @@
 0.0.0.0 zoom-h.com.cn
 0.0.0.0 zoom-help.click
 0.0.0.0 zoom-help.com
+0.0.0.0 zoom-host.su
 0.0.0.0 zoom-howto.net
 0.0.0.0 zoom-id.com
 0.0.0.0 zoom-id.fun
@@ -1138052,6 +1138210,7 @@
 0.0.0.0 zoomconnectsession.live
 0.0.0.0 zoomconnectsupport.live
 0.0.0.0 zoomconnet.online
+0.0.0.0 zoomconneting-workspace.com
 0.0.0.0 zoomcoolus.com
 0.0.0.0 zoomcorp.org
 0.0.0.0 zoomcorrp.ca
@@ -1138221,6 +1138380,7 @@
 0.0.0.0 zoominviite.top
 0.0.0.0 zoominviites.us
 0.0.0.0 zoominvitation.us
+0.0.0.0 zoominvitationmeetingconnect.pw
 0.0.0.0 zoominvite-9ld.pages.dev
 0.0.0.0 zoominvite-meeting.live
 0.0.0.0 zoominvite.cfd
@@ -1138506,6 +1138666,7 @@
 0.0.0.0 zoomsaleslink.co
 0.0.0.0 zoomsaleslink.com
 0.0.0.0 zoomschedule.top
+0.0.0.0 zoomsconnect.com
 0.0.0.0 zoomsconnectivity.com
 0.0.0.0 zoomscontrolmods.com
 0.0.0.0 zoomsdk.us
@@ -1138760,6 +1138921,7 @@
 0.0.0.0 zoorn-lives.com
 0.0.0.0 zoorn-meet.com
 0.0.0.0 zoorn-meeting.com
+0.0.0.0 zoorn-private-conference.com
 0.0.0.0 zoorn-web.com
 0.0.0.0 zoornapp.digital
 0.0.0.0 zoornint.com

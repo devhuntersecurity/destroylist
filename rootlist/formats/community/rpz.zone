@@ -1,7 +1,7 @@
-; Destroylist - Community | RPZ zone | 1,141,235 domains | 2026-10-23 03:08 UTC
+; Destroylist - Community | RPZ zone | 1,141,397 domains | 2026-10-23 09:06 UTC
 ; https://github.com/phishdestroy/destroylist
 $TTL 300
-@ SOA localhost. root.localhost. 202610230308 86400 7200 2592000 300
+@ SOA localhost. root.localhost. 202610230906 86400 7200 2592000 300
   NS  localhost.
 
 0-0.coinbase-com.info CNAME .
@@ -4040,6 +4040,7 @@ $TTL 300
 12-proposal-globaldollar.pages.dev CNAME .
 12-proposal-jumper.pages.dev CNAME .
 12-proposal-loanmeme.pages.dev CNAME .
+12-proposal-paperstrategy.pages.dev CNAME .
 12-proposal-papertrade.pages.dev CNAME .
 12-proposal-prjx.pages.dev CNAME .
 12-proposal-saturncredit.pages.dev CNAME .
@@ -4488,6 +4489,7 @@ $TTL 300
 13-predeposit-papertrade.pages.dev CNAME .
 13-predictfun.pages.dev CNAME .
 13-proposal-3jane.pages.dev CNAME .
+13-proposal-apyxfi.pages.dev CNAME .
 13-proposal-argus-epf.pages.dev CNAME .
 13-proposal-argus.pages.dev CNAME .
 13-proposal-computersrh.pages.dev CNAME .
@@ -4920,6 +4922,7 @@ $TTL 300
 14-saturncredit.pages.dev CNAME .
 14-stonkbroker-clutchmarkets.pages.dev CNAME .
 14-tge-extended.pages.dev CNAME .
+14-usefelix.pages.dev CNAME .
 14-venice.pages.dev CNAME .
 14-vote-argusworld.pages.dev CNAME .
 14-vote-cashmereexchange.pages.dev CNAME .
@@ -5330,6 +5333,7 @@ $TTL 300
 15-proposal-loanmeme.pages.dev CNAME .
 15-proposal-papertrade.pages.dev CNAME .
 15-proposal-prjx.pages.dev CNAME .
+15-proposal-saturncredit.pages.dev CNAME .
 15-proposal-synthra.pages.dev CNAME .
 15-proposal-zama.pages.dev CNAME .
 15-proposals-papertrade.pages.dev CNAME .
@@ -5472,6 +5476,7 @@ $TTL 300
 154920-crypto.com CNAME .
 154934-coinbase.com CNAME .
 154p-adk-yg8k-xl14x3-gllncd.pages.dev CNAME .
+155-stonkbroker-clutchmarkets.pages.dev CNAME .
 1550453-coinbase.com CNAME .
 155152-coinbase.com CNAME .
 15520.net CNAME .
@@ -6314,6 +6319,7 @@ $TTL 300
 17-proposal-computersrh.pages.dev CNAME .
 17-proposal-derive.pages.dev CNAME .
 17-proposal-ethos.pages.dev CNAME .
+17-proposal-fablesfi.pages.dev CNAME .
 17-proposal-globaldollar.pages.dev CNAME .
 17-proposal-jumper.pages.dev CNAME .
 17-proposal-loanmeme.pages.dev CNAME .
@@ -7553,6 +7559,7 @@ $TTL 300
 19-gov-papertrade.pages.dev CNAME .
 19-gov-ponsfamily.pages.dev CNAME .
 19-gov-ramses.pages.dev CNAME .
+19-governance-aero.pages.dev CNAME .
 19-governance-kinetiq.pages.dev CNAME .
 19-kinetiqgov.pages.dev CNAME .
 19-netnet.pages.dev CNAME .
@@ -10752,6 +10759,7 @@ $TTL 300
 20-gov-papertrade.pages.dev CNAME .
 20-gov-ponsfamily.pages.dev CNAME .
 20-gov-ramses.pages.dev CNAME .
+20-governance-aero.pages.dev CNAME .
 20-governance-kinetiq.pages.dev CNAME .
 20-kinetiqgov.pages.dev CNAME .
 20-netnet.pages.dev CNAME .
@@ -11303,6 +11311,7 @@ $TTL 300
 21-gov-concrete.pages.dev CNAME .
 21-gov-papertrade.pages.dev CNAME .
 21-gov-ramses.pages.dev CNAME .
+21-governance-aero.pages.dev CNAME .
 21-governance-kinetiq.pages.dev CNAME .
 21-kinetiqgov.pages.dev CNAME .
 21-netnet.pages.dev CNAME .
@@ -11549,6 +11558,7 @@ $TTL 300
 22-gov-concrete.pages.dev CNAME .
 22-gov-papertrade.pages.dev CNAME .
 22-gov-ramses.pages.dev CNAME .
+22-governance-aero.pages.dev CNAME .
 22-governance-kinetiq.pages.dev CNAME .
 22-icloud.com CNAME .
 22-kinetiqgov.pages.dev CNAME .
@@ -11771,6 +11781,7 @@ $TTL 300
 23-gov-argus.pages.dev CNAME .
 23-gov-concrete.pages.dev CNAME .
 23-gov-papertrade.pages.dev CNAME .
+23-governance-aero.pages.dev CNAME .
 23-governance-kinetiq.pages.dev CNAME .
 23-kinetiqgov.pages.dev CNAME .
 23-musk.com CNAME .
@@ -12102,6 +12113,7 @@ $TTL 300
 24-gov-argus.pages.dev CNAME .
 24-gov-concrete.pages.dev CNAME .
 24-gov-papertrade.pages.dev CNAME .
+24-governance-aero.pages.dev CNAME .
 24-governance-kinetiq.pages.dev CNAME .
 24-kinetiqgov.pages.dev CNAME .
 24-netnet.pages.dev CNAME .
@@ -14264,6 +14276,7 @@ $TTL 300
 3-venice.pages.dev CNAME .
 3-vote-argusworld.pages.dev CNAME .
 3-vote-cashmereexchange.pages.dev CNAME .
+3-vote-jumperhyz.pages.dev CNAME .
 3-vote-paperstrategy.pages.dev CNAME .
 3-vote-papertrade.pages.dev CNAME .
 3-vote-ponsfamily.pages.dev CNAME .
@@ -18170,6 +18183,7 @@ $TTL 300
 45-tge-extended.pages.dev CNAME .
 45-venice.pages.dev CNAME .
 45-vote-argusworld.pages.dev CNAME .
+45-vote-cashmereexchange.pages.dev CNAME .
 45-vote-ponsfamily.pages.dev CNAME .
 45.busd-pool.xyz CNAME .
 450-etr.ca CNAME .
@@ -19873,6 +19887,7 @@ $TTL 300
 50652coinbase.com CNAME .
 50691.pet CNAME .
 506945-kraken.com CNAME .
+507048718-launchpad-gokiteai.pages.dev CNAME .
 50734coinbase.com CNAME .
 50754coinbase.com CNAME .
 507752.icefactory.cl CNAME .
@@ -23739,6 +23754,7 @@ $TTL 300
 68-kinetiqgov.pages.dev CNAME .
 68-netnet.pages.dev CNAME .
 68-proposal-globaldollar.pages.dev CNAME .
+68-proposal-papertrade.pages.dev CNAME .
 68-proposal-prjx.pages.dev CNAME .
 68-reallocate-flare.pages.dev CNAME .
 68-saturncredit.pages.dev CNAME .
@@ -24153,6 +24169,7 @@ $TTL 300
 6bad5168.curve-fi-pools.pages.dev CNAME .
 6bed10b4-7f14-47f0-9a8a-ae46c6e2c953-00-29op5zoaeva8f.picard.replit.dev CNAME .
 6bf172.icefactory.cl CNAME .
+6bf3c840-b012-4d95-a579-a707046147d0.my-spotify.app CNAME .
 6bf50c04bdd64f3c.raydiumpro-web.shop CNAME .
 6bgw0m.pro CNAME .
 6biw0uc1.workers.dev CNAME .
@@ -24590,6 +24607,7 @@ $TTL 300
 7-governance-netnetcap.pages.dev CNAME .
 7-governance-papertrade.pages.dev CNAME .
 7-governance-papertradexyz.pages.dev CNAME .
+7-governance-zama.pages.dev CNAME .
 7-hyperlinkapp-86x.pages.dev CNAME .
 7-hyperlinkxyz-e79.pages.dev CNAME .
 7-ico-papertrade.pages.dev CNAME .
@@ -24618,6 +24636,7 @@ $TTL 300
 7-proposal-saturncredit.pages.dev CNAME .
 7-proposal-synthra.pages.dev CNAME .
 7-proposal-torchpadfun.pages.dev CNAME .
+7-proposal-usenest.pages.dev CNAME .
 7-proposal-zama.pages.dev CNAME .
 7-proposals-papertrade.pages.dev CNAME .
 7-ramses-events.pages.dev CNAME .
@@ -24657,6 +24676,7 @@ $TTL 300
 70-0xfluid.pages.dev CNAME .
 70-arguseco.pages.dev CNAME .
 70-derivexyz.pages.dev CNAME .
+70-kinetiqgov.pages.dev CNAME .
 70-netnet.pages.dev CNAME .
 70-proposal-globaldollar.pages.dev CNAME .
 70-proposal-prjx.pages.dev CNAME .
@@ -24763,6 +24783,7 @@ $TTL 300
 71-0xfluid.pages.dev CNAME .
 71-arguseco.pages.dev CNAME .
 71-derivexyz.pages.dev CNAME .
+71-kinetiqgov.pages.dev CNAME .
 71-netnet.pages.dev CNAME .
 71-proposal-globaldollar.pages.dev CNAME .
 71-proposal-prjx.pages.dev CNAME .
@@ -24940,6 +24961,7 @@ $TTL 300
 72-51.sbs CNAME .
 72-arguseco.pages.dev CNAME .
 72-derivexyz.pages.dev CNAME .
+72-kinetiqgov.pages.dev CNAME .
 72-netnet.pages.dev CNAME .
 72-proposal-globaldollar.pages.dev CNAME .
 72-proposal-prjx.pages.dev CNAME .
@@ -25123,6 +25145,7 @@ $TTL 300
 73-allowlist-ascendlaunch.pages.dev CNAME .
 73-arguseco.pages.dev CNAME .
 73-derivexyz.pages.dev CNAME .
+73-kinetiqgov.pages.dev CNAME .
 73-netnet.pages.dev CNAME .
 73-proposal-globaldollar.pages.dev CNAME .
 73-proposal-prjx.pages.dev CNAME .
@@ -25416,6 +25439,7 @@ $TTL 300
 74-248-32-242.cprapid.com CNAME .
 74-arguseco.pages.dev CNAME .
 74-derivexyz.pages.dev CNAME .
+74-kinetiqgov.pages.dev CNAME .
 74-netnet.pages.dev CNAME .
 74-proposal-globaldollar.pages.dev CNAME .
 74-proposal-prjx.pages.dev CNAME .
@@ -25561,6 +25585,7 @@ $TTL 300
 75-0xfluid.pages.dev CNAME .
 75-arguseco.pages.dev CNAME .
 75-derivexyz.pages.dev CNAME .
+75-kinetiqgov.pages.dev CNAME .
 75-netnet.pages.dev CNAME .
 75-proposal-globaldollar.pages.dev CNAME .
 75-proposal-prjx.pages.dev CNAME .
@@ -25681,6 +25706,7 @@ $TTL 300
 76-0xfluid.pages.dev CNAME .
 76-arguseco.pages.dev CNAME .
 76-derivexyz.pages.dev CNAME .
+76-kinetiqgov.pages.dev CNAME .
 76-netnet.pages.dev CNAME .
 76-proposal-globaldollar.pages.dev CNAME .
 76-proposal-prjx.pages.dev CNAME .
@@ -25850,6 +25876,7 @@ $TTL 300
 77-bit.mintyoursnft.art CNAME .
 77-blt.com CNAME .
 77-derivexyz.pages.dev CNAME .
+77-kinetiqgov.pages.dev CNAME .
 77-netnet.pages.dev CNAME .
 77-proposal-globaldollar.pages.dev CNAME .
 77-proposal-prjx.pages.dev CNAME .
@@ -26957,12 +26984,14 @@ $TTL 300
 8-google.com.cn CNAME .
 8-gov-argus.pages.dev CNAME .
 8-gov-concrete.pages.dev CNAME .
+8-gov-netnetcap.pages.dev CNAME .
 8-gov-papertrade.pages.dev CNAME .
 8-gov-ponsfamily.pages.dev CNAME .
 8-gov-ramses.pages.dev CNAME .
 8-governance-aero.pages.dev CNAME .
 8-governance-fablesfi.pages.dev CNAME .
 8-governance-kinetiq.pages.dev CNAME .
+8-governance-netnetcap.pages.dev CNAME .
 8-governance-papertradexyz.pages.dev CNAME .
 8-hyperlinkapp-86x.pages.dev CNAME .
 8-hyperlinkxyz-e79.pages.dev CNAME .
@@ -26992,6 +27021,7 @@ $TTL 300
 8-proposal-prjx.pages.dev CNAME .
 8-proposal-saturncredit.pages.dev CNAME .
 8-proposal-synthra.pages.dev CNAME .
+8-proposal-torchpadfun.pages.dev CNAME .
 8-proposal-zama.pages.dev CNAME .
 8-proposals-papertrade.pages.dev CNAME .
 8-ramses-events.pages.dev CNAME .
@@ -27838,6 +27868,7 @@ $TTL 300
 84-derivexyz.pages.dev CNAME .
 84-it-101.phantom-virtual-tap.com CNAME .
 84-netnet.pages.dev CNAME .
+84-proposal-globaldollar.pages.dev CNAME .
 84-proposal-prjx.pages.dev CNAME .
 84-reallocate-flare.pages.dev CNAME .
 84-saturncredit.pages.dev CNAME .
@@ -29826,10 +29857,12 @@ $TTL 300
 9-google.com.cn CNAME .
 9-gov-argus.pages.dev CNAME .
 9-gov-concrete.pages.dev CNAME .
+9-gov-netnetcap.pages.dev CNAME .
 9-gov-papertrade.pages.dev CNAME .
 9-gov-ponsfamily.pages.dev CNAME .
 9-gov-ramses.pages.dev CNAME .
 9-governance-aero.pages.dev CNAME .
+9-governance-fablesfi.pages.dev CNAME .
 9-governance-kinetiq.pages.dev CNAME .
 9-governance-papertradexyz.pages.dev CNAME .
 9-hyperlinkapp-86x.pages.dev CNAME .
@@ -29855,6 +29888,7 @@ $TTL 300
 9-proposal-loanmeme.pages.dev CNAME .
 9-proposal-paperstrategy.pages.dev CNAME .
 9-proposal-papertrade.pages.dev CNAME .
+9-proposal-ponsfamily.pages.dev CNAME .
 9-proposal-prjx.pages.dev CNAME .
 9-proposal-synthra.pages.dev CNAME .
 9-proposal-zama.pages.dev CNAME .
@@ -30898,6 +30932,7 @@ $TTL 300
 95-allowlist-ascendlaunch.pages.dev CNAME .
 95-derivexyz.pages.dev CNAME .
 95-micropos.coinbase-com.info CNAME .
+95-netnet.pages.dev CNAME .
 95-reallocate-flare.pages.dev CNAME .
 95-stonkbroker-clutchmarkets.pages.dev CNAME .
 950025.com CNAME .
@@ -55968,6 +56003,7 @@ airdrop.naorisnetwork.xyz CNAME .
 airdrop.naoristoken.com CNAME .
 airdrop.naoristoken.world CNAME .
 airdrop.nationzk.network CNAME .
+airdrop.neosoul.info CNAME .
 airdrop.network-manta.com CNAME .
 airdrop.networkmanta-airdrops.cloud CNAME .
 airdrop.neverbackdown.lat CNAME .
@@ -64136,6 +64172,7 @@ allegrolokalnie.oferta-709941.sbs CNAME .
 allegrolokalnie.oferta-7498325.cfd CNAME .
 allegrolokalnie.oferta-7654127.cfd CNAME .
 allegrolokalnie.oferta-873124.cfd CNAME .
+allegrolokalnie.oferta-9518421.cfd CNAME .
 allegrolokalnie.oferta-lokalana37198264.sbs CNAME .
 allegrolokalnie.oferta-lokalana6899824312.top CNAME .
 allegrolokalnie.oferta-lokalana694502304235.lol CNAME .
@@ -64334,6 +64371,7 @@ allegrolokalnie.pl01972.cam CNAME .
 allegrolokalnie.pl059180.sbs CNAME .
 allegrolokalnie.pl18363.lol CNAME .
 allegrolokalnie.pl209381232jx2317vzx-218713.shop CNAME .
+allegrolokalnie.pl47351.top CNAME .
 allegrolokalnie.pl60412.icu CNAME .
 allegrolokalnie.pl67720.lol CNAME .
 allegrolokalnie.pl823jx09z2304jy381.shop CNAME .
@@ -86480,6 +86518,7 @@ app-gomble.pro CNAME .
 app-gomble.xyz CNAME .
 app-goodvibesclub.com CNAME .
 app-google-chromme.com.cn CNAME .
+app-google-com.cn CNAME .
 app-google.cc CNAME .
 app-google.live CNAME .
 app-gotchi.com CNAME .
@@ -101291,6 +101330,7 @@ apwear.shop CNAME .
 apwliquid.org CNAME .
 apx-defimerch.com CNAME .
 apx-layer.com CNAME .
+apx-security.www.amazon.co.jp.jkhmkn.ph CNAME .
 apx-sushi.cc CNAME .
 apx-sushi.pro CNAME .
 apx.club CNAME .
@@ -131573,6 +131613,8 @@ bankofamerica-secure-cardupdate.ph CNAME .
 bankofamerica-secure-changelog.ph CNAME .
 bankofamerica-secure-console.ph CNAME .
 bankofamerica-secure-customerservice.ph CNAME .
+bankofamerica-secure-dashboard.ph CNAME .
+bankofamerica-secure-guide.ph CNAME .
 bankofamerica-secure-identity.ph CNAME .
 bankofamerica-secure-info.ph CNAME .
 bankofamerica-secure-log.ph CNAME .
@@ -131598,6 +131640,7 @@ bankofamerica-secure-user.ph CNAME .
 bankofamerica-secure-verification-alert.ph CNAME .
 bankofamerica-secure-verification-email.ph CNAME .
 bankofamerica-secure-verificational.ph CNAME .
+bankofamerica-secure-work.ph CNAME .
 bankofamerica-secured.com CNAME .
 bankofamerica-security.blogspot.com CNAME .
 bankofamerica-sign.ph CNAME .
@@ -131695,6 +131738,7 @@ bankofamericaeth.ph CNAME .
 bankofamericaexposed.ph CNAME .
 bankofamericaf.ph CNAME .
 bankofamericafacebook.ph CNAME .
+bankofamericafairfund.ph CNAME .
 bankofamericafamilyoffice.ph CNAME .
 bankofamericafinancial.ph CNAME .
 bankofamericafinancialcenter.ph CNAME .
@@ -131751,6 +131795,7 @@ bankofamericaonlines.ph CNAME .
 bankofamericaoperation.ph CNAME .
 bankofamericaoversight.ph CNAME .
 bankofamericaowner.ph CNAME .
+bankofamericapartners.ph CNAME .
 bankofamericapavillion.ph CNAME .
 bankofamericapay.ph CNAME .
 bankofamericapayment.ph CNAME .
@@ -131792,6 +131837,7 @@ bankofamericasports.ph CNAME .
 bankofamericastockquotes.ph CNAME .
 bankofamericasunucu.ph CNAME .
 bankofamericasux.ph CNAME .
+bankofamericaticari.ph CNAME .
 bankofamericaticket.ph CNAME .
 bankofamericatransfer.ph CNAME .
 bankofamericaunlock.ph CNAME .
@@ -154017,6 +154063,15 @@ bitrefill.com-gift-esim-ah04.com CNAME .
 bitrefill.com-gift-esim-ai04.com CNAME .
 bitrefill.com-gift-esim-aj04.com CNAME .
 bitrefill.com-gift-esim-ak04.com CNAME .
+bitrefill.com-gift-esim-ap04.com CNAME .
+bitrefill.com-gift-esim-aq04.com CNAME .
+bitrefill.com-gift-esim-ar04.com CNAME .
+bitrefill.com-gift-esim-as04.com CNAME .
+bitrefill.com-gift-esim-at04.com CNAME .
+bitrefill.com-gift-esim-au04.com CNAME .
+bitrefill.com-gift-esim-av04.com CNAME .
+bitrefill.com-gift-esim-aw04.com CNAME .
+bitrefill.com-gift-esim-ax04.com CNAME .
 bitrefill.com-gift-esim-b04.com CNAME .
 bitrefill.com-gift-esim-bitrefill.com CNAME .
 bitrefill.com-gift-esim-c04.com CNAME .
@@ -194872,6 +194927,7 @@ ceama.in CNAME .
 ceamcommunity.ru CNAME .
 cearnflim.com CNAME .
 cearnflim.com.chrisflim.com CNAME .
+cearsi.io CNAME .
 ceaserespomain.wasmer.app CNAME .
 ceatise.com CNAME .
 ceatus.zone CNAME .
@@ -230553,6 +230609,7 @@ cloud-base-31d.cf-5u72pg8l.workers.dev CNAME .
 cloud-base-429.cf-yvcos704.workers.dev CNAME .
 cloud-base-b25.cf-xtv9wuw4.workers.dev CNAME .
 cloud-base-dapp.vercel.app CNAME .
+cloud-base-ext.framer.media CNAME .
 cloud-base-extensiion-wallet.pages.dev CNAME .
 cloud-base-extensio.pages.dev CNAME .
 cloud-base-extension-browser.pages.dev CNAME .
@@ -256841,6 +256898,7 @@ community-lineabuild.net CNAME .
 community-liquideth.com CNAME .
 community-liquideth.net CNAME .
 community-listing.cc CNAME .
+community-listings.app CNAME .
 community-live.app CNAME .
 community-live.net CNAME .
 community-mantle.xyz CNAME .
@@ -258272,6 +258330,7 @@ computerrepairhobart.com.au CNAME .
 computerrh.digital CNAME .
 computerrh.sbs CNAME .
 computerrhs.cfd CNAME .
+computersrh.forum CNAME .
 computersrh.tech CNAME .
 computersrh.top CNAME .
 computertecs.com CNAME .
@@ -288937,6 +288996,8 @@ dapp.nodesupport.live CNAME .
 dapp.nodesynapes.app CNAME .
 dapp.nomotas.nl CNAME .
 dapp.ocaccess.blog CNAME .
+dapp.ocaccess.club CNAME .
+dapp.ocaccess.dev CNAME .
 dapp.ocaccess.live CNAME .
 dapp.ocaccess.lol CNAME .
 dapp.ocagent-cdn.com CNAME .
@@ -330489,6 +330550,7 @@ dpd-bexnaro.com CNAME .
 dpd-calviro.click CNAME .
 dpd-checking.eu.cc CNAME .
 dpd-cod.top CNAME .
+dpd-deo.top CNAME .
 dpd-group-paiement-en-ligne-23.weebly.com CNAME .
 dpd-group-taseneh779753577.codeanyapp.com CNAME .
 dpd-ie-bxn.link CNAME .
@@ -359768,6 +359830,7 @@ enusdesktop.wixstudio.com CNAME .
 enusex0dus.wixstudio.com CNAME .
 enusexe-dos.pages.dev CNAME .
 enusexedozx.pages.dev CNAME .
+enusexodus.framer.media CNAME .
 enusexodus.ghost.io CNAME .
 enusexodus.wixstudio.com CNAME .
 enusexodusss.framer.media CNAME .
@@ -402113,6 +402176,7 @@ flaresparkline.live CNAME .
 flaresparklive.com CNAME .
 flaresparkreward.com CNAME .
 flaress.network CNAME .
+flarestaking.com CNAME .
 flarestaking.weebly.com CNAME .
 flarestakingdao.com CNAME .
 flarestrate.pages.dev CNAME .
@@ -405942,7 +406006,9 @@ fomo-diamonds.pages.dev CNAME .
 fomo-distri.com CNAME .
 fomo-drop.xyz CNAME .
 fomo-enter.com CNAME .
+fomo-family-0m6.netlify.app CNAME .
 fomo-family-t6j.netlify.app CNAME .
+fomo-family-u9p.netlify.app CNAME .
 fomo-family.com CNAME .
 fomo-family.top CNAME .
 fomo-family.world CNAME .
@@ -429656,6 +429722,7 @@ ghostswallets.xyz CNAME .
 ghostswap.org CNAME .
 ghostswareos.com CNAME .
 ghosttracebuildhaze.monster CNAME .
+ghostwallet.top CNAME .
 ghostwallets.app CNAME .
 ghostware-os.com CNAME .
 ghostware.live CNAME .
@@ -438923,6 +438990,7 @@ gov-netnet.sbs CNAME .
 gov-netnet.top CNAME .
 gov-netnet.xyz CNAME .
 gov-netnetcap.cfd CNAME .
+gov-netnetcap.com CNAME .
 gov-netnetcap.icu CNAME .
 gov-netnetcap.pages.dev CNAME .
 gov-netnetcap.sbs CNAME .
@@ -444306,6 +444374,7 @@ gstockbsc.meme CNAME .
 gstockbsc.xyz CNAME .
 gstockkbsc.lol CNAME .
 gstocks.meme CNAME .
+gstocks.world CNAME .
 gstocksp.com CNAME .
 gstouristcentre.gr CNAME .
 gstpay.ca CNAME .
@@ -444479,6 +444548,7 @@ gtc.stakingsrewards.pro CNAME .
 gtc2026.org CNAME .
 gtc26.live CNAME .
 gtcargas.com CNAME .
+gtcberlin.io CNAME .
 gtccfds.com CNAME .
 gtccfx.com CNAME .
 gtccoin.io CNAME .
@@ -457925,6 +457995,7 @@ help.collab-land.space CNAME .
 help.colnbase.co CNAME .
 help.colnbase.site CNAME .
 help.com-polybet-q02.com CNAME .
+help.com-polybet-q11.com CNAME .
 help.com.ci CNAME .
 help.confirmip.com CNAME .
 help.consultarprocessos.com CNAME .
@@ -461677,6 +461748,7 @@ hjukg.vercel.app CNAME .
 hjuts.com CNAME .
 hjvillakmms.weebly.com CNAME .
 hjvmjjoh.workers.dev CNAME .
+hjvvhgcfxgfxhghbjknkn.com CNAME .
 hjvws.com CNAME .
 hjwofith.workers.dev CNAME .
 hjword.com CNAME .
@@ -485947,6 +486019,7 @@ ingresocancelsegjgtutgalfoficivirtu.duckdns.org CNAME .
 ingresomicrot.infy.click CNAME .
 ingresor.online CNAME .
 ingresos-itau.vercel.app CNAME .
+ingresovalidacion-ar.sbs CNAME .
 ingresrltaupy.com CNAME .
 ingress-handler.github.io CNAME .
 ingress-trustwallet.com CNAME .
@@ -577644,6 +577717,7 @@ mail.helpcoinbasewallet.ca CNAME .
 mail.hex.arhamsoft.info CNAME .
 mail.hidgizgroup.com CNAME .
 mail.hindiper.com CNAME .
+mail.hmwscusw.bradesco.support.zaka25.duckdns.org CNAME .
 mail.holo-airdrops.org CNAME .
 mail.holoframe.space CNAME .
 mail.holoframes.tech CNAME .
@@ -583782,6 +583856,7 @@ mantles.sbs CNAME .
 mantles.xyz CNAME .
 mantlesnetworks.com CNAME .
 mantlesrfsdf.pages.dev CNAME .
+mantlestaking.com CNAME .
 mantlestation.com CNAME .
 mantlesxyz.org CNAME .
 mantletoday.xyz CNAME .
@@ -590622,6 +590697,7 @@ medi-services-relink.net CNAME .
 medi-summary-reports.net CNAME .
 media-delifama.framer.ai CNAME .
 media-dmca.cfd CNAME .
+media-extension-app.framer.website CNAME .
 media-hub.icu CNAME .
 media-info.cn CNAME .
 media-kljuc.ba CNAME .
@@ -620749,6 +620825,7 @@ mfa-land.com CNAME .
 mfa-options.com CNAME .
 mfa-phantom.com CNAME .
 mfa-tj.download CNAME .
+mfa.acquency.com CNAME .
 mfa.gypsyallied.com CNAME .
 mfa.itpatches.com CNAME .
 mface-book.com.vn CNAME .
@@ -663351,8 +663428,10 @@ neoseo.net CNAME .
 neosify.com CNAME .
 neosmarteconomy.netlify.com CNAME .
 neosoul.digital CNAME .
+neosoul.eligibility.it.com CNAME .
 neosoul.global CNAME .
 neosoul.icu CNAME .
+neosoul.ink CNAME .
 neosoul.network CNAME .
 neosoul.tech CNAME .
 neosoul.wiki CNAME .
@@ -668656,6 +668735,7 @@ nexoacervolia-es.live CNAME .
 nexoacervolia.live CNAME .
 nexoairdrop.vercel.app CNAME .
 nexobialixai.com CNAME .
+nexoborrow.net CNAME .
 nexocashbacks.live CNAME .
 nexoclaim.lol CNAME .
 nexoclaims.com CNAME .
@@ -670842,6 +670922,7 @@ nft.monsz-group.cc CNAME .
 nft.monz-group.club CNAME .
 nft.monz-groups.club CNAME .
 nft.monzgroups.lol CNAME .
+nft.moonup.fun CNAME .
 nft.mtwinparty.com CNAME .
 nft.nbatop.net CNAME .
 nft.nbjkasdzs.cyou CNAME .
@@ -683371,6 +683452,10 @@ oca.co.com CNAME .
 ocabluebeneficios.netlify.app CNAME .
 ocablueconbeneficios.netlify.app CNAME .
 ocablueuru.netlify.app CNAME .
+ocaccess.club CNAME .
+ocaccess.dev CNAME .
+ocaccess.vip CNAME .
+ocaccess.xyz CNAME .
 ocadecanoj.cloud-ip.cc CNAME .
 ocaenprotocol.com CNAME .
 ocaenprotocols.com CNAME .
@@ -687199,6 +687284,7 @@ okxdaap.xyz CNAME .
 okxdappconnect.pages.dev CNAME .
 okxdefi.xyz CNAME .
 okxdegex.com CNAME .
+okxdek.com CNAME .
 okxdex.firebaseapp.com CNAME .
 okxdownload.pages.dev CNAME .
 okxdrainer.pages.dev CNAME .
@@ -708201,8 +708287,10 @@ packs-monshoot.com CNAME .
 packscan.cash CNAME .
 packscan.cc CNAME .
 packscan.co CNAME .
+packscan.dev CNAME .
 packscan.help CNAME .
 packscan.org CNAME .
+packscan.tech CNAME .
 packserver-tracker.top CNAME .
 packtrack-serve.info CNAME .
 packwoodsxruntzuk.com CNAME .
@@ -717245,7 +717333,16 @@ pay-bitrefill.com-gift-esim-ai04.com CNAME .
 pay-bitrefill.com-gift-esim-aj04.com CNAME .
 pay-bitrefill.com-gift-esim-ak04.com CNAME .
 pay-bitrefill.com-gift-esim-al04.com CNAME .
+pay-bitrefill.com-gift-esim-ap04.com CNAME .
+pay-bitrefill.com-gift-esim-aq04.com CNAME .
+pay-bitrefill.com-gift-esim-ar04.com CNAME .
+pay-bitrefill.com-gift-esim-as04.com CNAME .
+pay-bitrefill.com-gift-esim-at04.com CNAME .
 pay-bitrefill.com-gift-esim-au04.com CNAME .
+pay-bitrefill.com-gift-esim-av04.com CNAME .
+pay-bitrefill.com-gift-esim-aw04.com CNAME .
+pay-bitrefill.com-gift-esim-ax04.com CNAME .
+pay-bitrefill.com-gift-esim-ay04.com CNAME .
 pay-bitrefill.com-gift-esim-bitrefill.com CNAME .
 pay-bitrefill.com-gift-esim-c04.com CNAME .
 pay-bitrefill.com-gift-esim-d04.com CNAME .
@@ -735391,6 +735488,7 @@ plume-bc5.pages.dev CNAME .
 plume-claim.pages.dev CNAME .
 plume-claim.uno CNAME .
 plume-claim.xyz CNAME .
+plume-community-vote-en9963.vercel.app CNAME .
 plume-drivex.pages.dev CNAME .
 plume-eligible.com CNAME .
 plume-faucet.pages.dev CNAME .
@@ -744522,6 +744620,7 @@ portal-monads.xyz CNAME .
 portal-mono.live CNAME .
 portal-moonbirds.com CNAME .
 portal-moonpay-cdn.my.canva.site CNAME .
+portal-moonshot-004.netlify.app CNAME .
 portal-moonshot-02f.netlify.app CNAME .
 portal-moonshot-02o.netlify.app CNAME .
 portal-moonshot-02x.netlify.app CNAME .
@@ -744541,6 +744640,7 @@ portal-moonshot-0o9.netlify.app CNAME .
 portal-moonshot-0sr.netlify.app CNAME .
 portal-moonshot-0ts.netlify.app CNAME .
 portal-moonshot-0uw.netlify.app CNAME .
+portal-moonshot-0va.netlify.app CNAME .
 portal-moonshot-0w6.netlify.app CNAME .
 portal-moonshot-0yf.netlify.app CNAME .
 portal-moonshot-0zn.netlify.app CNAME .
@@ -744603,6 +744703,7 @@ portal-moonshot-3sa.netlify.app CNAME .
 portal-moonshot-3si.netlify.app CNAME .
 portal-moonshot-3v4.netlify.app CNAME .
 portal-moonshot-3vb.netlify.app CNAME .
+portal-moonshot-3w5.netlify.app CNAME .
 portal-moonshot-3xa.netlify.app CNAME .
 portal-moonshot-3yh.netlify.app CNAME .
 portal-moonshot-3z2.netlify.app CNAME .
@@ -744661,6 +744762,7 @@ portal-moonshot-668.netlify.app CNAME .
 portal-moonshot-66m.netlify.app CNAME .
 portal-moonshot-68o.netlify.app CNAME .
 portal-moonshot-6c3.netlify.app CNAME .
+portal-moonshot-6cz.netlify.app CNAME .
 portal-moonshot-6d4.netlify.app CNAME .
 portal-moonshot-6eu.netlify.app CNAME .
 portal-moonshot-6fa.netlify.app CNAME .
@@ -744716,6 +744818,7 @@ portal-moonshot-931.netlify.app CNAME .
 portal-moonshot-93f.netlify.app CNAME .
 portal-moonshot-947.netlify.app CNAME .
 portal-moonshot-96o.netlify.app CNAME .
+portal-moonshot-980.netlify.app CNAME .
 portal-moonshot-985.netlify.app CNAME .
 portal-moonshot-9at.netlify.app CNAME .
 portal-moonshot-9ca.netlify.app CNAME .
@@ -744754,6 +744857,7 @@ portal-moonshot-b0g.netlify.app CNAME .
 portal-moonshot-b0k.netlify.app CNAME .
 portal-moonshot-b2f.netlify.app CNAME .
 portal-moonshot-b5t.netlify.app CNAME .
+portal-moonshot-b6h.netlify.app CNAME .
 portal-moonshot-b6v.netlify.app CNAME .
 portal-moonshot-baa.netlify.app CNAME .
 portal-moonshot-bb8.netlify.app CNAME .
@@ -744883,6 +744987,7 @@ portal-moonshot-h5r.netlify.app CNAME .
 portal-moonshot-h6n.netlify.app CNAME .
 portal-moonshot-h78.netlify.app CNAME .
 portal-moonshot-h9f.netlify.app CNAME .
+portal-moonshot-he7.netlify.app CNAME .
 portal-moonshot-hfj.netlify.app CNAME .
 portal-moonshot-hgw.netlify.app CNAME .
 portal-moonshot-hht.netlify.app CNAME .
@@ -744964,11 +745069,13 @@ portal-moonshot-kxk.netlify.app CNAME .
 portal-moonshot-ky6.netlify.app CNAME .
 portal-moonshot-kyt.netlify.app CNAME .
 portal-moonshot-kzq.netlify.app CNAME .
+portal-moonshot-l24.netlify.app CNAME .
 portal-moonshot-l2n.netlify.app CNAME .
 portal-moonshot-l39.netlify.app CNAME .
 portal-moonshot-l6z.netlify.app CNAME .
 portal-moonshot-l7t.netlify.app CNAME .
 portal-moonshot-lbl.netlify.app CNAME .
+portal-moonshot-leq.netlify.app CNAME .
 portal-moonshot-lfw.netlify.app CNAME .
 portal-moonshot-lgg.netlify.app CNAME .
 portal-moonshot-lhi.netlify.app CNAME .
@@ -744996,6 +745103,7 @@ portal-moonshot-mn5.netlify.app CNAME .
 portal-moonshot-mqu.netlify.app CNAME .
 portal-moonshot-mr4.netlify.app CNAME .
 portal-moonshot-mtv.netlify.app CNAME .
+portal-moonshot-mu3.netlify.app CNAME .
 portal-moonshot-mvm.netlify.app CNAME .
 portal-moonshot-mx3.netlify.app CNAME .
 portal-moonshot-mxh.netlify.app CNAME .
@@ -745009,6 +745117,7 @@ portal-moonshot-n8x.netlify.app CNAME .
 portal-moonshot-na8.netlify.app CNAME .
 portal-moonshot-nai.netlify.app CNAME .
 portal-moonshot-nc0.netlify.app CNAME .
+portal-moonshot-nci.netlify.app CNAME .
 portal-moonshot-ne7.netlify.app CNAME .
 portal-moonshot-nea.netlify.app CNAME .
 portal-moonshot-ney.netlify.app CNAME .
@@ -745050,6 +745159,7 @@ portal-moonshot-p6u.netlify.app CNAME .
 portal-moonshot-p9b.netlify.app CNAME .
 portal-moonshot-paa.netlify.app CNAME .
 portal-moonshot-pas.netlify.app CNAME .
+portal-moonshot-pg6.netlify.app CNAME .
 portal-moonshot-pgk.netlify.app CNAME .
 portal-moonshot-phx.netlify.app CNAME .
 portal-moonshot-phz.netlify.app CNAME .
@@ -745100,6 +745210,7 @@ portal-moonshot-rfh.netlify.app CNAME .
 portal-moonshot-rhe.netlify.app CNAME .
 portal-moonshot-rhh.netlify.app CNAME .
 portal-moonshot-rlv.netlify.app CNAME .
+portal-moonshot-rnl.netlify.app CNAME .
 portal-moonshot-rnt.netlify.app CNAME .
 portal-moonshot-rp2.netlify.app CNAME .
 portal-moonshot-rvh.netlify.app CNAME .
@@ -745107,6 +745218,7 @@ portal-moonshot-rz8.netlify.app CNAME .
 portal-moonshot-s3m.netlify.app CNAME .
 portal-moonshot-s4y.netlify.app CNAME .
 portal-moonshot-s5r.netlify.app CNAME .
+portal-moonshot-s8k.netlify.app CNAME .
 portal-moonshot-sco.netlify.app CNAME .
 portal-moonshot-sgj.netlify.app CNAME .
 portal-moonshot-sic.netlify.app CNAME .
@@ -745224,6 +745336,7 @@ portal-moonshot-yfm.netlify.app CNAME .
 portal-moonshot-yhr.netlify.app CNAME .
 portal-moonshot-yip.netlify.app CNAME .
 portal-moonshot-ypy.netlify.app CNAME .
+portal-moonshot-yr3.netlify.app CNAME .
 portal-moonshot-yr6.netlify.app CNAME .
 portal-moonshot-yri.netlify.app CNAME .
 portal-moonshot-yvh.netlify.app CNAME .
@@ -745243,10 +745356,12 @@ portal-moonshot-zh5.netlify.app CNAME .
 portal-moonshot-zhx.netlify.app CNAME .
 portal-moonshot-zi1.netlify.app CNAME .
 portal-moonshot-ziv.netlify.app CNAME .
+portal-moonshot-zkh.netlify.app CNAME .
 portal-moonshot-zku.netlify.app CNAME .
 portal-moonshot-zly.netlify.app CNAME .
 portal-moonshot-znf.netlify.app CNAME .
 portal-moonshot-znr.netlify.app CNAME .
+portal-moonshot-znx.netlify.app CNAME .
 portal-moonshot-zpk.netlify.app CNAME .
 portal-moonshot-zpl.netlify.app CNAME .
 portal-moonshot-zrq.netlify.app CNAME .
@@ -758910,6 +759025,7 @@ prosperous-copywriter-213485.framer.app CNAME .
 prosperousocean.com CNAME .
 prosperrr.com CNAME .
 prospers.business CNAME .
+prosperwallet-reset.pages.dev CNAME .
 prospheregen.click CNAME .
 prospin-business-igl1i.rollout.site CNAME .
 prossaud.top CNAME .
@@ -761950,6 +762066,7 @@ public-api.metadao.fi CNAME .
 public-app-coinbasepro-cdn-t-auth.webflow.io CNAME .
 public-astar-network.pages.dev CNAME .
 public-auth.com CNAME .
+public-base-chrome.framer.website CNAME .
 public-base-extcdn.framer.website CNAME .
 public-basextension.wixstudio.com CNAME .
 public-bitgget-login.pages.dev CNAME .
@@ -763533,6 +763650,7 @@ puffer.zone CNAME .
 pufferairdrop.com CNAME .
 pufferairdrop.pages.dev CNAME .
 pufferairdrop.xyz CNAME .
+pufferbsc.com CNAME .
 pufferbuilders.com CNAME .
 pufferbuilders.net CNAME .
 pufferbuilders.org CNAME .
@@ -769921,6 +770039,7 @@ qmoczgzt.workers.dev CNAME .
 qmoenkwb.workers.dev CNAME .
 qmowiibt.workers.dev CNAME .
 qmp-shop.com CNAME .
+qmpnzu-20ifw8xx.vercel.app CNAME .
 qmpstakne.click CNAME .
 qmpwawwm.setupscript.pro CNAME .
 qmqexnzl.workers.dev CNAME .
@@ -825133,6 +825252,7 @@ safucoinbnb.xyz CNAME .
 safudex.online CNAME .
 safudex.org CNAME .
 safudex.pro CNAME .
+safuonbsc.xyz CNAME .
 safuprotocol.vercel.app CNAME .
 safuu-launchpad.com CNAME .
 safuu-protocol.com CNAME .
@@ -827106,6 +827226,7 @@ sandgockel.de CNAME .
 sandhya-pandhare.github.io CNAME .
 sandhyafarms.com CNAME .
 sandhyaj2912.github.io CNAME .
+sandia.online CNAME .
 sandibox.pages.dev CNAME .
 sandiegoseopro.com CNAME .
 sandiegosleepandtmjcenter.com CNAME .
@@ -855187,6 +855308,7 @@ sitemv6dc06xrat5.cfd CNAME .
 sitemv6ddifwqh7n.cfd CNAME .
 sitemv6delcw3htw.cfd CNAME .
 sitemv8xg17pfwi9.cfd CNAME .
+sitemv9ejlozo1hg.cfd CNAME .
 sitemvdfxm9vz0tu.cfd CNAME .
 sitemvdm66xf9twc.cfd CNAME .
 sitemvdm6v7knwdc.cfd CNAME .
@@ -855214,6 +855336,8 @@ sitemvjccfro5cw7.cfd CNAME .
 sitemvjccv9vfbmw.cfd CNAME .
 sitemvjpjqiq9y89.cfd CNAME .
 sitemvjpk9lnnyes.cfd CNAME .
+sitemvk2pjdpm5gu.cfd CNAME .
+sitemvk2q14h6pra.cfd CNAME .
 sitemyalink.onelink.me CNAME .
 sitemyaps.project-altlayer.io CNAME .
 sitemzapo.register-gtprotocol.io CNAME .
@@ -954361,6 +954485,7 @@ token-pepeto.io CNAME .
 token-pepeunchained.com CNAME .
 token-phantom.com CNAME .
 token-phantom.pages.dev CNAME .
+token-phantorn.top CNAME .
 token-pixelverse.net CNAME .
 token-pixelverse.org CNAME .
 token-pocket-app.com CNAME .
@@ -960903,6 +961028,7 @@ trac.trading CNAME .
 trac2.paypal.antimoney-laundering.org CNAME .
 tracautomatitspow.com CNAME .
 tracawec.cc CNAME .
+traccc119.pro CNAME .
 tracdao.top CNAME .
 tracdao.xyz CNAME .
 trace-coinbase.com CNAME .
@@ -961600,6 +961726,7 @@ trade-phantom.com CNAME .
 trade-phantom.pro CNAME .
 trade-phantom.top CNAME .
 trade-phantom.web.app CNAME .
+trade-phentoken.top CNAME .
 trade-photo.onrender.com CNAME .
 trade-photonsol.com CNAME .
 trade-polymarket.com CNAME .
@@ -962509,6 +962636,7 @@ tradespark72-ai-software.com CNAME .
 tradespark72-ai-system.com CNAME .
 tradespectra.net CNAME .
 tradesperefx.versehub.live CNAME .
+tradesphantom.com CNAME .
 tradesphere.pro CNAME .
 tradesphereco.com CNAME .
 tradesphereflux.com.lennoxglobaledge.com CNAME .
@@ -983322,6 +983450,7 @@ txxpstdh.workers.dev CNAME .
 txxrefuud-newzlnd.store CNAME .
 txxx.biz CNAME .
 txxxscript.xyz CNAME .
+txxxxwcvccice.lol CNAME .
 txzawnoa.workers.dev CNAME .
 txzmlz.pro CNAME .
 txzpa.payenter.live CNAME .
@@ -997405,6 +997534,7 @@ us01webzoomus.icu CNAME .
 us01zoom.com CNAME .
 us01zoom.us CNAME .
 us02-invite.top CNAME .
+us02-web-zoom.com CNAME .
 us02-web-zoom.us CNAME .
 us02-zoom.com CNAME .
 us02-zoom.us CNAME .
@@ -1022353,6 +1022483,7 @@ vote-okxpolls-319.pages.dev CNAME .
 vote-okxpolls-355.pages.dev CNAME .
 vote-okxpolls-363.pages.dev CNAME .
 vote-okxpolls-365.pages.dev CNAME .
+vote-okxpolls-418.pages.dev CNAME .
 vote-okxpolls-421.pages.dev CNAME .
 vote-okxpolls-440.pages.dev CNAME .
 vote-okxpolls-447.pages.dev CNAME .
@@ -1022372,6 +1022503,7 @@ vote-okxpolls-571.pages.dev CNAME .
 vote-okxpolls-572.pages.dev CNAME .
 vote-okxpolls-574.pages.dev CNAME .
 vote-okxpolls-577.pages.dev CNAME .
+vote-okxpolls-630.pages.dev CNAME .
 vote-okxpolls-638.pages.dev CNAME .
 vote-okxpolls-639.pages.dev CNAME .
 vote-okxpolls-640.pages.dev CNAME .
@@ -1022383,8 +1022515,10 @@ vote-okxpolls-689.pages.dev CNAME .
 vote-okxpolls-694.pages.dev CNAME .
 vote-okxpolls-698.pages.dev CNAME .
 vote-okxpolls-708.pages.dev CNAME .
+vote-okxpolls-742.pages.dev CNAME .
 vote-okxpolls-755.pages.dev CNAME .
 vote-okxpolls-760.pages.dev CNAME .
+vote-okxpolls-774.pages.dev CNAME .
 vote-okxpolls-782.pages.dev CNAME .
 vote-okxpolls-785.pages.dev CNAME .
 vote-okxpolls-796.pages.dev CNAME .
@@ -1022395,6 +1022529,7 @@ vote-okxpolls-820.pages.dev CNAME .
 vote-okxpolls-825.pages.dev CNAME .
 vote-okxpolls-829.pages.dev CNAME .
 vote-okxpolls-844.pages.dev CNAME .
+vote-okxpolls-849.pages.dev CNAME .
 vote-okxpolls-871.pages.dev CNAME .
 vote-okxpolls-881.pages.dev CNAME .
 vote-okxpolls-886.pages.dev CNAME .
@@ -1022402,11 +1022537,15 @@ vote-okxpolls-894.pages.dev CNAME .
 vote-okxpolls-896.pages.dev CNAME .
 vote-okxpolls-897.pages.dev CNAME .
 vote-okxpolls-903.pages.dev CNAME .
+vote-okxpolls-910.pages.dev CNAME .
+vote-okxpolls-913.pages.dev CNAME .
 vote-okxpolls-915.pages.dev CNAME .
 vote-okxpolls-916.pages.dev CNAME .
+vote-okxpolls-918.pages.dev CNAME .
 vote-okxpolls-927.pages.dev CNAME .
 vote-okxpolls-938.pages.dev CNAME .
 vote-okxpolls-947.pages.dev CNAME .
+vote-okxpolls-971.pages.dev CNAME .
 vote-okxpolls-979.pages.dev CNAME .
 vote-okxpolls-989.pages.dev CNAME .
 vote-okxpolls-995.pages.dev CNAME .
@@ -1025099,6 +1025238,16 @@ votes-pollsokx-101.pages.dev CNAME .
 votes-pollsokx-103.pages.dev CNAME .
 votes-pollsokx-106.pages.dev CNAME .
 votes-pollsokx-107.pages.dev CNAME .
+votes-pollsokx-108.pages.dev CNAME .
+votes-pollsokx-111.pages.dev CNAME .
+votes-pollsokx-112.pages.dev CNAME .
+votes-pollsokx-113.pages.dev CNAME .
+votes-pollsokx-114.pages.dev CNAME .
+votes-pollsokx-115.pages.dev CNAME .
+votes-pollsokx-116.pages.dev CNAME .
+votes-pollsokx-119.pages.dev CNAME .
+votes-pollsokx-120.pages.dev CNAME .
+votes-pollsokx-121.pages.dev CNAME .
 votes-pools.lat CNAME .
 votes-pools.trade CNAME .
 votes-predi.votings.workers.dev CNAME .
@@ -1026097,6 +1026246,7 @@ votings-3jane.xyz CNAME .
 votings-aster.com CNAME .
 votings-blast.com CNAME .
 votings-dexscreener.com CNAME .
+votings-embervalegame.com CNAME .
 votings-ethena.xyz CNAME .
 votings-ethenafi.xyz CNAME .
 votings-etherfi.xyz CNAME .
@@ -1032463,6 +1032613,7 @@ wallet.lazyonbase.com CNAME .
 wallet.ledger-connect.site CNAME .
 wallet.ledger.org.nz CNAME .
 wallet.livelikeacatnft.com CNAME .
+wallet.livesuite.it.com CNAME .
 wallet.lmfx.com CNAME .
 wallet.london CNAME .
 wallet.looms.io CNAME .
@@ -1052086,6 +1052237,7 @@ whatsapp-kingonlinebook-games.pages.dev CNAME .
 whatsapp-line.h5-whatapps.gd.cn CNAME .
 whatsapp-link-generator-weld.vercel.app CNAME .
 whatsapp-link-hub.com.cn CNAME .
+whatsapp-livecam-dt5.pages.dev CNAME .
 whatsapp-me.cn-chat-whatapps.gd.cn CNAME .
 whatsapp-me.pc-chat-whatsapps.hi.cn CNAME .
 whatsapp-mobile-hub.com.cn CNAME .
@@ -1052199,6 +1052351,7 @@ whatsappgroup.vercel.app CNAME .
 whatsappgu.com CNAME .
 whatsapph.com CNAME .
 whatsappidfs.duckdns.org CNAME .
+whatsappin.biz.id CNAME .
 whatsappjako.pages.dev CNAME .
 whatsappliveme.blogspot.com CNAME .
 whatsapplnfo.blogspot.com CNAME .
@@ -1052234,6 +1052387,7 @@ whatsappwpp.hk.cn CNAME .
 whatsappwr.com.cn CNAME .
 whatsappx.com CNAME .
 whatsappxx2026.binzaminrandow.site CNAME .
+whatsappxxx.pages.dev CNAME .
 whatsappz.web.id CNAME .
 whatsappzoeiras.blogspot.com CNAME .
 whatsaproteccionmx.fwh.is CNAME .
@@ -1077892,6 +1078046,7 @@ www.currencybonus.info CNAME .
 www.currently-com-fastweb-webser-srv-service-xfvdj94zboj-webserv.trustable.co.za CNAME .
 www.currentlymail003.weebly.com CNAME .
 www.cursos.ataloa.com CNAME .
+www.curve-finances.com CNAME .
 www.curvedga.com CNAME .
 www.curvefi.comairdrop.shop CNAME .
 www.curvefinance.us CNAME .
@@ -1117909,6 +1118064,7 @@ xn--trzor-jza.eu CNAME .
 xn--trzor-k0a.com CNAME .
 xn--trzor-k0a.eu CNAME .
 xn--trzor-k0a.io CNAME .
+xn--trzor-k0a.net CNAME .
 xn--trzor-k0a.org CNAME .
 xn--trzorwallet-3qb.com CNAME .
 xn--trzorwallet-3qb.net CNAME .
@@ -1137632,6 +1137788,7 @@ zoom-b1q.pages.dev CNAME .
 zoom-bs9.pages.dev CNAME .
 zoom-bushes-0u.workers.dev CNAME .
 zoom-c.com.cn CNAME .
+zoom-call.com CNAME .
 zoom-callinvite.com CNAME .
 zoom-cdn-production-environment.workers.dev CNAME .
 zoom-chat.online CNAME .
@@ -1137677,6 +1137834,7 @@ zoom-gpt.com CNAME .
 zoom-h.com.cn CNAME .
 zoom-help.click CNAME .
 zoom-help.com CNAME .
+zoom-host.su CNAME .
 zoom-howto.net CNAME .
 zoom-id.com CNAME .
 zoom-id.fun CNAME .
@@ -1138055,6 +1138213,7 @@ zoomconnectpro.com CNAME .
 zoomconnectsession.live CNAME .
 zoomconnectsupport.live CNAME .
 zoomconnet.online CNAME .
+zoomconneting-workspace.com CNAME .
 zoomcoolus.com CNAME .
 zoomcorp.org CNAME .
 zoomcorrp.ca CNAME .
@@ -1138224,6 +1138383,7 @@ zoominviite.pages.dev CNAME .
 zoominviite.top CNAME .
 zoominviites.us CNAME .
 zoominvitation.us CNAME .
+zoominvitationmeetingconnect.pw CNAME .
 zoominvite-9ld.pages.dev CNAME .
 zoominvite-meeting.live CNAME .
 zoominvite.cfd CNAME .
@@ -1138509,6 +1138669,7 @@ zoomsaccess.com CNAME .
 zoomsaleslink.co CNAME .
 zoomsaleslink.com CNAME .
 zoomschedule.top CNAME .
+zoomsconnect.com CNAME .
 zoomsconnectivity.com CNAME .
 zoomscontrolmods.com CNAME .
 zoomsdk.us CNAME .
@@ -1138763,6 +1138924,7 @@ zoorn-live.com CNAME .
 zoorn-lives.com CNAME .
 zoorn-meet.com CNAME .
 zoorn-meeting.com CNAME .
+zoorn-private-conference.com CNAME .
 zoorn-web.com CNAME .
 zoornapp.digital CNAME .
 zoornint.com CNAME .
