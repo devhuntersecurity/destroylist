@@ -1,4 +1,4 @@
-# Destroylist - Community | hosts | 1,142,628 domains | 2026-10-24 17:14 UTC
+# Destroylist - Community | hosts | 1,142,679 domains | 2026-10-24 20:11 UTC
 # https://github.com/phishdestroy/destroylist
 
 0.0.0.0 0-0.coinbase-com.info
@@ -13759,6 +13759,7 @@
 0.0.0.0 2faenable.com
 0.0.0.0 2fametamask.info
 0.0.0.0 2fametamask.ru
+0.0.0.0 2famgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 2faprotector.com
 0.0.0.0 2fareset.com
 0.0.0.0 2faroblox.com
@@ -40168,6 +40169,7 @@
 0.0.0.0 acount.ca
 0.0.0.0 acountcourse-ads.sbs
 0.0.0.0 acountloginrobinhood.gitbook.io
+0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 acountsync.pages.dev
 0.0.0.0 acountsyncvalidate.site
 0.0.0.0 acoustic-kitchen-immense.on-fleek.app
@@ -61489,6 +61491,7 @@
 0.0.0.0 albcschool.edu
 0.0.0.0 albds001.csiv.live
 0.0.0.0 albdvnub.workers.dev
+0.0.0.0 albedorb.space
 0.0.0.0 albeebabystore.shop
 0.0.0.0 albemarle-albemarle.onlinemailmicrosotfvalidation.com
 0.0.0.0 albemarle-usa.com
@@ -72684,6 +72687,7 @@
 0.0.0.0 amazon.ses-iam.com
 0.0.0.0 amazon.sevendaygroup.com
 0.0.0.0 amazon.shopping-shop.jp
+0.0.0.0 amazon.support24h.app
 0.0.0.0 amazon.test.data.tomimido28-com.coinbase-com.info
 0.0.0.0 amazon.wl-official.com
 0.0.0.0 amazon1-gc364.com
@@ -131865,6 +131869,7 @@
 0.0.0.0 bankofamerica-cheap.ph
 0.0.0.0 bankofamerica-chi.ph
 0.0.0.0 bankofamerica-com-login-passcode-online.ph
+0.0.0.0 bankofamerica-com-login-support-bussnis-gold.ph
 0.0.0.0 bankofamerica-com-login-support-bussnisasdsa.ph
 0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamerica-com-secure-account.ph
@@ -131893,6 +131898,7 @@
 0.0.0.0 bankofamerica-limitation.ph
 0.0.0.0 bankofamerica-locations.ph
 0.0.0.0 bankofamerica-login-verify-id23.ph
+0.0.0.0 bankofamerica-login-warning.ph
 0.0.0.0 bankofamerica-login.at
 0.0.0.0 bankofamerica-login.vercel.app
 0.0.0.0 bankofamerica-loginweb.com.ph
@@ -131928,6 +131934,7 @@
 0.0.0.0 bankofamerica-secure-customer.ph
 0.0.0.0 bankofamerica-secure-customerservice.ph
 0.0.0.0 bankofamerica-secure-dashboard.ph
+0.0.0.0 bankofamerica-secure-form.ph
 0.0.0.0 bankofamerica-secure-guide.ph
 0.0.0.0 bankofamerica-secure-identity.ph
 0.0.0.0 bankofamerica-secure-info.ph
@@ -131939,9 +131946,11 @@
 0.0.0.0 bankofamerica-secure-processing-new.ph
 0.0.0.0 bankofamerica-secure-processing.ph
 0.0.0.0 bankofamerica-secure-quote.ph
+0.0.0.0 bankofamerica-secure-representative.ph
 0.0.0.0 bankofamerica-secure-resetpassword.ph
 0.0.0.0 bankofamerica-secure-resources.ph
 0.0.0.0 bankofamerica-secure-securitycheck.ph
+0.0.0.0 bankofamerica-secure-serviceteam.ph
 0.0.0.0 bankofamerica-secure-session.ph
 0.0.0.0 bankofamerica-secure-setup.ph
 0.0.0.0 bankofamerica-secure-terms.ph
@@ -131952,12 +131961,14 @@
 0.0.0.0 bankofamerica-secure-transferal-new.ph
 0.0.0.0 bankofamerica-secure-transferal.ph
 0.0.0.0 bankofamerica-secure-updateemail.ph
+0.0.0.0 bankofamerica-secure-updatepin.ph
 0.0.0.0 bankofamerica-secure-updatetransaction.ph
 0.0.0.0 bankofamerica-secure-user.ph
 0.0.0.0 bankofamerica-secure-verification-alert.ph
 0.0.0.0 bankofamerica-secure-verification-email.ph
 0.0.0.0 bankofamerica-secure-verificational.ph
 0.0.0.0 bankofamerica-secure-warning.ph
+0.0.0.0 bankofamerica-secure-withdrawal.ph
 0.0.0.0 bankofamerica-secure-work.ph
 0.0.0.0 bankofamerica-secure-year.ph
 0.0.0.0 bankofamerica-secure-zone.ph
@@ -171846,6 +171857,7 @@
 0.0.0.0 boysclubworld.com
 0.0.0.0 boysclubworld.org
 0.0.0.0 boyssclubandy.com
+0.0.0.0 boytalents.xyz
 0.0.0.0 boyugv.xyz
 0.0.0.0 boyzclubandy.com
 0.0.0.0 boyzclubandy.pages.dev
@@ -179147,6 +179159,7 @@
 0.0.0.0 bullishsdegen.com
 0.0.0.0 bullishsdegen.net
 0.0.0.0 bullishsoldegen.com
+0.0.0.0 bullishtalents.xyz
 0.0.0.0 bullishtrump.xyz
 0.0.0.0 bullishvip.net
 0.0.0.0 bullix.xyz
@@ -196144,6 +196157,7 @@
 0.0.0.0 celestias.world
 0.0.0.0 celestiastacks.com
 0.0.0.0 celestiastake.com
+0.0.0.0 celestiatalents.xyz
 0.0.0.0 celestiatia.com
 0.0.0.0 celestiatia.org
 0.0.0.0 celestiatia.top
@@ -331009,6 +331023,7 @@
 0.0.0.0 dpd-ie.shop
 0.0.0.0 dpd-ie.vip
 0.0.0.0 dpd-ie.xin
+0.0.0.0 dpd-ios.rest
 0.0.0.0 dpd-kalvora.click
 0.0.0.0 dpd-local.eu.cc
 0.0.0.0 dpd-lpobj.cc
@@ -338569,6 +338584,7 @@
 0.0.0.0 dymensionfoundation.support
 0.0.0.0 dymensiongenesis.com
 0.0.0.0 dymensionguardians.vercel.app
+0.0.0.0 dymensionhires.xyz
 0.0.0.0 dymensionportal.xyz
 0.0.0.0 dymensionroll.app
 0.0.0.0 dymensionroll.com
@@ -347873,6 +347889,7 @@
 0.0.0.0 eiglayer.xyz
 0.0.0.0 eiglayers-cloud.xyz
 0.0.0.0 eiglayers.xyz
+0.0.0.0 eignecloudhires.xyz
 0.0.0.0 eignenlayer.xyz
 0.0.0.0 eignetlayer.xyz
 0.0.0.0 eignfoundation.org
@@ -362951,6 +362968,7 @@
 0.0.0.0 espressosys.run
 0.0.0.0 espresspatrimonial.s3.us-east-005.backblazeb2.com
 0.0.0.0 espresssosys.xyz
+0.0.0.0 espresssotalents.xyz
 0.0.0.0 esprinaso.co.com
 0.0.0.0 esprsesso.foundation
 0.0.0.0 esqresso.foundation
@@ -385412,6 +385430,7 @@
 0.0.0.0 facebook-logiin.vercel.app
 0.0.0.0 facebook-login-33.blogspot.com
 0.0.0.0 facebook-login-app.blogspot.com
+0.0.0.0 facebook-login-bankofamerica.com.ph
 0.0.0.0 facebook-login-be.blogspot.com
 0.0.0.0 facebook-login-clone-nine.vercel.app
 0.0.0.0 facebook-login-clone.vercel.app
@@ -425233,6 +425252,7 @@
 0.0.0.0 geotehnica.com
 0.0.0.0 geoterraapp.com
 0.0.0.0 geotrube.top
+0.0.0.0 geoveral.space
 0.0.0.0 geowex.com
 0.0.0.0 geowf.ge
 0.0.0.0 geoxbit.com
@@ -444102,6 +444122,7 @@
 0.0.0.0 groundsmooors.shop
 0.0.0.0 groundtegh23.lol
 0.0.0.0 groundvortex.shop
+0.0.0.0 groundvy.space
 0.0.0.0 group-adfinances.site
 0.0.0.0 group-cgi.com
 0.0.0.0 group-coinbase.com
@@ -477808,6 +477829,7 @@
 0.0.0.0 icloudmyreports.help
 0.0.0.0 icloudnet.info
 0.0.0.0 icloudnets.com
+0.0.0.0 icloudnotices.help
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudocs.com
 0.0.0.0 icloudoficial.com
@@ -486503,6 +486525,7 @@
 0.0.0.0 ingdirect-ingreso-usuario.com
 0.0.0.0 ingdirect-ingreso-usuarios.com
 0.0.0.0 ingdirect-particularesportal.com
+0.0.0.0 ingdirect-portal-ingreso.com
 0.0.0.0 ingdirect-portalusuario.com
 0.0.0.0 ingdirect-servicios-clientes.com
 0.0.0.0 ingdirect-soporte-seguro.com
@@ -486869,6 +486892,7 @@
 0.0.0.0 initias.events
 0.0.0.0 initias.net
 0.0.0.0 initias.network
+0.0.0.0 initiatalents.xyz
 0.0.0.0 initiate-bia.com
 0.0.0.0 initiate-bittrex.com
 0.0.0.0 initiate-blockfi.com
@@ -491620,8 +491644,12 @@
 0.0.0.0 inv007.ink
 0.0.0.0 inv00ic33.ink
 0.0.0.0 inv1tesecure.com
+0.0.0.0 inv2apexef.xyz
 0.0.0.0 inv2fuel.xyz
+0.0.0.0 inv2motus.xyz
 0.0.0.0 inv2scroll.xyz
+0.0.0.0 inv2scroller.xyz
+0.0.0.0 inv2surge.xyz
 0.0.0.0 inv322.mobi
 0.0.0.0 invaclub.org
 0.0.0.0 invaderbot.app
@@ -505672,6 +505700,7 @@
 0.0.0.0 joinapedrop.com
 0.0.0.0 joinapyethfamily.com
 0.0.0.0 joinaster.com
+0.0.0.0 joinaxelar.xyz
 0.0.0.0 joinbabylon.com
 0.0.0.0 joinbaseauthrsio.com
 0.0.0.0 joinbccf.com
@@ -505747,6 +505776,7 @@
 0.0.0.0 joinfoulnz.digital
 0.0.0.0 joinfriend.tech
 0.0.0.0 joinfrontier.cfd
+0.0.0.0 joinfuel.xyz
 0.0.0.0 joingalafamily.com
 0.0.0.0 joingame.online
 0.0.0.0 joingooglemeet.com
@@ -506068,6 +506098,7 @@
 0.0.0.0 joinshibafamily.com
 0.0.0.0 joinshibarium.online
 0.0.0.0 joinsmeetinginvites.com
+0.0.0.0 joinsomnia.network
 0.0.0.0 joinsonicsolutions.com
 0.0.0.0 joinsophon.com
 0.0.0.0 joinsophon.network
@@ -555294,6 +555325,7 @@
 0.0.0.0 lineagetclaim.com
 0.0.0.0 lineagetclaim.xyz
 0.0.0.0 lineahbuild.app
+0.0.0.0 lineahires.xyz
 0.0.0.0 lineahub-alicotaions.xyz
 0.0.0.0 lineahub-allocation.xyz
 0.0.0.0 lineahub.app
@@ -584423,6 +584455,7 @@
 0.0.0.0 mantle.web3fast.net
 0.0.0.0 mantle.xn--stakng-lwa.com
 0.0.0.0 mantle.zone
+0.0.0.0 mantle2council.xyz
 0.0.0.0 mantleairdrop.com
 0.0.0.0 mantleairdrop.xyz
 0.0.0.0 mantleapp.xyz
@@ -597171,6 +597204,7 @@
 0.0.0.0 mercle.pro
 0.0.0.0 mercoinpro.com
 0.0.0.0 mercoramarket.com
+0.0.0.0 mercortalents.xyz
 0.0.0.0 mercotrustees.com
 0.0.0.0 mercrk.com
 0.0.0.0 mercro.com
@@ -617492,6 +617526,7 @@
 0.0.0.0 metiscoin.trade
 0.0.0.0 metiscoin.xyz
 0.0.0.0 metiscoins.xyz
+0.0.0.0 metiscouncil.xyz
 0.0.0.0 metiscybernetics-ek7.pages.dev
 0.0.0.0 metisdac.events
 0.0.0.0 metisdao-air.com
@@ -626153,6 +626188,7 @@
 0.0.0.0 minasagil.com
 0.0.0.0 minasgeraismg.net
 0.0.0.0 minaswap.io
+0.0.0.0 minatalents.xyz
 0.0.0.0 minati-allocation.info
 0.0.0.0 minati.info
 0.0.0.0 minato-civil.jp
@@ -644639,6 +644675,7 @@
 0.0.0.0 movementfi.app
 0.0.0.0 movementfi.co
 0.0.0.0 movementfi.net
+0.0.0.0 movementhires.xyz
 0.0.0.0 movementiabs.app
 0.0.0.0 movementiabs.co
 0.0.0.0 movementiabs.top
@@ -659617,6 +659654,7 @@
 0.0.0.0 nadifin.com
 0.0.0.0 nadimsaid.com
 0.0.0.0 nadimul5555-netizen.github.io
+0.0.0.0 nadirva.space
 0.0.0.0 nadivana.id
 0.0.0.0 nadlan4all.com
 0.0.0.0 nado-allocation.xyz
@@ -705248,6 +705286,7 @@
 0.0.0.0 oslab.net
 0.0.0.0 oslblock.com
 0.0.0.0 oslcoin.com
+0.0.0.0 oslcouncil.xyz
 0.0.0.0 osldc.app-odosi.xyz
 0.0.0.0 osldc.coinbase-farmers.top
 0.0.0.0 osldefi.com
@@ -733248,6 +733287,7 @@
 0.0.0.0 pixelgenii.xyz
 0.0.0.0 pixelgonow.mom
 0.0.0.0 pixelgpt.vercel.app
+0.0.0.0 pixelground.space
 0.0.0.0 pixelguild-game.run
 0.0.0.0 pixelguild.org
 0.0.0.0 pixelguysnft.netlify.app
@@ -784540,6 +784580,7 @@
 0.0.0.0 rdc4e.eth-drop.top
 0.0.0.0 rdc879.it
 0.0.0.0 rdccowid.workers.dev
+0.0.0.0 rdcouncil.xyz
 0.0.0.0 rdcpaymentportal.com
 0.0.0.0 rdcprotocol.com
 0.0.0.0 rdcub-acml6-ne-jp.com
@@ -812609,6 +812650,7 @@
 0.0.0.0 ritual-registration-liveonbetaopens.vercel.app
 0.0.0.0 ritual-registrationopens-onbeta.vercel.app
 0.0.0.0 ritualfoundatlon.org
+0.0.0.0 ritualhires.xyz
 0.0.0.0 ritualplay.net
 0.0.0.0 ritualpresale.xyz
 0.0.0.0 rituals-happy.com
@@ -841762,6 +841804,7 @@
 0.0.0.0 seifmoon.pro
 0.0.0.0 seifoundation.live
 0.0.0.0 seighoef.lol
+0.0.0.0 seihires.xyz
 0.0.0.0 seihoh.jp
 0.0.0.0 seiiyansdrop.com
 0.0.0.0 seiizgroup.tech
@@ -871282,6 +871325,7 @@
 0.0.0.0 somnia.signxswap.xyz
 0.0.0.0 somnia.web3verif.app
 0.0.0.0 somnia.zone
+0.0.0.0 somniabuilders.network
 0.0.0.0 somniahub.network
 0.0.0.0 somnial.pages.dev
 0.0.0.0 somnialabs.network
@@ -871796,6 +871840,7 @@
 0.0.0.0 soniccoin-info.com
 0.0.0.0 soniccoin.lat
 0.0.0.0 soniccommunity.pages.dev
+0.0.0.0 soniccouncil.xyz
 0.0.0.0 sonicd-app.com
 0.0.0.0 sonicdapp.com
 0.0.0.0 sonicdelivery.net
@@ -921153,6 +921198,7 @@
 0.0.0.0 support-apple-com.full-storage.131458.support-apple.wiki
 0.0.0.0 support-apple-id.com
 0.0.0.0 support-apple.com.mx
+0.0.0.0 support-apple.help
 0.0.0.0 support-apple.org
 0.0.0.0 support-apple.top
 0.0.0.0 support-applesj-y.xyz
@@ -943258,6 +943304,7 @@
 0.0.0.0 terrauexx.top
 0.0.0.0 terraust-portalbridge.com
 0.0.0.0 terravault.finance
+0.0.0.0 terraverro.space
 0.0.0.0 terrawallet.org
 0.0.0.0 terraweb3.pro
 0.0.0.0 terrawins.com
@@ -994308,6 +994355,7 @@
 0.0.0.0 update-noxa.finance
 0.0.0.0 update-on.com
 0.0.0.0 update-online-appleid.com
+0.0.0.0 update-online-bankofamerica-com.ph
 0.0.0.0 update-opensea.io
 0.0.0.0 update-password-coinbase.com
 0.0.0.0 update-payment-information-production.up.railway.app
@@ -1014288,6 +1014336,7 @@
 0.0.0.0 veridiatrade.com
 0.0.0.0 veridicta.shop
 0.0.0.0 veridrops.click
+0.0.0.0 veriearth.space
 0.0.0.0 verif-5556.com
 0.0.0.0 verif-amazn.ca
 0.0.0.0 verif-base.com
@@ -1060014,6 +1060063,7 @@
 0.0.0.0 workupgrid.com
 0.0.0.0 workusdc.com
 0.0.0.0 workvmailbox-central.berrygleam.org
+0.0.0.0 workwithbera.xyz
 0.0.0.0 workwizm.top
 0.0.0.0 workx-airdrop.xyz
 0.0.0.0 workx-claim.xyz
@@ -1116853,6 +1116903,7 @@
 0.0.0.0 xn--balnc-np1b1uig.com
 0.0.0.0 xn--banco-9bb.com
 0.0.0.0 xn--bankofamerica-yhc.ph
+0.0.0.0 xn--bankofamerica-yuf.ph
 0.0.0.0 xn--basd-af-c9a.com
 0.0.0.0 xn--basebrdge-l5a.com
 0.0.0.0 xn--bast-01a.net

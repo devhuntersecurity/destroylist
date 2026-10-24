@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 156179,
+      "total_entries": 156181,
       "items": [
         {
           "domain": "pages.dev",
@@ -152012,7 +152012,7 @@
         },
         {
           "domain": "duckdns.org",
-          "count": 534,
+          "count": 536,
           "hosts": [
             "000www-formulario-davivienda-d1e419f4b.duckdns.org",
             "001122102120.duckdns.org",
@@ -152026,6 +152026,7 @@
             "1bzsaz8wnacy487vrg5jmdf3n0w1kcfge3j48gy1rmgh0b321u00h2a1144pju1.securityy-acooinwalletscoinbase.duckdns.org",
             "2124552556555690.duckdns.org",
             "2124552556555698.duckdns.org",
+            "2famgghvyv.bradesco.support.zaka25.duckdns.org",
             "32221x3de332.duckdns.org",
             "407e818c-086f-4a36-b2ac-bd8d354f1568.random.colnbase-2authencsupportcs.duckdns.org",
             "4927518362947153826497.duckdns.org",
@@ -152038,6 +152039,7 @@
             "abonnement-netflix.duckdns.org",
             "account-recovery-coinbaase.duckdns.org",
             "accounts-google-signin.duckdns.org",
+            "acounts-google.duckdns.org",
             "acupuncturecenterofaugusta-devis-signe-a.duckdns.org",
             "adobeevoiv.duckdns.org",
             "airdrop-web3.duckdns.org",
