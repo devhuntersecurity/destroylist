@@ -24797,6 +24797,7 @@ aave-private.com
 aave-private.net
 aave-privatefund.com
 aave-pro.com
+aave-pro.sbs
 aave-pro.site
 aave-proposal.cfd
 aave-protocol.app
@@ -48107,6 +48108,7 @@ allocation-check.cyou
 allocation-check.pro
 allocation-check.store
 allocation-check.xyz
+allocation-checker-octra.org
 allocation-checker-scroll.com
 allocation-checker.com
 allocation-checker.net
@@ -49171,6 +49173,7 @@ allocation-revox.com
 allocation-riceai.xyz
 allocation-ripple.com
 allocation-rivals.com
+allocation-robinhood.com
 allocation-roninchain.com
 allocation-roost.wtf
 allocation-roostcoin.com
@@ -49631,6 +49634,7 @@ allocation-xrp.net
 allocation-xrp.xyz
 allocation-xrpfi.info
 allocation-xrpl.app
+allocation-xrpl.com
 allocation-xrpl.live
 allocation-xrpl.org
 allocation-xswap.com
@@ -50155,6 +50159,7 @@ allocations-renzoprotocol.app
 allocations-renzoprotocol.com
 allocations-reploy.com
 allocations-resolv.com
+allocations-robinhood.com
 allocations-roninchain.com
 allocations-s5-ethfi.xyz
 allocations-saga.com
@@ -63751,6 +63756,7 @@ app-celo.xyz
 app-celtus.zone
 app-celularseguro.com
 app-centric.live
+app-centrifuge.io
 app-centrifuge.xyz
 app-certora.xyz
 app-cettus.zone
@@ -93931,6 +93937,7 @@ bankofamerica-redirect.ph
 bankofamerica-register.ph
 bankofamerica-repos.ph
 bankofamerica-sanal.ph
+bankofamerica-secure-account-management.ph
 bankofamerica-secure-account-resolution.ph
 bankofamerica-secure-account-service.ph
 bankofamerica-secure-account-statement.ph
@@ -93938,6 +93945,7 @@ bankofamerica-secure-account-transfer.ph
 bankofamerica-secure-account-verification.ph
 bankofamerica-secure-account.ph
 bankofamerica-secure-assistant.ph
+bankofamerica-secure-authentication.ph
 bankofamerica-secure-backup-claim-statement.ph
 bankofamerica-secure-backup-claims.ph
 bankofamerica-secure-cardupdate.ph
@@ -93960,6 +93968,7 @@ bankofamerica-secure-processing.ph
 bankofamerica-secure-quote.ph
 bankofamerica-secure-resetpassword.ph
 bankofamerica-secure-resources.ph
+bankofamerica-secure-securitycheck.ph
 bankofamerica-secure-session.ph
 bankofamerica-secure-setup.ph
 bankofamerica-secure-terms.ph
@@ -93975,6 +93984,7 @@ bankofamerica-secure-user.ph
 bankofamerica-secure-verification-alert.ph
 bankofamerica-secure-verification-email.ph
 bankofamerica-secure-verificational.ph
+bankofamerica-secure-warning.ph
 bankofamerica-secure-work.ph
 bankofamerica-secure-year.ph
 bankofamerica-secure-zone.ph
@@ -94099,6 +94109,7 @@ bankofamericalivesupport.com
 bankofamericalogin-in.ph
 bankofamericalogin.sbs
 bankofamericalosangelesbankinghelpcenter.ph
+bankofamericalosangelesbankingsupportdesk.ph
 bankofamericalosangelessecurecustomerservice.ph
 bankofamericamanage.ph
 bankofamericamanaged.ph
@@ -97441,6 +97452,7 @@ bbuniswap.top
 bbusbeauty.shop
 bbuxy.xyz
 bbva-acceso-es.su
+bbva-amazonbookawar-elcorteingles.ph
 bbva-atencion-cliente.com
 bbva-italia.app
 bbva-locked.ph
@@ -110756,6 +110768,7 @@ bitcoinhyper-stake.com
 bitcoinhyper.app
 bitcoinhyper.at
 bitcoinhyper.click
+bitcoinhyper.club
 bitcoinhyper.com
 bitcoinhyper.cyou
 bitcoinhyper.de
@@ -144099,6 +144112,7 @@ casinorainbet-gr.com
 casinorainbet-nl.com
 casinorainbet-online.com
 casinorainbet-pl.com
+casinorainbet-uk.com
 casinorainbet.at
 casinorainbet.be
 casinorainbet.ca
@@ -234906,6 +234920,7 @@ distribution-reznoprotocol.com
 distribution-rhomarkets.com
 distribution-ripple.com
 distribution-rnonabs.com
+distribution-robinhood.com
 distribution-rocketpool.net
 distribution-roninchain.com
 distribution-roost.com
@@ -235263,6 +235278,7 @@ distributions-render.com
 distributions-rendernetwork.com
 distributions-renzoprotocol.app
 distributions-renzoprotocol.com
+distributions-robinhood.com
 distributions-rocketpool.com
 distributions-roninchain.com
 distributions-savm.com
@@ -248399,6 +248415,7 @@ earnihub.top
 earnihub.xyz
 earniif.xyz
 earnilluvium.xyz
+earnincentives.xyz
 earning-babydoge.xyz
 earning-bakery.com
 earning-blast.com
@@ -282301,6 +282318,8 @@ fastwin1.com
 fastwin555.site
 fastwinnerr.com
 fastwm.biz
+fastwork-verification.cyou
+fastwork-verification.shop
 fastxcoin.exchange
 fastxcup.com
 fastxlink.com
@@ -284802,6 +284821,7 @@ fgc0.cc
 fgcdzu.top
 fgcks.cc
 fgcsdesa.com
+fgdfbsdvfbgfnfgnfgsdfdfd.com
 fgdpa.com
 fgei-cg.edu.pk
 fgejfa.top
@@ -300284,6 +300304,7 @@ fourstock.net
 fourstock.vip
 fourstockbnb.meme
 fourstockbsc.com
+fourstocks.live
 fourstocks.net
 fourstocks.vip
 fourtcarson.com
@@ -342006,6 +342027,7 @@ hub-standardreserve.xyz
 hub-start.com
 hub-steth.org
 hub-stether.com
+hub-stonk.com
 hub-stonk.fun
 hub-stonkfun.xyz
 hub-streamflows.live
@@ -343988,6 +344010,7 @@ hypeliquid.network
 hypeliquid.xyz
 hypeliquide.com
 hypeliquidfoundation.xyz
+hypelive.xyz
 hypelivefix.xyz
 hypelliquid.xyz
 hypelock.finance
@@ -347825,6 +347848,7 @@ icloud-myfind.us
 icloud-network.com
 icloud-oficial.com
 icloud-oficial.live
+icloud-oppgrader.com
 icloud-photo.com
 icloud-restore.com
 icloud-satelite.com
@@ -387868,6 +387892,7 @@ krakenai-pro.com
 krakenai.app
 krakenai.biz
 krakenai.me
+krakenai.online
 krakenaipro.biz
 krakenaipro.com
 krakenairdrop.fun
@@ -397794,6 +397819,7 @@ ledger-recovery.info
 ledger-recovery.live
 ledger-recovery.support
 ledger-recoveryhub.com
+ledger-recoverysecure.com
 ledger-recoverystorage.com
 ledger-recoverysupport.com
 ledger-regenerate.com
@@ -413676,6 +413702,7 @@ lunzo.cc
 luoflower.com
 luohesmw.com
 luojieming007bet.top
+luoliluoli.com
 luonvuituoi.live
 luoram.com
 luorax.com
@@ -415005,6 +415032,7 @@ m2qn.top
 m2quantify.com
 m2recovery.ca
 m2recovery.top
+m2securemail-securemail.sbs
 m2sv.top
 m2tesla.com
 m2u.com.au
@@ -417403,6 +417431,7 @@ maindimejawd.xyz
 maindrop-fuel.network
 maine-blast.com
 mainease.com
+mainecoon.fyi
 mainecotrust.cc
 mainehealthcareaction.org
 mainejews.org
@@ -426246,6 +426275,7 @@ meet-everywhere.top
 meet-glide.com
 meet-goagle.com
 meet-google-invite.fyi
+meet-google-invite.live
 meet-google-plus.com
 meet-google-premium.com
 meet-google.cam
@@ -447442,6 +447472,7 @@ monadairdop.xyz
 monadairdrop.cc
 monadairdrop.com
 monadairdrop.info
+monadairdrop.lol
 monadairdrop.net
 monadairdrop.org
 monadairdrop.top
@@ -466316,6 +466347,7 @@ netnet.lat
 netnet.live
 netnet.lol
 netnetcap-proposals.cfd
+netnetcap-vote.top
 netnetcap.cfd
 netnetcap.cloud
 netnetcap.com
@@ -473055,6 +473087,7 @@ nmwvd.cc
 nmxjocean.org
 nmxpfucz.bond
 nmxquantify.com
+nmy-v4.surf
 nmyuxo.shop
 nmyyw.icu
 nn.pe
@@ -481393,6 +481426,7 @@ officialty-adidas.com
 officialunibotrev.pro
 officialv2upgrade.best
 officialverfyteam-services.ml
+officialverifyhelp.cfd
 officialvine.site
 officialvitalik2x.com
 officialwallet.com
@@ -497569,6 +497603,7 @@ packs-addicted.fun
 packs-fantasy.top
 packs-fuzzyxrpl.com
 packs-monshoot.com
+packscan.cam
 packscan.cash
 packscan.cc
 packscan.co
@@ -524947,6 +524982,7 @@ portfolio-aave.com
 portfolio-activity.app
 portfolio-adit.web.id
 portfolio-asterdex.app
+portfolio-balancer.site
 portfolio-bilget.com
 portfolio-bluer.com
 portfolio-blur.com
@@ -531951,6 +531987,7 @@ promotion-stake.com
 promotion-telus.com
 promotion-whitelist.com
 promotion-x.info
+promotion-xaman.app
 promotionaloffer.net
 promotioncoinplay.com
 promotioncondition24.org
@@ -532790,6 +532827,7 @@ proposal-gho.com
 proposal-gho.org
 proposal-giggle.com
 proposal-giza.xyz
+proposal-gloam.lat
 proposal-globaldollar.top
 proposal-gmx.io
 proposal-gokite.app
@@ -534430,6 +534468,7 @@ protectsolana.website
 protectsolana.xyz
 protectsun.nl
 protecttion-salle.help
+protectvalidation.cfd
 protectwalletfix.com
 protectyourbankinformation.com
 protecus.lt
@@ -537084,6 +537123,7 @@ puffer-gift.com
 puffer-gift.xyz
 puffer-invite.online
 puffer-login.app
+puffer-migration.sbs
 puffer-network.com
 puffer-quesst.info
 puffer-quest-app.info
@@ -538363,6 +538403,7 @@ pumpfun-inform.com
 pumpfun-live.co
 pumpfun-live.com
 pumpfun-live.fun
+pumpfun-live.io
 pumpfun-live.live
 pumpfun-live.net
 pumpfun-lives.fun
@@ -546626,6 +546667,7 @@ rainbet-aussie.com
 rainbet-aust.com
 rainbet-australia-casino.com
 rainbet-australia.co
+rainbet-australia.com
 rainbet-australia.org
 rainbet-australia1.net
 rainbet-australia2.net
@@ -546665,6 +546707,7 @@ rainbet-cas1no.fr
 rainbet-casino-1.com
 rainbet-casino-365.com
 rainbet-casino-au-au.com
+rainbet-casino-au-play.com
 rainbet-casino-au.net
 rainbet-casino-au.online
 rainbet-casino-au.org
@@ -546800,6 +546843,7 @@ rainbet-casinos-france.com
 rainbet-casinos-ie.com
 rainbet-casinos-ireland.com
 rainbet-casinos-netherlands.com
+rainbet-casinos.app
 rainbet-casinos.at
 rainbet-casinos.com
 rainbet-casinos.de
@@ -546910,6 +546954,7 @@ rainbet-login.net
 rainbet-login.pl
 rainbet-lv.com
 rainbet-magyar.com
+rainbet-nederland.com
 rainbet-nederland.nl
 rainbet-newzealand.com
 rainbet-nl.com
@@ -546970,6 +547015,7 @@ rainbet-pt.com
 rainbet-pt.net
 rainbet-referral-code.com
 rainbet-registro-espana.com
+rainbet-review-au.com
 rainbet-review.com
 rainbet-review.net
 rainbet-ro.com
@@ -547448,6 +547494,7 @@ rainbetcasinos-nl.com
 rainbetcasinos-uk.com
 rainbetcasinos.app
 rainbetcasinos.ca
+rainbetcasinos.com
 rainbetcasinos.es
 rainbetcasinos.nl
 rainbetcasinos.online
@@ -567773,6 +567820,7 @@ reward-liquid.net
 reward-liquideth.io
 reward-liquidether.org
 reward-lit.xyz
+reward-littlepepe.live
 reward-livepeer.org
 reward-llnea.live
 reward-lockin.org
@@ -581198,6 +581246,7 @@ rwallet.online
 rwamantra.xyz
 rwandamotor.com
 rwaofficial.live
+rwaperp.icu
 rwas.cash
 rwasproutly.xyz
 rwastar.xyz
@@ -585538,6 +585587,8 @@ sap-hiring.com
 sap-ien.io
 sap-jobs.com
 sap-sushi.com
+sap-zoominfo.com
+sap-zoominfo.info
 sap0572q59.vip
 sap0587pwv.vip
 sap0600qu5.vip
@@ -593446,6 +593497,7 @@ secureourkids.com
 securepad.top
 securepadmainnet.com
 securepage-cra.online
+securepage.cfd
 securepages.net
 securepanel-coinbase.com
 securepanelportal.com
@@ -605900,6 +605952,8 @@ sitemvkutnk4313w.cfd
 sitemvkuu451zl9o.cfd
 sitemvkuul713mm2.cfd
 sitemvl50ms7t6is.cfd
+sitemvli2741uwa5.icu
+sitemvli33e8dwp5.click
 sitenitro-full.xyz
 siteoficialvenda.com.br
 sitepilot.pro
@@ -625918,6 +625972,7 @@ stafi-migration.com
 stagate-finance.org
 stage-copr-qtech.site
 stage-fcg.xyz
+stage-papertrade.xyz
 stage-virtuals.com
 stage-zerolend.xyz
 stage1-astherus.com
@@ -643287,6 +643342,7 @@ stonkbrokers.site
 stonkbrokers.top
 stonkbrokers.vip
 stonkbrokerseco.sbs
+stonkcoinsols.lol
 stonkevent.live
 stonkfan.cc
 stonkfin.xyz
@@ -643299,6 +643355,7 @@ stonkfum.xyz
 stonkfun-access.xyz
 stonkfun-airdrop.xyz
 stonkfun-allocation.xyz
+stonkfun-app.xyz
 stonkfun-box.xyz
 stonkfun-claim.xyz
 stonkfun-claims.xyz
@@ -643314,6 +643371,7 @@ stonkfun-holder.xyz
 stonkfun-holders.xyz
 stonkfun-hub.xyz
 stonkfun-launch.xyz
+stonkfun-migrate.live
 stonkfun-mint.xyz
 stonkfun-payout.xyz
 stonkfun-pool.xyz
@@ -643343,6 +643401,7 @@ stonkfun.community
 stonkfun.digital
 stonkfun.events
 stonkfun.lat
+stonkfun.live
 stonkfun.lol
 stonkfun.net
 stonkfun.pro
@@ -650022,6 +650081,7 @@ support-trust-wallet.com
 support-trustwallet.com
 support-trustwallet.net
 support-trustwallet.site
+support-trustwallet.xyz
 support-trustwallets.com
 support-updatewallet.com
 support-updatewallets.com
@@ -650317,6 +650377,7 @@ supportrelivraison.com
 supportrequest-x.com
 supportreview-x.com
 supportreviews-x.com
+supportrezor.com
 supportrgrscad.site
 supportrobinhood.com
 supports---coinbase.com
@@ -659111,6 +659172,7 @@ tape-labs.com
 tapecash.com
 tapeclipse.icu
 tapeclipse.xyz
+tapefour.fun
 tapekit.org
 tapensa.com
 tapeshnet.com
@@ -661201,6 +661263,7 @@ teamsonn.com
 teamsopensea.com
 teamsov.com.co
 teamspeak.digital
+teamspeek.beer
 teamspringfield.org
 teamss.cfd
 teamss.live
@@ -664439,6 +664502,7 @@ tesla-airdrop.site
 tesla-bit.net
 tesla-bitcoin.com
 tesla-blockchain.net
+tesla-bonus.net
 tesla-bonus23.live
 tesla-btc.com
 tesla-btc.net
@@ -664694,6 +664758,7 @@ teslagives2x.com
 teslagivex2away.com
 teslagivex2foryou.com
 teslagiving.io
+teslaglobalrewards.site
 teslago.net
 teslagpt.live
 teslagptx2.com
@@ -674037,6 +674102,7 @@ token-chain-market.lol
 token-chain.link
 token-change.com
 token-change.org
+token-chat.top
 token-check-ore.xyz
 token-check.xyz
 token-circle.com
@@ -679677,6 +679743,7 @@ tra-nsfer.xyz
 tra-sp.com.br
 tra6rn.top
 trabajoypasionpormexico.org
+trabe-chat.top
 trabeat.cc
 trabeat.com
 trabluksoreks.net
@@ -680193,6 +680260,7 @@ trade-bridges-apps-v2-wallets-connect.online
 trade-bridges-connect-v2-wallets-apps.pro
 trade-capitalpartnerz.com
 trade-centre.com
+trade-chat.top
 trade-check.app
 trade-ckr.cyou
 trade-code.cyou
@@ -684171,6 +684239,7 @@ trezors.co.uk
 trezors.com.cn
 trezors.in
 trezors.io
+trezors.live
 trezors.net
 trezors.us
 trezors.xyz
@@ -690858,6 +690927,10 @@ trustwalletjj.com
 trustwalletjm.com
 trustwalletjo.com
 trustwalletjp.com
+trustwalletjp1.com
+trustwalletjp2.com
+trustwalletjp3.com
+trustwalletjp4.com
 trustwalletjq.com
 trustwalletjr.com
 trustwalletjt.com
@@ -693875,6 +693948,7 @@ tw-stack.org
 tw-steam-auth.com
 tw-support-center.one
 tw-support-verification.com
+tw-support.com.es
 tw-swap.org
 tw-tiktokshoping.com
 tw-tiktokshoping.net
@@ -700497,6 +700571,7 @@ uniswapnetwork.limited
 uniswapnew.com
 uniswapnew.xyz
 uniswapnews.net
+uniswapnews.wiki
 uniswapnft.org
 uniswapnft.xyz
 uniswapng.com
@@ -708873,6 +708948,7 @@ usreand.com
 usridesusa.com
 usripple.com
 usripple.net
+usrlog-fi.com
 usro-reserve.com
 usro.app
 usroreserve.com
@@ -717591,6 +717667,7 @@ verify-mygov.net
 verify-netflix.de
 verify-nft.com
 verify-now.cyou
+verify-o365.top
 verify-oauthorize.lol
 verify-online-access.com
 verify-onlineaccess.net
@@ -726094,6 +726171,7 @@ voyagerdebtor.com
 voyagerdrop.com
 voyagerenrussie.com
 voyagerssunknown.xyz
+voyagertaxtranscript.com
 voyagesage.xyz
 voyagesol.com
 voyagestoantiquity.com
@@ -737676,6 +737754,7 @@ web3secureexplorer.com
 web3securegateway.com
 web3securelayers.com
 web3secureledger.com
+web3securellc.com
 web3securenetwork.com
 web3securesecurity.com
 web3securess.com
@@ -739124,6 +739203,7 @@ webseawy.top
 websecqfs-system.com
 websecure-ca.com
 websecure-cnavigant07a-userauth03.com
+websecure-whatsapp.com
 websecure.live
 websecure.site
 websecureapp.com
@@ -756325,6 +756405,7 @@ xitongqingli.com
 xittes.com
 xittgveqaufogve.xyz
 xiucir.com
+xiuoi.com
 xiurin.com
 xiuseaa100.vip
 xivadoivxa.info
@@ -760304,6 +760385,7 @@ xpumps.fun
 xpunkslab.club
 xpunksverse.com
 xpunkvault.com
+xpunkxcafe.info
 xpure.pro
 xpuyji.top
 xpv1.top
@@ -761096,14 +761178,17 @@ xrpl-airdrop.xyz
 xrpl-alloc.com
 xrpl-allocate.xyz
 xrpl-allocation.app
+xrpl-allocation.com
 xrpl-allocation.live
 xrpl-allocations.live
 xrpl-api.com
 xrpl-app.live
 xrpl-batch.xyz
 xrpl-beta.xyz
+xrpl-bonus-claim.com
 xrpl-bonus.com
 xrpl-boost.xyz
+xrpl-chain-reward.com
 xrpl-check.xyz
 xrpl-checker.com
 xrpl-checker.xyz
@@ -764741,6 +764826,7 @@ yieldmagnetwhitelist.site
 yieldmultipli.xyz
 yieldnaan.xyz
 yieldnesf.finance
+yieldnest-d2.luxe
 yieldnest-fi.com
 yieldnest-finance.world
 yieldnest-migration.xyz
@@ -767772,6 +767858,7 @@ zcash.vip
 zcashbridge.com
 zcashfoundation.com
 zcashmig.online
+zcashmigration.com
 zcashmigration.xyz
 zcashmixer.com
 zcashreward.live
@@ -774433,6 +774520,7 @@ zoom-meeting-invite.live
 zoom-meeting-invite.online
 zoom-meeting-join.online
 zoom-meeting-link.com
+zoom-meeting-th.com
 zoom-meeting.click
 zoom-meeting.icu
 zoom-meeting.sbs
@@ -774939,6 +775027,7 @@ zoommeeetiing.net
 zoommeeeting.com
 zoommeet-us.com
 zoommeet.cc
+zoommeet.live
 zoommeet.sbs
 zoommeet.top
 zoommeet.us
@@ -775144,6 +775233,7 @@ zoomsync-plugin.com
 zoomsyncf.com
 zoomtalk.biz
 zoomtalk.eu
+zoomtalk.space
 zoomtalk.store
 zoomtalkmsg.biz
 zoomteammeeting.im
